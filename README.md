@@ -24,6 +24,7 @@ YC_Analysis/
 │   └── yc_trends_analysis.R        ← R script for all charts in the article
 └── figures/
     ├── yc-industry-share.png        ← industry share over time (used in article)
+    ├── yc-tag-comp.png              ← industry tag over time 
     └── yc-tag-share.png             ← AI / fintech / crypto / robotics tag share over time
 ```
 
@@ -38,6 +39,10 @@ YC_Analysis/
 **Tag share over time:**
 
 ![YC tag share over time: AI & Agents rising from 20% to over 60%, fintech peaking in 2022 then halving, crypto near zero by 2025](figures/yc-tag-share.png)
+
+**Tag composition over time:**
+
+![YC tag composition over time: fintech and crypto cycles](figures/yc-tag-comp.png)
 
 Three shifts stand out across 6,020 companies and 50 batches:
 
