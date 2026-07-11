@@ -1,8 +1,8 @@
 # YC Trends Analysis
 
-Dataset, scripts, and analysis behind the article **[What 6,000 Y Combinator Startups Tell Us About Where Venture Attention Is Going](https://beyondswisspeaks.ch/YCTrends2026.html)** — a quantitative look at how Y Combinator's batch composition has shifted from 2005 to 2026.
+Dataset, scripts, and analysis behind the article **[What 6,000 Y Combinator Startups Tell Us About Where Venture Attention Is Going](https://beyondswisspeaks.ch/YCTrends2026.html)**, a quantitative look at how Y Combinator's batch composition has shifted from 2005 to 2026.
 
-Published by [Beyond Swiss Peaks](https://beyondswisspeaks.ch) · Simone Attanasio
+Published by [Beyond Swiss Peaks](https://beyondswisspeaks.ch) - Simone Attanasio
 
 ---
 
@@ -33,19 +33,19 @@ YC_Analysis/
 
 **Industry share over time:**
 
-![YC industry share over time — B2B rising to ~65%, consumer collapsing to ~5%, industrials tripling](figures/yc-industry-share.png)
+![YC industry share over time: B2B rising to ~65%, consumer collapsing to ~5%, industrials tripling](figures/yc-industry-share.png)
 
 **Tag share over time:**
 
-![YC tag share over time — AI & Agents rising from 20% to over 60%, fintech peaking in 2022 then halving, crypto near zero by 2025](figures/yc-tag-share.png)
+![YC tag share over time: AI & Agents rising from 20% to over 60%, fintech peaking in 2022 then halving, crypto near zero by 2025](figures/yc-tag-share.png)
 
 Three shifts stand out across 6,020 companies and 50 batches:
 
-- **AI went from theme to default.** From ~20% of each batch in Winter 2021 to over 60% by Winter 2024. "AI startup" is no longer a differentiator — it is the baseline.
+- **AI went from theme to default.** From ~20% of each batch in Winter 2021 to over 60% by Winter 2024. "AI startup" is no longer a differentiator, it is the baseline.
 - **Consumer startups nearly disappeared.** From ~33% of batches in 2012 to 4–6% in 2026. B2B broke a decade of stability at ~45% and now represents two thirds of every batch.
 - **Hard tech quietly tripled.** Industrials grew from a stable ~5% to 12–14% in 2026. Robotics-tagged companies in Winter 2026 alone outnumber several full years of earlier batches.
 
-Fintech and crypto already completed full hype cycles — both peaked around Winter 2022 and have since declined sharply, providing a base rate for how long sector dominance lasts at YC.
+Fintech and crypto already completed full hype cycles, both peaked around Winter 2022 and have since declined sharply, providing a base rate for how long sector dominance lasts at YC.
 
 ---
 
@@ -98,7 +98,7 @@ install.packages(c("tidyverse", "ggrepel"))
 
 ### `data/yc_batch_trends.csv`
 
-Pre-aggregated long-format table — one row per batch × dimension × value. Load directly into R or pandas for charting without further processing.
+Pre-aggregated long-format table, one row per batch × dimension × value. Load directly into R or pandas for charting without further processing.
 
 | Column | Description |
 |--------|-------------|
@@ -140,7 +140,7 @@ One row per company across all 50 batches. Key columns:
 
 ## Data source and methodology
 
-The base dataset comes from **[yc-oss/api](https://github.com/yc-oss/api)**, an open-source project that fetches Y Combinator's public company directory from YC's Algolia search index once a day and republishes it as static JSON files. This is not an official YC API — it mirrors publicly accessible data visible to anyone browsing [ycombinator.com/companies](https://www.ycombinator.com/companies).
+The base dataset comes from **[yc-oss/api](https://github.com/yc-oss/api)**, an open-source project that fetches Y Combinator's public company directory from YC's Algolia search index once a day and republishes it as static JSON files. This is not an official YC API, it mirrors publicly accessible data visible to anyone browsing [ycombinator.com/companies](https://www.ycombinator.com/companies).
 
 Founder names and job openings are scraped from individual company pages on ycombinator.com.
 
