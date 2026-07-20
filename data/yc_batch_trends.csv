@@ -489,17 +489,17 @@ Summer 2011,2011-07-01,60,industry,Recruiting and Talent,1,0.0167
 Summer 2011,2011-07-01,60,industry,Healthcare Services,1,0.0167
 Summer 2011,2011-07-01,60,industry,Security,1,0.0167
 Summer 2011,2011-07-01,60,region,America / Canada,59,0.9833
-Summer 2011,2011-07-01,60,region,United States of America,58,0.9667
+Summer 2011,2011-07-01,60,region,United States of America,57,0.95
 Summer 2011,2011-07-01,60,region,Remote,20,0.3333
 Summer 2011,2011-07-01,60,region,Partly Remote,13,0.2167
 Summer 2011,2011-07-01,60,region,Fully Remote,7,0.1167
 Summer 2011,2011-07-01,60,region,Europe,3,0.05
+Summer 2011,2011-07-01,60,region,Canada,2,0.0333
 Summer 2011,2011-07-01,60,region,Turkey,1,0.0167
 Summer 2011,2011-07-01,60,region,Netherlands,1,0.0167
 Summer 2011,2011-07-01,60,region,Middle East and North Africa,1,0.0167
 Summer 2011,2011-07-01,60,region,United Kingdom,1,0.0167
 Summer 2011,2011-07-01,60,region,Denmark,1,0.0167
-Summer 2011,2011-07-01,60,region,Canada,1,0.0167
 Summer 2011,2011-07-01,60,status,Acquired,26,0.4333
 Summer 2011,2011-07-01,60,status,Inactive,20,0.3333
 Summer 2011,2011-07-01,60,status,Active,14,0.2333
@@ -1031,19 +1031,18 @@ Winter 2014,2014-01-01,74,industry,Food and Beverage,1,0.0135
 Winter 2014,2014-01-01,74,industry,Manufacturing and Robotics,1,0.0135
 Winter 2014,2014-01-01,74,industry,Operations,1,0.0135
 Winter 2014,2014-01-01,74,industry,Credit and Lending,1,0.0135
-Winter 2014,2014-01-01,74,region,America / Canada,69,0.9324
-Winter 2014,2014-01-01,74,region,United States of America,64,0.8649
+Winter 2014,2014-01-01,74,region,America / Canada,70,0.9459
+Winter 2014,2014-01-01,74,region,United States of America,65,0.8784
 Winter 2014,2014-01-01,74,region,Remote,33,0.4459
 Winter 2014,2014-01-01,74,region,Partly Remote,21,0.2838
 Winter 2014,2014-01-01,74,region,Fully Remote,12,0.1622
+Winter 2014,2014-01-01,74,region,Europe,6,0.0811
 Winter 2014,2014-01-01,74,region,Canada,5,0.0676
-Winter 2014,2014-01-01,74,region,Europe,4,0.0541
+Winter 2014,2014-01-01,74,region,Portugal,2,0.027
 Winter 2014,2014-01-01,74,region,France,2,0.027
 Winter 2014,2014-01-01,74,region,United Kingdom,2,0.027
-Winter 2014,2014-01-01,74,region,India,1,0.0135
-Winter 2014,2014-01-01,74,region,South Asia,1,0.0135
+Winter 2014,2014-01-01,74,region,Slovenia,1,0.0135
 Winter 2014,2014-01-01,74,region,Unspecified,1,0.0135
-Winter 2014,2014-01-01,74,region,Portugal,1,0.0135
 Winter 2014,2014-01-01,74,region,Romania,1,0.0135
 Winter 2014,2014-01-01,74,region,Philippines,1,0.0135
 Winter 2014,2014-01-01,74,region,Southeast Asia,1,0.0135
@@ -1181,11 +1180,12 @@ Summer 2014,2014-07-01,78,region,Remote,32,0.4103
 Summer 2014,2014-07-01,78,region,Partly Remote,20,0.2564
 Summer 2014,2014-07-01,78,region,Fully Remote,12,0.1538
 Summer 2014,2014-07-01,78,region,Canada,7,0.0897
-Summer 2014,2014-07-01,78,region,Europe,5,0.0641
+Summer 2014,2014-07-01,78,region,Europe,6,0.0769
 Summer 2014,2014-07-01,78,region,Unspecified,3,0.0385
 Summer 2014,2014-07-01,78,region,United Kingdom,2,0.0256
 Summer 2014,2014-07-01,78,region,India,1,0.0128
 Summer 2014,2014-07-01,78,region,South Asia,1,0.0128
+Summer 2014,2014-07-01,78,region,Slovenia,1,0.0128
 Summer 2014,2014-07-01,78,region,France,1,0.0128
 Summer 2014,2014-07-01,78,region,Netherlands,1,0.0128
 Summer 2014,2014-07-01,78,region,Austria,1,0.0128
@@ -1326,8 +1326,8 @@ Winter 2015,2015-01-01,110,industry,Healthcare Services,1,0.0091
 Winter 2015,2015-01-01,110,industry,Climate,1,0.0091
 Winter 2015,2015-01-01,110,industry,Job and Career Services,1,0.0091
 Winter 2015,2015-01-01,110,industry,Drones,1,0.0091
-Winter 2015,2015-01-01,110,region,America / Canada,98,0.8909
-Winter 2015,2015-01-01,110,region,United States of America,94,0.8545
+Winter 2015,2015-01-01,110,region,America / Canada,99,0.9
+Winter 2015,2015-01-01,110,region,United States of America,95,0.8636
 Winter 2015,2015-01-01,110,region,Remote,66,0.6
 Winter 2015,2015-01-01,110,region,Partly Remote,41,0.3727
 Winter 2015,2015-01-01,110,region,Fully Remote,25,0.2273
@@ -1514,12 +1514,12 @@ Summer 2015,2015-07-01,104,industry,Housing and Real Estate,1,0.0096
 Summer 2015,2015-07-01,104,industry,Finance and Accounting,1,0.0096
 Summer 2015,2015-07-01,104,industry,Construction,1,0.0096
 Summer 2015,2015-07-01,104,industry,Sales,1,0.0096
-Summer 2015,2015-07-01,104,region,America / Canada,87,0.8365
-Summer 2015,2015-07-01,104,region,United States of America,85,0.8173
+Summer 2015,2015-07-01,104,region,America / Canada,86,0.8269
+Summer 2015,2015-07-01,104,region,United States of America,84,0.8077
 Summer 2015,2015-07-01,104,region,Remote,58,0.5577
 Summer 2015,2015-07-01,104,region,Partly Remote,37,0.3558
 Summer 2015,2015-07-01,104,region,Fully Remote,21,0.2019
-Summer 2015,2015-07-01,104,region,Europe,7,0.0673
+Summer 2015,2015-07-01,104,region,Europe,8,0.0769
 Summer 2015,2015-07-01,104,region,United Kingdom,5,0.0481
 Summer 2015,2015-07-01,104,region,South Asia,4,0.0385
 Summer 2015,2015-07-01,104,region,Canada,3,0.0288
@@ -1533,6 +1533,7 @@ Summer 2015,2015-07-01,104,region,Hong Kong,1,0.0096
 Summer 2015,2015-07-01,104,region,East Asia,1,0.0096
 Summer 2015,2015-07-01,104,region,Bangladesh,1,0.0096
 Summer 2015,2015-07-01,104,region,Israel,1,0.0096
+Summer 2015,2015-07-01,104,region,Spain,1,0.0096
 Summer 2015,2015-07-01,104,region,Senegal,1,0.0096
 Summer 2015,2015-07-01,104,region,Kenya,1,0.0096
 Summer 2015,2015-07-01,104,region,Nepal,1,0.0096
@@ -1540,9 +1541,9 @@ Summer 2015,2015-07-01,104,region,Sweden,1,0.0096
 Summer 2015,2015-07-01,104,region,Indonesia,1,0.0096
 Summer 2015,2015-07-01,104,region,Singapore,1,0.0096
 Summer 2015,2015-07-01,104,region,Turkey,1,0.0096
-Summer 2015,2015-07-01,104,status,Active,45,0.4327
+Summer 2015,2015-07-01,104,status,Active,44,0.4231
 Summer 2015,2015-07-01,104,status,Inactive,31,0.2981
-Summer 2015,2015-07-01,104,status,Acquired,28,0.2692
+Summer 2015,2015-07-01,104,status,Acquired,29,0.2788
 Summer 2015,2015-07-01,104,tag,SaaS,21,0.2019
 Summer 2015,2015-07-01,104,tag,Fintech,14,0.1346
 Summer 2015,2015-07-01,104,tag,Marketplace,9,0.0865
@@ -1683,20 +1684,20 @@ Winter 2016,2016-01-01,122,industry,Drug Discovery and Delivery,1,0.0082
 Winter 2016,2016-01-01,122,industry,Construction,1,0.0082
 Winter 2016,2016-01-01,122,industry,Consumer Finance,1,0.0082
 Winter 2016,2016-01-01,122,industry,Government,1,0.0082
-Winter 2016,2016-01-01,122,region,America / Canada,110,0.9016
-Winter 2016,2016-01-01,122,region,United States of America,107,0.877
+Winter 2016,2016-01-01,122,region,America / Canada,109,0.8934
+Winter 2016,2016-01-01,122,region,United States of America,106,0.8689
 Winter 2016,2016-01-01,122,region,Remote,64,0.5246
 Winter 2016,2016-01-01,122,region,Partly Remote,41,0.3361
 Winter 2016,2016-01-01,122,region,Fully Remote,23,0.1885
 Winter 2016,2016-01-01,122,region,Canada,4,0.0328
 Winter 2016,2016-01-01,122,region,Unspecified,3,0.0246
+Winter 2016,2016-01-01,122,region,Europe,3,0.0246
 Winter 2016,2016-01-01,122,region,India,3,0.0246
 Winter 2016,2016-01-01,122,region,South Asia,3,0.0246
-Winter 2016,2016-01-01,122,region,Europe,2,0.0164
-Winter 2016,2016-01-01,122,region,Middle East and North Africa,2,0.0164
+Winter 2016,2016-01-01,122,region,Middle East and North Africa,3,0.0246
+Winter 2016,2016-01-01,122,region,Egypt,2,0.0164
 Winter 2016,2016-01-01,122,region,Latin America,2,0.0164
 Winter 2016,2016-01-01,122,region,United Kingdom,1,0.0082
-Winter 2016,2016-01-01,122,region,Egypt,1,0.0082
 Winter 2016,2016-01-01,122,region,Hong Kong,1,0.0082
 Winter 2016,2016-01-01,122,region,East Asia,1,0.0082
 Winter 2016,2016-01-01,122,region,Nigeria,1,0.0082
@@ -1704,6 +1705,7 @@ Winter 2016,2016-01-01,122,region,Africa,1,0.0082
 Winter 2016,2016-01-01,122,region,Colombia,1,0.0082
 Winter 2016,2016-01-01,122,region,Israel,1,0.0082
 Winter 2016,2016-01-01,122,region,Denmark,1,0.0082
+Winter 2016,2016-01-01,122,region,Norway,1,0.0082
 Winter 2016,2016-01-01,122,region,Mexico,1,0.0082
 Winter 2016,2016-01-01,122,status,Active,58,0.4754
 Winter 2016,2016-01-01,122,status,Inactive,40,0.3279
@@ -2104,16 +2106,16 @@ Winter 2017,2017-01-01,116,status,Active,54,0.4655
 Winter 2017,2017-01-01,116,status,Inactive,33,0.2845
 Winter 2017,2017-01-01,116,status,Acquired,29,0.25
 Winter 2017,2017-01-01,116,tag,Fintech,14,0.1207
-Winter 2017,2017-01-01,116,tag,Artificial Intelligence,13,0.1121
+Winter 2017,2017-01-01,116,tag,Artificial Intelligence,14,0.1207
 Winter 2017,2017-01-01,116,tag,SaaS,12,0.1034
 Winter 2017,2017-01-01,116,tag,B2B,11,0.0948
 Winter 2017,2017-01-01,116,tag,Marketplace,10,0.0862
 Winter 2017,2017-01-01,116,tag,Health Tech,7,0.0603
 Winter 2017,2017-01-01,116,tag,Healthcare,7,0.0603
 Winter 2017,2017-01-01,116,tag,Hardware,6,0.0517
-Winter 2017,2017-01-01,116,tag,AI,5,0.0431
 Winter 2017,2017-01-01,116,tag,IoT,5,0.0431
 Winter 2017,2017-01-01,116,tag,Nonprofit,4,0.0345
+Winter 2017,2017-01-01,116,tag,AI,4,0.0345
 Winter 2017,2017-01-01,116,tag,Developer Tools,4,0.0345
 Winter 2017,2017-01-01,116,tag,Consumer Health Services,4,0.0345
 Winter 2017,2017-01-01,116,tag,Machine Learning,4,0.0345
@@ -2257,10 +2259,10 @@ Summer 2017,2017-07-01,125,industry,Credit and Lending,2,0.016
 Summer 2017,2017-07-01,125,industry,Transportation Services,2,0.016
 Summer 2017,2017-07-01,125,industry,Agriculture,2,0.016
 Summer 2017,2017-07-01,125,industry,Virtual and Augmented Reality,2,0.016
+Summer 2017,2017-07-01,125,industry,Marketing,2,0.016
 Summer 2017,2017-07-01,125,industry,Automotive,2,0.016
 Summer 2017,2017-07-01,125,industry,Job and Career Services,2,0.016
 Summer 2017,2017-07-01,125,industry,Energy,2,0.016
-Summer 2017,2017-07-01,125,industry,Sales,2,0.016
 Summer 2017,2017-07-01,125,industry,Drones,2,0.016
 Summer 2017,2017-07-01,125,industry,Infrastructure,1,0.008
 Summer 2017,2017-07-01,125,industry,Consumer Electronics,1,0.008
@@ -2268,26 +2270,26 @@ Summer 2017,2017-07-01,125,industry,Supply Chain and Logistics,1,0.008
 Summer 2017,2017-07-01,125,industry,Therapeutics,1,0.008
 Summer 2017,2017-07-01,125,industry,Medical Devices,1,0.008
 Summer 2017,2017-07-01,125,industry,Consumer Finance,1,0.008
-Summer 2017,2017-07-01,125,industry,Marketing,1,0.008
 Summer 2017,2017-07-01,125,industry,Banking and Exchange,1,0.008
 Summer 2017,2017-07-01,125,industry,Operations,1,0.008
 Summer 2017,2017-07-01,125,industry,Asset Management,1,0.008
 Summer 2017,2017-07-01,125,industry,Finance and Accounting,1,0.008
 Summer 2017,2017-07-01,125,industry,Manufacturing and Robotics,1,0.008
+Summer 2017,2017-07-01,125,industry,Sales,1,0.008
 Summer 2017,2017-07-01,125,industry,"Travel, Leisure and Tourism",1,0.008
 Summer 2017,2017-07-01,125,industry,Analytics,1,0.008
-Summer 2017,2017-07-01,125,region,America / Canada,95,0.76
-Summer 2017,2017-07-01,125,region,United States of America,92,0.736
+Summer 2017,2017-07-01,125,region,America / Canada,96,0.768
+Summer 2017,2017-07-01,125,region,United States of America,93,0.744
 Summer 2017,2017-07-01,125,region,Remote,63,0.504
-Summer 2017,2017-07-01,125,region,Partly Remote,36,0.288
-Summer 2017,2017-07-01,125,region,Fully Remote,27,0.216
+Summer 2017,2017-07-01,125,region,Partly Remote,35,0.28
+Summer 2017,2017-07-01,125,region,Fully Remote,28,0.224
 Summer 2017,2017-07-01,125,region,Europe,11,0.088
 Summer 2017,2017-07-01,125,region,United Kingdom,7,0.056
 Summer 2017,2017-07-01,125,region,India,6,0.048
 Summer 2017,2017-07-01,125,region,South Asia,6,0.048
+Summer 2017,2017-07-01,125,region,Canada,4,0.032
 Summer 2017,2017-07-01,125,region,Latin America,3,0.024
 Summer 2017,2017-07-01,125,region,Africa,3,0.024
-Summer 2017,2017-07-01,125,region,Canada,3,0.024
 Summer 2017,2017-07-01,125,region,France,2,0.016
 Summer 2017,2017-07-01,125,region,Unspecified,2,0.016
 Summer 2017,2017-07-01,125,region,Israel,2,0.016
@@ -2362,6 +2364,7 @@ Summer 2017,2017-07-01,125,tag,Customer Service,2,0.016
 Summer 2017,2017-07-01,125,tag,Banking as a Service,2,0.016
 Summer 2017,2017-07-01,125,tag,Transportation,2,0.016
 Summer 2017,2017-07-01,125,tag,Proptech,2,0.016
+Summer 2017,2017-07-01,125,tag,Marketing,2,0.016
 Summer 2017,2017-07-01,125,tag,Security,2,0.016
 Summer 2017,2017-07-01,125,tag,Energy,1,0.008
 Summer 2017,2017-07-01,125,tag,Fashion,1,0.008
@@ -2408,7 +2411,6 @@ Summer 2017,2017-07-01,125,tag,Sustainable Fashion,1,0.008
 Summer 2017,2017-07-01,125,tag,Air Taxis,1,0.008
 Summer 2017,2017-07-01,125,tag,Computer Vision,1,0.008
 Summer 2017,2017-07-01,125,tag,ML,1,0.008
-Summer 2017,2017-07-01,125,tag,Marketing,1,0.008
 Summer 2017,2017-07-01,125,tag,Email,1,0.008
 Summer 2017,2017-07-01,125,tag,Housing,1,0.008
 Summer 2017,2017-07-01,125,tag,Travel,1,0.008
@@ -2502,20 +2504,20 @@ Winter 2018,2018-01-01,146,region,Germany,1,0.0068
 Winter 2018,2018-01-01,146,region,Indonesia,1,0.0068
 Winter 2018,2018-01-01,146,region,Estonia,1,0.0068
 Winter 2018,2018-01-01,146,region,Spain,1,0.0068
-Winter 2018,2018-01-01,146,status,Active,80,0.5479
-Winter 2018,2018-01-01,146,status,Inactive,36,0.2466
+Winter 2018,2018-01-01,146,status,Active,79,0.5411
+Winter 2018,2018-01-01,146,status,Inactive,37,0.2534
 Winter 2018,2018-01-01,146,status,Acquired,29,0.1986
 Winter 2018,2018-01-01,146,status,Public,1,0.0068
 Winter 2018,2018-01-01,146,tag,SaaS,20,0.137
 Winter 2018,2018-01-01,146,tag,Fintech,17,0.1164
 Winter 2018,2018-01-01,146,tag,B2B,17,0.1164
-Winter 2018,2018-01-01,146,tag,Artificial Intelligence,14,0.0959
+Winter 2018,2018-01-01,146,tag,Artificial Intelligence,13,0.089
 Winter 2018,2018-01-01,146,tag,Consumer,9,0.0616
 Winter 2018,2018-01-01,146,tag,Machine Learning,9,0.0616
 Winter 2018,2018-01-01,146,tag,E-commerce,8,0.0548
+Winter 2018,2018-01-01,146,tag,AI,8,0.0548
 Winter 2018,2018-01-01,146,tag,Marketplace,8,0.0548
 Winter 2018,2018-01-01,146,tag,Health Tech,7,0.0479
-Winter 2018,2018-01-01,146,tag,AI,7,0.0479
 Winter 2018,2018-01-01,146,tag,Education,6,0.0411
 Winter 2018,2018-01-01,146,tag,Crypto / Web3,6,0.0411
 Winter 2018,2018-01-01,146,tag,Design Tools,6,0.0411
@@ -2684,8 +2686,8 @@ Summer 2018,2018-07-01,131,industry,Aviation and Space,1,0.0076
 Summer 2018,2018-07-01,131,industry,Sales,1,0.0076
 Summer 2018,2018-07-01,131,industry,Credit and Lending,1,0.0076
 Summer 2018,2018-07-01,131,industry,Legal,1,0.0076
-Summer 2018,2018-07-01,131,region,America / Canada,102,0.7786
-Summer 2018,2018-07-01,131,region,United States of America,99,0.7557
+Summer 2018,2018-07-01,131,region,America / Canada,104,0.7939
+Summer 2018,2018-07-01,131,region,United States of America,100,0.7634
 Summer 2018,2018-07-01,131,region,Remote,92,0.7023
 Summer 2018,2018-07-01,131,region,Partly Remote,65,0.4962
 Summer 2018,2018-07-01,131,region,Fully Remote,27,0.2061
@@ -2697,7 +2699,6 @@ Summer 2018,2018-07-01,131,region,Middle East and North Africa,4,0.0305
 Summer 2018,2018-07-01,131,region,Canada,4,0.0305
 Summer 2018,2018-07-01,131,region,India,4,0.0305
 Summer 2018,2018-07-01,131,region,South Asia,4,0.0305
-Summer 2018,2018-07-01,131,region,Unspecified,3,0.0229
 Summer 2018,2018-07-01,131,region,Nigeria,3,0.0229
 Summer 2018,2018-07-01,131,region,Africa,3,0.0229
 Summer 2018,2018-07-01,131,region,Southeast Asia,2,0.0153
@@ -2707,6 +2708,7 @@ Summer 2018,2018-07-01,131,region,Indonesia,1,0.0076
 Summer 2018,2018-07-01,131,region,Singapore,1,0.0076
 Summer 2018,2018-07-01,131,region,Puerto Rico,1,0.0076
 Summer 2018,2018-07-01,131,region,Portugal,1,0.0076
+Summer 2018,2018-07-01,131,region,Unspecified,1,0.0076
 Summer 2018,2018-07-01,131,region,Germany,1,0.0076
 Summer 2018,2018-07-01,131,region,China,1,0.0076
 Summer 2018,2018-07-01,131,region,East Asia,1,0.0076
@@ -2873,6 +2875,7 @@ Winter 2019,2019-01-01,195,industry,Productivity,7,0.0359
 Winter 2019,2019-01-01,195,industry,Home and Personal,5,0.0256
 Winter 2019,2019-01-01,195,industry,Manufacturing and Robotics,5,0.0256
 Winter 2019,2019-01-01,195,industry,Sales,5,0.0256
+Winter 2019,2019-01-01,195,industry,Healthcare IT,5,0.0256
 Winter 2019,2019-01-01,195,industry,Real Estate and Construction,5,0.0256
 Winter 2019,2019-01-01,195,industry,Credit and Lending,4,0.0205
 Winter 2019,2019-01-01,195,industry,Social,4,0.0205
@@ -2880,14 +2883,12 @@ Winter 2019,2019-01-01,195,industry,Banking and Exchange,4,0.0205
 Winter 2019,2019-01-01,195,industry,Consumer Finance,4,0.0205
 Winter 2019,2019-01-01,195,industry,Gaming,4,0.0205
 Winter 2019,2019-01-01,195,industry,Diagnostics,4,0.0205
-Winter 2019,2019-01-01,195,industry,Healthcare IT,4,0.0205
 Winter 2019,2019-01-01,195,industry,Content,4,0.0205
 Winter 2019,2019-01-01,195,industry,Housing and Real Estate,4,0.0205
 Winter 2019,2019-01-01,195,industry,Consumer Health and Wellness,3,0.0154
 Winter 2019,2019-01-01,195,industry,Retail,3,0.0154
 Winter 2019,2019-01-01,195,industry,Analytics,3,0.0154
 Winter 2019,2019-01-01,195,industry,"Travel, Leisure and Tourism",3,0.0154
-Winter 2019,2019-01-01,195,industry,Healthcare Services,3,0.0154
 Winter 2019,2019-01-01,195,industry,Payments,3,0.0154
 Winter 2019,2019-01-01,195,industry,Finance and Accounting,3,0.0154
 Winter 2019,2019-01-01,195,industry,Security,3,0.0154
@@ -2901,6 +2902,7 @@ Winter 2019,2019-01-01,195,industry,Human Resources,2,0.0103
 Winter 2019,2019-01-01,195,industry,Energy,2,0.0103
 Winter 2019,2019-01-01,195,industry,Office Management,2,0.0103
 Winter 2019,2019-01-01,195,industry,Asset Management,2,0.0103
+Winter 2019,2019-01-01,195,industry,Healthcare Services,2,0.0103
 Winter 2019,2019-01-01,195,industry,Government,2,0.0103
 Winter 2019,2019-01-01,195,industry,Industrial Bio,2,0.0103
 Winter 2019,2019-01-01,195,industry,Virtual and Augmented Reality,1,0.0051
@@ -2910,8 +2912,8 @@ Winter 2019,2019-01-01,195,industry,Apparel and Cosmetics,1,0.0051
 Winter 2019,2019-01-01,195,industry,Transportation Services,1,0.0051
 Winter 2019,2019-01-01,195,industry,Agriculture,1,0.0051
 Winter 2019,2019-01-01,195,industry,Medical Devices,1,0.0051
-Winter 2019,2019-01-01,195,region,America / Canada,146,0.7487
-Winter 2019,2019-01-01,195,region,United States of America,141,0.7231
+Winter 2019,2019-01-01,195,region,America / Canada,145,0.7436
+Winter 2019,2019-01-01,195,region,United States of America,140,0.7179
 Winter 2019,2019-01-01,195,region,Remote,125,0.641
 Winter 2019,2019-01-01,195,region,Partly Remote,70,0.359
 Winter 2019,2019-01-01,195,region,Fully Remote,55,0.2821
@@ -2919,20 +2921,21 @@ Winter 2019,2019-01-01,195,region,Europe,15,0.0769
 Winter 2019,2019-01-01,195,region,India,10,0.0513
 Winter 2019,2019-01-01,195,region,South Asia,10,0.0513
 Winter 2019,2019-01-01,195,region,Latin America,9,0.0462
-Winter 2019,2019-01-01,195,region,United Kingdom,8,0.041
+Winter 2019,2019-01-01,195,region,United Kingdom,7,0.0359
 Winter 2019,2019-01-01,195,region,Africa,6,0.0308
 Winter 2019,2019-01-01,195,region,Canada,6,0.0308
 Winter 2019,2019-01-01,195,region,Nigeria,5,0.0256
 Winter 2019,2019-01-01,195,region,Southeast Asia,5,0.0256
-Winter 2019,2019-01-01,195,region,East Asia,4,0.0205
-Winter 2019,2019-01-01,195,region,China,3,0.0154
 Winter 2019,2019-01-01,195,region,Germany,3,0.0154
 Winter 2019,2019-01-01,195,region,Argentina,3,0.0154
 Winter 2019,2019-01-01,195,region,Middle East and North Africa,3,0.0154
+Winter 2019,2019-01-01,195,region,East Asia,3,0.0154
 Winter 2019,2019-01-01,195,region,Singapore,3,0.0154
+Winter 2019,2019-01-01,195,region,Portugal,2,0.0103
 Winter 2019,2019-01-01,195,region,Colombia,2,0.0103
 Winter 2019,2019-01-01,195,region,Israel,2,0.0103
 Winter 2019,2019-01-01,195,region,Brazil,2,0.0103
+Winter 2019,2019-01-01,195,region,China,2,0.0103
 Winter 2019,2019-01-01,195,region,Unspecified,2,0.0103
 Winter 2019,2019-01-01,195,region,Malaysia,1,0.0051
 Winter 2019,2019-01-01,195,region,Iceland,1,0.0051
@@ -2940,7 +2943,6 @@ Winter 2019,2019-01-01,195,region,Ukraine,1,0.0051
 Winter 2019,2019-01-01,195,region,Panama,1,0.0051
 Winter 2019,2019-01-01,195,region,France,1,0.0051
 Winter 2019,2019-01-01,195,region,Uruguay,1,0.0051
-Winter 2019,2019-01-01,195,region,Portugal,1,0.0051
 Winter 2019,2019-01-01,195,region,Seychelles,1,0.0051
 Winter 2019,2019-01-01,195,region,Peru,1,0.0051
 Winter 2019,2019-01-01,195,region,Iraq,1,0.0051
@@ -2950,16 +2952,16 @@ Winter 2019,2019-01-01,195,region,Greece,1,0.0051
 Winter 2019,2019-01-01,195,region,Mexico,1,0.0051
 Winter 2019,2019-01-01,195,region,Indonesia,1,0.0051
 Winter 2019,2019-01-01,195,region,Czechia,1,0.0051
-Winter 2019,2019-01-01,195,status,Active,121,0.6205
-Winter 2019,2019-01-01,195,status,Inactive,41,0.2103
+Winter 2019,2019-01-01,195,status,Active,120,0.6154
+Winter 2019,2019-01-01,195,status,Inactive,42,0.2154
 Winter 2019,2019-01-01,195,status,Acquired,33,0.1692
 Winter 2019,2019-01-01,195,tag,SaaS,36,0.1846
 Winter 2019,2019-01-01,195,tag,B2B,28,0.1436
 Winter 2019,2019-01-01,195,tag,Fintech,26,0.1333
-Winter 2019,2019-01-01,195,tag,Artificial Intelligence,18,0.0923
+Winter 2019,2019-01-01,195,tag,Artificial Intelligence,17,0.0872
 Winter 2019,2019-01-01,195,tag,Developer Tools,15,0.0769
+Winter 2019,2019-01-01,195,tag,AI,12,0.0615
 Winter 2019,2019-01-01,195,tag,Marketplace,12,0.0615
-Winter 2019,2019-01-01,195,tag,AI,11,0.0564
 Winter 2019,2019-01-01,195,tag,Consumer,10,0.0513
 Winter 2019,2019-01-01,195,tag,Education,9,0.0462
 Winter 2019,2019-01-01,195,tag,Climate,9,0.0462
@@ -3181,7 +3183,7 @@ Summer 2019,2019-07-01,176,region,United States of America,126,0.7159
 Summer 2019,2019-07-01,176,region,Partly Remote,87,0.4943
 Summer 2019,2019-07-01,176,region,Fully Remote,48,0.2727
 Summer 2019,2019-07-01,176,region,Latin America,14,0.0795
-Summer 2019,2019-07-01,176,region,Europe,12,0.0682
+Summer 2019,2019-07-01,176,region,Europe,13,0.0739
 Summer 2019,2019-07-01,176,region,India,11,0.0625
 Summer 2019,2019-07-01,176,region,South Asia,11,0.0625
 Summer 2019,2019-07-01,176,region,Canada,8,0.0455
@@ -3198,6 +3200,7 @@ Summer 2019,2019-07-01,176,region,Brazil,2,0.0114
 Summer 2019,2019-07-01,176,region,Peru,1,0.0057
 Summer 2019,2019-07-01,176,region,Indonesia,1,0.0057
 Summer 2019,2019-07-01,176,region,Singapore,1,0.0057
+Summer 2019,2019-07-01,176,region,Spain,1,0.0057
 Summer 2019,2019-07-01,176,region,Australia,1,0.0057
 Summer 2019,2019-07-01,176,region,Oceania,1,0.0057
 Summer 2019,2019-07-01,176,region,Kyrgyzstan,1,0.0057
@@ -3221,8 +3224,8 @@ Summer 2019,2019-07-01,176,tag,AI,9,0.0511
 Summer 2019,2019-07-01,176,tag,Education,8,0.0455
 Summer 2019,2019-07-01,176,tag,Machine Learning,8,0.0455
 Summer 2019,2019-07-01,176,tag,Open Source,7,0.0398
-Summer 2019,2019-07-01,176,tag,Crypto / Web3,7,0.0398
 Summer 2019,2019-07-01,176,tag,Consumer Health Services,6,0.0341
+Summer 2019,2019-07-01,176,tag,Crypto / Web3,6,0.0341
 Summer 2019,2019-07-01,176,tag,Health Tech,5,0.0284
 Summer 2019,2019-07-01,176,tag,Digital Health,5,0.0284
 Summer 2019,2019-07-01,176,tag,Analytics,5,0.0284
@@ -3241,6 +3244,7 @@ Summer 2019,2019-07-01,176,tag,Healthcare,4,0.0227
 Summer 2019,2019-07-01,176,tag,Climate,4,0.0227
 Summer 2019,2019-07-01,176,tag,Hard Tech,4,0.0227
 Summer 2019,2019-07-01,176,tag,Gaming,4,0.0227
+Summer 2019,2019-07-01,176,tag,GovTech,4,0.0227
 Summer 2019,2019-07-01,176,tag,Generative AI,4,0.0227
 Summer 2019,2019-07-01,176,tag,Finance,3,0.017
 Summer 2019,2019-07-01,176,tag,Enterprise Software,3,0.017
@@ -3250,7 +3254,6 @@ Summer 2019,2019-07-01,176,tag,Grocery,3,0.017
 Summer 2019,2019-07-01,176,tag,Latin America,3,0.017
 Summer 2019,2019-07-01,176,tag,Media,3,0.017
 Summer 2019,2019-07-01,176,tag,Community,3,0.017
-Summer 2019,2019-07-01,176,tag,GovTech,3,0.017
 Summer 2019,2019-07-01,176,tag,India,3,0.017
 Summer 2019,2019-07-01,176,tag,Robotics,3,0.017
 Summer 2019,2019-07-01,176,tag,Deep Learning,2,0.0114
@@ -3266,6 +3269,8 @@ Summer 2019,2019-07-01,176,tag,Food Tech,2,0.0114
 Summer 2019,2019-07-01,176,tag,Productivity,2,0.0114
 Summer 2019,2019-07-01,176,tag,CRM,2,0.0114
 Summer 2019,2019-07-01,176,tag,Therapeutics,2,0.0114
+Summer 2019,2019-07-01,176,tag,Entertainment,2,0.0114
+Summer 2019,2019-07-01,176,tag,AI Assistant,2,0.0114
 Summer 2019,2019-07-01,176,tag,Women's Health,2,0.0114
 Summer 2019,2019-07-01,176,tag,Fashion,2,0.0114
 Summer 2019,2019-07-01,176,tag,HR Tech,2,0.0114
@@ -3281,8 +3286,6 @@ Summer 2019,2019-07-01,176,tag,Immigration,2,0.0114
 Summer 2019,2019-07-01,176,tag,Retail,2,0.0114
 Summer 2019,2019-07-01,176,tag,Restaurant Tech,2,0.0114
 Summer 2019,2019-07-01,176,tag,Virtual Reality,2,0.0114
-Summer 2019,2019-07-01,176,tag,Entertainment,2,0.0114
-Summer 2019,2019-07-01,176,tag,AI Assistant,2,0.0114
 Summer 2019,2019-07-01,176,tag,Design Tools,2,0.0114
 Summer 2019,2019-07-01,176,tag,Neurotechnology,2,0.0114
 Summer 2019,2019-07-01,176,tag,Sustainable Fashion,1,0.0057
@@ -3298,6 +3301,7 @@ Summer 2019,2019-07-01,176,tag,AI-Enhanced Learning,1,0.0057
 Summer 2019,2019-07-01,176,tag,Mining,1,0.0057
 Summer 2019,2019-07-01,176,tag,Commercial Space Launch,1,0.0057
 Summer 2019,2019-07-01,176,tag,Space Exploration,1,0.0057
+Summer 2019,2019-07-01,176,tag,Creator Economy,1,0.0057
 Summer 2019,2019-07-01,176,tag,E-Commerce,1,0.0057
 Summer 2019,2019-07-01,176,tag,Legal,1,0.0057
 Summer 2019,2019-07-01,176,tag,LegalTech,1,0.0057
@@ -3329,7 +3333,6 @@ Summer 2019,2019-07-01,176,tag,Big Data,1,0.0057
 Summer 2019,2019-07-01,176,tag,Emerging Markets,1,0.0057
 Summer 2019,2019-07-01,176,tag,Healthcare IT,1,0.0057
 Summer 2019,2019-07-01,176,tag,Personalization,1,0.0057
-Summer 2019,2019-07-01,176,tag,Creator Economy,1,0.0057
 Summer 2019,2019-07-01,176,tag,Compliance,1,0.0057
 Summer 2019,2019-07-01,176,tag,Privacy,1,0.0057
 Summer 2019,2019-07-01,176,tag,Regtech,1,0.0057
@@ -3349,6 +3352,7 @@ Summer 2019,2019-07-01,176,tag,Remittances,1,0.0057
 Summer 2019,2019-07-01,176,tag,Edge Computing Semiconductors,1,0.0057
 Summer 2019,2019-07-01,176,tag,Computer Vision,1,0.0057
 Summer 2019,2019-07-01,176,tag,Automation,1,0.0057
+Summer 2019,2019-07-01,176,tag,Cybersecurity,1,0.0057
 Summer 2019,2019-07-01,176,tag,Procurement,1,0.0057
 Summer 2019,2019-07-01,176,tag,Cloud Computing,1,0.0057
 Summer 2019,2019-07-01,176,tag,Medical Robotics,1,0.0057
@@ -3407,14 +3411,14 @@ Winter 2020,2020-01-01,229,industry,Office Management,1,0.0044
 Winter 2020,2020-01-01,229,industry,Agriculture,1,0.0044
 Winter 2020,2020-01-01,229,industry,Consumer Electronics,1,0.0044
 Winter 2020,2020-01-01,229,region,Remote,161,0.7031
-Winter 2020,2020-01-01,229,region,America / Canada,159,0.6943
-Winter 2020,2020-01-01,229,region,United States of America,151,0.6594
+Winter 2020,2020-01-01,229,region,America / Canada,158,0.69
+Winter 2020,2020-01-01,229,region,United States of America,150,0.655
 Winter 2020,2020-01-01,229,region,Partly Remote,99,0.4323
 Winter 2020,2020-01-01,229,region,Fully Remote,62,0.2707
 Winter 2020,2020-01-01,229,region,South Asia,27,0.1179
 Winter 2020,2020-01-01,229,region,India,26,0.1135
 Winter 2020,2020-01-01,229,region,Latin America,19,0.083
-Winter 2020,2020-01-01,229,region,Europe,13,0.0568
+Winter 2020,2020-01-01,229,region,Europe,14,0.0611
 Winter 2020,2020-01-01,229,region,Canada,9,0.0393
 Winter 2020,2020-01-01,229,region,Mexico,8,0.0349
 Winter 2020,2020-01-01,229,region,Brazil,8,0.0349
@@ -3423,11 +3427,11 @@ Winter 2020,2020-01-01,229,region,United Kingdom,7,0.0306
 Winter 2020,2020-01-01,229,region,Nigeria,5,0.0218
 Winter 2020,2020-01-01,229,region,Middle East and North Africa,4,0.0175
 Winter 2020,2020-01-01,229,region,Southeast Asia,3,0.0131
+Winter 2020,2020-01-01,229,region,France,3,0.0131
 Winter 2020,2020-01-01,229,region,Colombia,2,0.0087
 Winter 2020,2020-01-01,229,region,Unspecified,2,0.0087
 Winter 2020,2020-01-01,229,region,Argentina,2,0.0087
 Winter 2020,2020-01-01,229,region,Israel,2,0.0087
-Winter 2020,2020-01-01,229,region,France,2,0.0087
 Winter 2020,2020-01-01,229,region,Germany,2,0.0087
 Winter 2020,2020-01-01,229,region,Chile,1,0.0044
 Winter 2020,2020-01-01,229,region,Peru,1,0.0044
@@ -3435,6 +3439,8 @@ Winter 2020,2020-01-01,229,region,Malaysia,1,0.0044
 Winter 2020,2020-01-01,229,region,Belarus,1,0.0044
 Winter 2020,2020-01-01,229,region,Singapore,1,0.0044
 Winter 2020,2020-01-01,229,region,Indonesia,1,0.0044
+Winter 2020,2020-01-01,229,region,South Korea,1,0.0044
+Winter 2020,2020-01-01,229,region,East Asia,1,0.0044
 Winter 2020,2020-01-01,229,region,Tanzania,1,0.0044
 Winter 2020,2020-01-01,229,region,Egypt,1,0.0044
 Winter 2020,2020-01-01,229,region,Ghana,1,0.0044
@@ -3644,38 +3650,37 @@ Summer 2020,2020-07-01,208,industry,Consumer Electronics,1,0.0048
 Summer 2020,2020-07-01,208,industry,Virtual and Augmented Reality,1,0.0048
 Summer 2020,2020-07-01,208,industry,Apparel and Cosmetics,1,0.0048
 Summer 2020,2020-07-01,208,region,Remote,173,0.8317
-Summer 2020,2020-07-01,208,region,America / Canada,154,0.7404
+Summer 2020,2020-07-01,208,region,America / Canada,155,0.7452
 Summer 2020,2020-07-01,208,region,United States of America,145,0.6971
 Summer 2020,2020-07-01,208,region,Partly Remote,97,0.4663
 Summer 2020,2020-07-01,208,region,Fully Remote,76,0.3654
-Summer 2020,2020-07-01,208,region,Europe,24,0.1154
+Summer 2020,2020-07-01,208,region,Europe,23,0.1106
 Summer 2020,2020-07-01,208,region,United Kingdom,12,0.0577
 Summer 2020,2020-07-01,208,region,South Asia,12,0.0577
 Summer 2020,2020-07-01,208,region,Latin America,12,0.0577
 Summer 2020,2020-07-01,208,region,India,11,0.0529
-Summer 2020,2020-07-01,208,region,Canada,9,0.0433
+Summer 2020,2020-07-01,208,region,Canada,10,0.0481
 Summer 2020,2020-07-01,208,region,Southeast Asia,5,0.024
 Summer 2020,2020-07-01,208,region,Mexico,5,0.024
 Summer 2020,2020-07-01,208,region,Singapore,4,0.0192
-Summer 2020,2020-07-01,208,region,France,4,0.0192
 Summer 2020,2020-07-01,208,region,Brazil,3,0.0144
+Summer 2020,2020-07-01,208,region,France,3,0.0144
 Summer 2020,2020-07-01,208,region,Germany,3,0.0144
-Summer 2020,2020-07-01,208,region,Italy,1,0.0048
+Summer 2020,2020-07-01,208,region,Spain,2,0.0096
+Summer 2020,2020-07-01,208,region,Middle East and North Africa,2,0.0096
 Summer 2020,2020-07-01,208,region,Indonesia,1,0.0048
 Summer 2020,2020-07-01,208,region,Pakistan,1,0.0048
 Summer 2020,2020-07-01,208,region,Sweden,1,0.0048
 Summer 2020,2020-07-01,208,region,Argentina,1,0.0048
-Summer 2020,2020-07-01,208,region,Unspecified,1,0.0048
 Summer 2020,2020-07-01,208,region,Chile,1,0.0048
+Summer 2020,2020-07-01,208,region,United Arab Emirates,1,0.0048
 Summer 2020,2020-07-01,208,region,Kenya,1,0.0048
 Summer 2020,2020-07-01,208,region,Africa,1,0.0048
 Summer 2020,2020-07-01,208,region,Panama,1,0.0048
 Summer 2020,2020-07-01,208,region,Norway,1,0.0048
 Summer 2020,2020-07-01,208,region,Netherlands,1,0.0048
 Summer 2020,2020-07-01,208,region,Egypt,1,0.0048
-Summer 2020,2020-07-01,208,region,Middle East and North Africa,1,0.0048
 Summer 2020,2020-07-01,208,region,Colombia,1,0.0048
-Summer 2020,2020-07-01,208,region,Spain,1,0.0048
 Summer 2020,2020-07-01,208,status,Active,124,0.5962
 Summer 2020,2020-07-01,208,status,Inactive,43,0.2067
 Summer 2020,2020-07-01,208,status,Acquired,40,0.1923
@@ -3684,10 +3689,10 @@ Summer 2020,2020-07-01,208,tag,SaaS,69,0.3317
 Summer 2020,2020-07-01,208,tag,B2B,58,0.2788
 Summer 2020,2020-07-01,208,tag,Fintech,41,0.1971
 Summer 2020,2020-07-01,208,tag,Developer Tools,24,0.1154
-Summer 2020,2020-07-01,208,tag,AI,15,0.0721
+Summer 2020,2020-07-01,208,tag,AI,16,0.0769
 Summer 2020,2020-07-01,208,tag,E-commerce,14,0.0673
 Summer 2020,2020-07-01,208,tag,Machine Learning,13,0.0625
-Summer 2020,2020-07-01,208,tag,Artificial Intelligence,13,0.0625
+Summer 2020,2020-07-01,208,tag,Artificial Intelligence,12,0.0577
 Summer 2020,2020-07-01,208,tag,Open Source,12,0.0577
 Summer 2020,2020-07-01,208,tag,Education,11,0.0529
 Summer 2020,2020-07-01,208,tag,Marketplace,11,0.0529
@@ -3741,7 +3746,6 @@ Summer 2020,2020-07-01,208,tag,Latin America,2,0.0096
 Summer 2020,2020-07-01,208,tag,Workflow Automation,2,0.0096
 Summer 2020,2020-07-01,208,tag,Mental Health Tech,2,0.0096
 Summer 2020,2020-07-01,208,tag,LegalTech,2,0.0096
-Summer 2020,2020-07-01,208,tag,Messaging,2,0.0096
 Summer 2020,2020-07-01,208,tag,Cybersecurity,2,0.0096
 Summer 2020,2020-07-01,208,tag,Manufacturing,2,0.0096
 Summer 2020,2020-07-01,208,tag,Therapeutics,2,0.0096
@@ -3749,6 +3753,7 @@ Summer 2020,2020-07-01,208,tag,Mental Health,2,0.0096
 Summer 2020,2020-07-01,208,tag,Food & Beverage,2,0.0096
 Summer 2020,2020-07-01,208,tag,Kids,2,0.0096
 Summer 2020,2020-07-01,208,tag,Recruiting,2,0.0096
+Summer 2020,2020-07-01,208,tag,Messaging,2,0.0096
 Summer 2020,2020-07-01,208,tag,Logistics,2,0.0096
 Summer 2020,2020-07-01,208,tag,Telehealth,2,0.0096
 Summer 2020,2020-07-01,208,tag,Databases,2,0.0096
@@ -3776,12 +3781,12 @@ Summer 2020,2020-07-01,208,tag,Banking as a Service,1,0.0048
 Summer 2020,2020-07-01,208,tag,Personalization,1,0.0048
 Summer 2020,2020-07-01,208,tag,Retail Tech,1,0.0048
 Summer 2020,2020-07-01,208,tag,Team Collaboration,1,0.0048
-Summer 2020,2020-07-01,208,tag,Social Network,1,0.0048
 Summer 2020,2020-07-01,208,tag,Grocery,1,0.0048
 Summer 2020,2020-07-01,208,tag,Psychedelics,1,0.0048
 Summer 2020,2020-07-01,208,tag,Retail,1,0.0048
 Summer 2020,2020-07-01,208,tag,AI-Enhanced Learning,1,0.0048
 Summer 2020,2020-07-01,208,tag,Talent Acquisition,1,0.0048
+Summer 2020,2020-07-01,208,tag,Social Network,1,0.0048
 Summer 2020,2020-07-01,208,tag,Augmented Reality,1,0.0048
 Summer 2020,2020-07-01,208,tag,Metaverse,1,0.0048
 Summer 2020,2020-07-01,208,tag,Autonomous Trucking,1,0.0048
@@ -3881,17 +3886,17 @@ Winter 2021,2021-01-01,336,region,America / Canada,198,0.5893
 Winter 2021,2021-01-01,336,region,United States of America,190,0.5655
 Winter 2021,2021-01-01,336,region,Partly Remote,146,0.4345
 Winter 2021,2021-01-01,336,region,Fully Remote,138,0.4107
-Winter 2021,2021-01-01,336,region,Europe,39,0.1161
+Winter 2021,2021-01-01,336,region,Europe,41,0.122
 Winter 2021,2021-01-01,336,region,South Asia,37,0.1101
 Winter 2021,2021-01-01,336,region,India,36,0.1071
 Winter 2021,2021-01-01,336,region,Latin America,31,0.0923
 Winter 2021,2021-01-01,336,region,United Kingdom,15,0.0446
 Winter 2021,2021-01-01,336,region,Mexico,12,0.0357
 Winter 2021,2021-01-01,336,region,Southeast Asia,11,0.0327
-Winter 2021,2021-01-01,336,region,Canada,9,0.0268
+Winter 2021,2021-01-01,336,region,Canada,10,0.0298
 Winter 2021,2021-01-01,336,region,Brazil,8,0.0238
+Winter 2021,2021-01-01,336,region,Middle East and North Africa,7,0.0208
 Winter 2021,2021-01-01,336,region,France,6,0.0179
-Winter 2021,2021-01-01,336,region,Middle East and North Africa,6,0.0179
 Winter 2021,2021-01-01,336,region,Africa,6,0.0179
 Winter 2021,2021-01-01,336,region,Chile,4,0.0119
 Winter 2021,2021-01-01,336,region,Singapore,4,0.0119
@@ -3899,21 +3904,22 @@ Winter 2021,2021-01-01,336,region,Colombia,4,0.0119
 Winter 2021,2021-01-01,336,region,Nigeria,4,0.0119
 Winter 2021,2021-01-01,336,region,Germany,3,0.0089
 Winter 2021,2021-01-01,336,region,Philippines,3,0.0089
+Winter 2021,2021-01-01,336,region,Israel,3,0.0089
 Winter 2021,2021-01-01,336,region,Egypt,3,0.0089
 Winter 2021,2021-01-01,336,region,Denmark,3,0.0089
+Winter 2021,2021-01-01,336,region,Poland,2,0.006
 Winter 2021,2021-01-01,336,region,East Asia,2,0.006
+Winter 2021,2021-01-01,336,region,Sweden,2,0.006
 Winter 2021,2021-01-01,336,region,Argentina,2,0.006
-Winter 2021,2021-01-01,336,region,Israel,2,0.006
 Winter 2021,2021-01-01,336,region,Norway,2,0.006
 Winter 2021,2021-01-01,336,region,Vietnam,2,0.006
 Winter 2021,2021-01-01,336,region,Spain,2,0.006
 Winter 2021,2021-01-01,336,region,Austria,2,0.006
 Winter 2021,2021-01-01,336,region,Peru,2,0.006
-Winter 2021,2021-01-01,336,region,Poland,1,0.003
+Winter 2021,2021-01-01,336,region,Croatia,2,0.006
 Winter 2021,2021-01-01,336,region,Hong Kong,1,0.003
 Winter 2021,2021-01-01,336,region,Italy,1,0.003
 Winter 2021,2021-01-01,336,region,Malaysia,1,0.003
-Winter 2021,2021-01-01,336,region,Sweden,1,0.003
 Winter 2021,2021-01-01,336,region,Ivory Coast,1,0.003
 Winter 2021,2021-01-01,336,region,Senegal,1,0.003
 Winter 2021,2021-01-01,336,region,Indonesia,1,0.003
@@ -3926,7 +3932,6 @@ Winter 2021,2021-01-01,336,region,Belgium,1,0.003
 Winter 2021,2021-01-01,336,region,Estonia,1,0.003
 Winter 2021,2021-01-01,336,region,Lithuania,1,0.003
 Winter 2021,2021-01-01,336,region,Pakistan,1,0.003
-Winter 2021,2021-01-01,336,region,Croatia,1,0.003
 Winter 2021,2021-01-01,336,region,United Arab Emirates,1,0.003
 Winter 2021,2021-01-01,336,status,Active,231,0.6875
 Winter 2021,2021-01-01,336,status,Inactive,63,0.1875
@@ -3934,9 +3939,9 @@ Winter 2021,2021-01-01,336,status,Acquired,42,0.125
 Winter 2021,2021-01-01,336,tag,SaaS,94,0.2798
 Winter 2021,2021-01-01,336,tag,B2B,78,0.2321
 Winter 2021,2021-01-01,336,tag,Fintech,58,0.1726
-Winter 2021,2021-01-01,336,tag,Artificial Intelligence,42,0.125
+Winter 2021,2021-01-01,336,tag,Artificial Intelligence,41,0.122
 Winter 2021,2021-01-01,336,tag,Developer Tools,34,0.1012
-Winter 2021,2021-01-01,336,tag,AI,26,0.0774
+Winter 2021,2021-01-01,336,tag,AI,27,0.0804
 Winter 2021,2021-01-01,336,tag,Marketplace,20,0.0595
 Winter 2021,2021-01-01,336,tag,E-commerce,19,0.0565
 Winter 2021,2021-01-01,336,tag,Education,14,0.0417
@@ -3959,27 +3964,26 @@ Winter 2021,2021-01-01,336,tag,Health Tech,8,0.0238
 Winter 2021,2021-01-01,336,tag,API,8,0.0238
 Winter 2021,2021-01-01,336,tag,Recruiting,7,0.0208
 Winter 2021,2021-01-01,336,tag,Crypto / Web3,7,0.0208
+Winter 2021,2021-01-01,336,tag,Infrastructure,7,0.0208
 Winter 2021,2021-01-01,336,tag,Design Tools,7,0.0208
 Winter 2021,2021-01-01,336,tag,Community,7,0.0208
 Winter 2021,2021-01-01,336,tag,Proptech,7,0.0208
 Winter 2021,2021-01-01,336,tag,Supply Chain,6,0.0179
 Winter 2021,2021-01-01,336,tag,Hardware,6,0.0179
 Winter 2021,2021-01-01,336,tag,Data Engineering,6,0.0179
-Winter 2021,2021-01-01,336,tag,Infrastructure,6,0.0179
 Winter 2021,2021-01-01,336,tag,Deep Learning,5,0.0149
 Winter 2021,2021-01-01,336,tag,Generative AI,5,0.0149
+Winter 2021,2021-01-01,336,tag,Energy,5,0.0149
 Winter 2021,2021-01-01,336,tag,Security,5,0.0149
 Winter 2021,2021-01-01,336,tag,Gaming,5,0.0149
 Winter 2021,2021-01-01,336,tag,AI Assistant,5,0.0149
 Winter 2021,2021-01-01,336,tag,Construction,5,0.0149
 Winter 2021,2021-01-01,336,tag,Telemedicine,5,0.0149
 Winter 2021,2021-01-01,336,tag,HR Tech,5,0.0149
-Winter 2021,2021-01-01,336,tag,Electric Vehicles,5,0.0149
 Winter 2021,2021-01-01,336,tag,Biotech,5,0.0149
 Winter 2021,2021-01-01,336,tag,Insurance,5,0.0149
 Winter 2021,2021-01-01,336,tag,Sales,5,0.0149
 Winter 2021,2021-01-01,336,tag,Satellites,4,0.0119
-Winter 2021,2021-01-01,336,tag,Energy,4,0.0119
 Winter 2021,2021-01-01,336,tag,Robotic Process Automation,4,0.0119
 Winter 2021,2021-01-01,336,tag,Edtech,4,0.0119
 Winter 2021,2021-01-01,336,tag,Neobank,4,0.0119
@@ -3989,6 +3993,7 @@ Winter 2021,2021-01-01,336,tag,LegalTech,4,0.0119
 Winter 2021,2021-01-01,336,tag,Healthcare IT,4,0.0119
 Winter 2021,2021-01-01,336,tag,Enterprise,4,0.0119
 Winter 2021,2021-01-01,336,tag,Enterprise Software,4,0.0119
+Winter 2021,2021-01-01,336,tag,Electric Vehicles,4,0.0119
 Winter 2021,2021-01-01,336,tag,Compliance,4,0.0119
 Winter 2021,2021-01-01,336,tag,Grocery,4,0.0119
 Winter 2021,2021-01-01,336,tag,Real Estate,4,0.0119
@@ -4056,6 +4061,7 @@ Winter 2021,2021-01-01,336,tag,APIs,2,0.006
 Winter 2021,2021-01-01,336,tag,Diagnostics,2,0.006
 Winter 2021,2021-01-01,336,tag,AIOps,2,0.006
 Winter 2021,2021-01-01,336,tag,Conversational AI,2,0.006
+Winter 2021,2021-01-01,336,tag,Operations,2,0.006
 Winter 2021,2021-01-01,336,tag,Identity,2,0.006
 Winter 2021,2021-01-01,336,tag,Legal,2,0.006
 Winter 2021,2021-01-01,336,tag,Web Development,2,0.006
@@ -4089,7 +4095,6 @@ Winter 2021,2021-01-01,336,tag,Augmented Reality,1,0.003
 Winter 2021,2021-01-01,336,tag,Food Service Robots & Machines,1,0.003
 Winter 2021,2021-01-01,336,tag,Renewable Energy,1,0.003
 Winter 2021,2021-01-01,336,tag,Gardening,1,0.003
-Winter 2021,2021-01-01,336,tag,Operations,1,0.003
 Winter 2021,2021-01-01,336,tag,Carbon Capture and Removal,1,0.003
 Winter 2021,2021-01-01,336,tag,Gene Therapy,1,0.003
 Winter 2021,2021-01-01,336,tag,Nanomedicine,1,0.003
@@ -4171,17 +4176,17 @@ Summer 2021,2021-07-01,391,industry,Government,1,0.0026
 Summer 2021,2021-07-01,391,industry,Automotive,1,0.0026
 Summer 2021,2021-07-01,391,industry,Social,1,0.0026
 Summer 2021,2021-07-01,391,industry,Apparel and Cosmetics,1,0.0026
-Summer 2021,2021-07-01,391,region,Remote,321,0.821
-Summer 2021,2021-07-01,391,region,America / Canada,227,0.5806
-Summer 2021,2021-07-01,391,region,United States of America,214,0.5473
-Summer 2021,2021-07-01,391,region,Partly Remote,187,0.4783
+Summer 2021,2021-07-01,391,region,Remote,322,0.8235
+Summer 2021,2021-07-01,391,region,America / Canada,225,0.5754
+Summer 2021,2021-07-01,391,region,United States of America,212,0.5422
+Summer 2021,2021-07-01,391,region,Partly Remote,188,0.4808
 Summer 2021,2021-07-01,391,region,Fully Remote,134,0.3427
-Summer 2021,2021-07-01,391,region,Europe,55,0.1407
-Summer 2021,2021-07-01,391,region,Latin America,43,0.11
+Summer 2021,2021-07-01,391,region,Europe,57,0.1458
+Summer 2021,2021-07-01,391,region,Latin America,44,0.1125
 Summer 2021,2021-07-01,391,region,South Asia,26,0.0665
 Summer 2021,2021-07-01,391,region,India,24,0.0614
-Summer 2021,2021-07-01,391,region,United Kingdom,23,0.0588
-Summer 2021,2021-07-01,391,region,Southeast Asia,21,0.0537
+Summer 2021,2021-07-01,391,region,United Kingdom,22,0.0563
+Summer 2021,2021-07-01,391,region,Southeast Asia,22,0.0563
 Summer 2021,2021-07-01,391,region,Mexico,19,0.0486
 Summer 2021,2021-07-01,391,region,Singapore,14,0.0358
 Summer 2021,2021-07-01,391,region,Canada,14,0.0358
@@ -4190,14 +4195,14 @@ Summer 2021,2021-07-01,391,region,Middle East and North Africa,11,0.0281
 Summer 2021,2021-07-01,391,region,Africa,9,0.023
 Summer 2021,2021-07-01,391,region,France,7,0.0179
 Summer 2021,2021-07-01,391,region,Chile,6,0.0153
+Summer 2021,2021-07-01,391,region,Spain,5,0.0128
+Summer 2021,2021-07-01,391,region,Germany,5,0.0128
 Summer 2021,2021-07-01,391,region,United Arab Emirates,4,0.0102
-Summer 2021,2021-07-01,391,region,Spain,4,0.0102
 Summer 2021,2021-07-01,391,region,Ireland,4,0.0102
-Summer 2021,2021-07-01,391,region,Germany,4,0.0102
+Summer 2021,2021-07-01,391,region,Netherlands,4,0.0102
 Summer 2021,2021-07-01,391,region,Nigeria,4,0.0102
 Summer 2021,2021-07-01,391,region,Philippines,3,0.0077
 Summer 2021,2021-07-01,391,region,Egypt,3,0.0077
-Summer 2021,2021-07-01,391,region,Netherlands,3,0.0077
 Summer 2021,2021-07-01,391,region,Denmark,3,0.0077
 Summer 2021,2021-07-01,391,region,Indonesia,3,0.0077
 Summer 2021,2021-07-01,391,region,Pakistan,2,0.0051
@@ -4207,22 +4212,22 @@ Summer 2021,2021-07-01,391,region,Unspecified,2,0.0051
 Summer 2021,2021-07-01,391,region,Morocco,2,0.0051
 Summer 2021,2021-07-01,391,region,Australia,2,0.0051
 Summer 2021,2021-07-01,391,region,Oceania,2,0.0051
+Summer 2021,2021-07-01,391,region,Peru,2,0.0051
+Summer 2021,2021-07-01,391,region,South Africa,2,0.0051
+Summer 2021,2021-07-01,391,region,Malaysia,2,0.0051
 Summer 2021,2021-07-01,391,region,Colombia,2,0.0051
 Summer 2021,2021-07-01,391,region,Romania,1,0.0026
 Summer 2021,2021-07-01,391,region,Poland,1,0.0026
 Summer 2021,2021-07-01,391,region,Ecuador,1,0.0026
 Summer 2021,2021-07-01,391,region,Kenya,1,0.0026
-Summer 2021,2021-07-01,391,region,South Africa,1,0.0026
 Summer 2021,2021-07-01,391,region,South Korea,1,0.0026
 Summer 2021,2021-07-01,391,region,East Asia,1,0.0026
 Summer 2021,2021-07-01,391,region,Israel,1,0.0026
 Summer 2021,2021-07-01,391,region,Vietnam,1,0.0026
 Summer 2021,2021-07-01,391,region,Namibia,1,0.0026
 Summer 2021,2021-07-01,391,region,Finland,1,0.0026
-Summer 2021,2021-07-01,391,region,Peru,1,0.0026
 Summer 2021,2021-07-01,391,region,Cyprus,1,0.0026
 Summer 2021,2021-07-01,391,region,Estonia,1,0.0026
-Summer 2021,2021-07-01,391,region,Malaysia,1,0.0026
 Summer 2021,2021-07-01,391,region,Georgia,1,0.0026
 Summer 2021,2021-07-01,391,region,Zambia,1,0.0026
 Summer 2021,2021-07-01,391,region,Ghana,1,0.0026
@@ -4232,8 +4237,8 @@ Summer 2021,2021-07-01,391,status,Acquired,37,0.0946
 Summer 2021,2021-07-01,391,tag,SaaS,120,0.3069
 Summer 2021,2021-07-01,391,tag,B2B,102,0.2609
 Summer 2021,2021-07-01,391,tag,Fintech,81,0.2072
-Summer 2021,2021-07-01,391,tag,Artificial Intelligence,46,0.1176
-Summer 2021,2021-07-01,391,tag,AI,35,0.0895
+Summer 2021,2021-07-01,391,tag,Artificial Intelligence,43,0.11
+Summer 2021,2021-07-01,391,tag,AI,38,0.0972
 Summer 2021,2021-07-01,391,tag,Developer Tools,33,0.0844
 Summer 2021,2021-07-01,391,tag,Marketplace,33,0.0844
 Summer 2021,2021-07-01,391,tag,E-commerce,25,0.0639
@@ -4440,9 +4445,9 @@ Winter 2022,2022-01-01,398,industry,Human Resources,9,0.0226
 Winter 2022,2022-01-01,398,industry,Operations,9,0.0226
 Winter 2022,2022-01-01,398,industry,Healthcare Services,8,0.0201
 Winter 2022,2022-01-01,398,industry,Content,8,0.0201
-Winter 2022,2022-01-01,398,industry,Asset Management,8,0.0201
 Winter 2022,2022-01-01,398,industry,Consumer Health and Wellness,8,0.0201
 Winter 2022,2022-01-01,398,industry,Education,8,0.0201
+Winter 2022,2022-01-01,398,industry,Asset Management,7,0.0176
 Winter 2022,2022-01-01,398,industry,Consumer Finance,7,0.0176
 Winter 2022,2022-01-01,398,industry,Insurance,7,0.0176
 Winter 2022,2022-01-01,398,industry,Sales,7,0.0176
@@ -4475,30 +4480,30 @@ Winter 2022,2022-01-01,398,industry,Home and Personal,1,0.0025
 Winter 2022,2022-01-01,398,industry,Virtual and Augmented Reality,1,0.0025
 Winter 2022,2022-01-01,398,industry,Apparel and Cosmetics,1,0.0025
 Winter 2022,2022-01-01,398,region,Remote,319,0.8015
-Winter 2022,2022-01-01,398,region,America / Canada,237,0.5955
-Winter 2022,2022-01-01,398,region,United States of America,226,0.5678
-Winter 2022,2022-01-01,398,region,Partly Remote,198,0.4975
-Winter 2022,2022-01-01,398,region,Fully Remote,121,0.304
-Winter 2022,2022-01-01,398,region,Europe,40,0.1005
-Winter 2022,2022-01-01,398,region,Latin America,32,0.0804
+Winter 2022,2022-01-01,398,region,America / Canada,235,0.5905
+Winter 2022,2022-01-01,398,region,United States of America,222,0.5578
+Winter 2022,2022-01-01,398,region,Partly Remote,197,0.495
+Winter 2022,2022-01-01,398,region,Fully Remote,122,0.3065
+Winter 2022,2022-01-01,398,region,Europe,41,0.103
+Winter 2022,2022-01-01,398,region,Latin America,34,0.0854
 Winter 2022,2022-01-01,398,region,Southeast Asia,29,0.0729
-Winter 2022,2022-01-01,398,region,South Asia,27,0.0678
-Winter 2022,2022-01-01,398,region,India,23,0.0578
+Winter 2022,2022-01-01,398,region,South Asia,28,0.0704
+Winter 2022,2022-01-01,398,region,India,24,0.0603
 Winter 2022,2022-01-01,398,region,Africa,21,0.0528
 Winter 2022,2022-01-01,398,region,United Kingdom,17,0.0427
 Winter 2022,2022-01-01,398,region,Nigeria,16,0.0402
 Winter 2022,2022-01-01,398,region,Indonesia,14,0.0352
-Winter 2022,2022-01-01,398,region,Mexico,12,0.0302
-Winter 2022,2022-01-01,398,region,Canada,11,0.0276
+Winter 2022,2022-01-01,398,region,Mexico,13,0.0327
+Winter 2022,2022-01-01,398,region,Canada,13,0.0327
+Winter 2022,2022-01-01,398,region,Middle East and North Africa,11,0.0276
 Winter 2022,2022-01-01,398,region,Singapore,11,0.0276
-Winter 2022,2022-01-01,398,region,Middle East and North Africa,8,0.0201
 Winter 2022,2022-01-01,398,region,Colombia,7,0.0176
+Winter 2022,2022-01-01,398,region,Germany,6,0.0151
 Winter 2022,2022-01-01,398,region,Oceania,6,0.0151
-Winter 2022,2022-01-01,398,region,Germany,5,0.0126
+Winter 2022,2022-01-01,398,region,Brazil,6,0.0151
+Winter 2022,2022-01-01,398,region,France,5,0.0126
 Winter 2022,2022-01-01,398,region,Australia,5,0.0126
-Winter 2022,2022-01-01,398,region,Brazil,5,0.0126
-Winter 2022,2022-01-01,398,region,France,4,0.0101
-Winter 2022,2022-01-01,398,region,United Arab Emirates,4,0.0101
+Winter 2022,2022-01-01,398,region,United Arab Emirates,5,0.0126
 Winter 2022,2022-01-01,398,region,Pakistan,4,0.0101
 Winter 2022,2022-01-01,398,region,Spain,4,0.0101
 Winter 2022,2022-01-01,398,region,Vietnam,3,0.0075
@@ -4518,6 +4523,7 @@ Winter 2022,2022-01-01,398,region,Ethiopia,1,0.0025
 Winter 2022,2022-01-01,398,region,Costa Rica,1,0.0025
 Winter 2022,2022-01-01,398,region,Norway,1,0.0025
 Winter 2022,2022-01-01,398,region,New Zealand,1,0.0025
+Winter 2022,2022-01-01,398,region,Jordan,1,0.0025
 Winter 2022,2022-01-01,398,region,Hong Kong,1,0.0025
 Winter 2022,2022-01-01,398,region,Peru,1,0.0025
 Winter 2022,2022-01-01,398,region,Uganda,1,0.0025
@@ -4527,22 +4533,22 @@ Winter 2022,2022-01-01,398,region,Egypt,1,0.0025
 Winter 2022,2022-01-01,398,region,Saudi Arabia,1,0.0025
 Winter 2022,2022-01-01,398,region,Finland,1,0.0025
 Winter 2022,2022-01-01,398,region,Ghana,1,0.0025
-Winter 2022,2022-01-01,398,region,Unspecified,1,0.0025
-Winter 2022,2022-01-01,398,status,Active,318,0.799
-Winter 2022,2022-01-01,398,status,Inactive,44,0.1106
+Winter 2022,2022-01-01,398,region,Georgia,1,0.0025
+Winter 2022,2022-01-01,398,status,Active,317,0.7965
+Winter 2022,2022-01-01,398,status,Inactive,45,0.1131
 Winter 2022,2022-01-01,398,status,Acquired,36,0.0905
 Winter 2022,2022-01-01,398,tag,SaaS,106,0.2663
 Winter 2022,2022-01-01,398,tag,B2B,102,0.2563
 Winter 2022,2022-01-01,398,tag,Fintech,92,0.2312
-Winter 2022,2022-01-01,398,tag,AI,56,0.1407
-Winter 2022,2022-01-01,398,tag,Artificial Intelligence,52,0.1307
+Winter 2022,2022-01-01,398,tag,Artificial Intelligence,55,0.1382
+Winter 2022,2022-01-01,398,tag,AI,54,0.1357
 Winter 2022,2022-01-01,398,tag,Consumer,40,0.1005
 Winter 2022,2022-01-01,398,tag,Developer Tools,34,0.0854
 Winter 2022,2022-01-01,398,tag,Marketplace,32,0.0804
 Winter 2022,2022-01-01,398,tag,Machine Learning,25,0.0628
 Winter 2022,2022-01-01,398,tag,E-commerce,25,0.0628
 Winter 2022,2022-01-01,398,tag,Climate,20,0.0503
-Winter 2022,2022-01-01,398,tag,Healthcare,20,0.0503
+Winter 2022,2022-01-01,398,tag,Healthcare,19,0.0477
 Winter 2022,2022-01-01,398,tag,Payments,18,0.0452
 Winter 2022,2022-01-01,398,tag,API,17,0.0427
 Winter 2022,2022-01-01,398,tag,Analytics,17,0.0427
@@ -4556,24 +4562,24 @@ Winter 2022,2022-01-01,398,tag,Generative AI,12,0.0302
 Winter 2022,2022-01-01,398,tag,Health Tech,12,0.0302
 Winter 2022,2022-01-01,398,tag,Marketing,12,0.0302
 Winter 2022,2022-01-01,398,tag,Data Engineering,12,0.0302
-Winter 2022,2022-01-01,398,tag,AI Assistant,12,0.0302
 Winter 2022,2022-01-01,398,tag,Productivity,12,0.0302
-Winter 2022,2022-01-01,398,tag,Security,11,0.0276
 Winter 2022,2022-01-01,398,tag,Hard Tech,11,0.0276
 Winter 2022,2022-01-01,398,tag,Consumer Health Services,11,0.0276
 Winter 2022,2022-01-01,398,tag,Open Source,11,0.0276
+Winter 2022,2022-01-01,398,tag,AI Assistant,11,0.0276
 Winter 2022,2022-01-01,398,tag,Construction,10,0.0251
+Winter 2022,2022-01-01,398,tag,Security,10,0.0251
 Winter 2022,2022-01-01,398,tag,Hardware,10,0.0251
 Winter 2022,2022-01-01,398,tag,Biotech,10,0.0251
 Winter 2022,2022-01-01,398,tag,Enterprise,9,0.0226
 Winter 2022,2022-01-01,398,tag,Real Estate,9,0.0226
 Winter 2022,2022-01-01,398,tag,Gaming,9,0.0226
+Winter 2022,2022-01-01,398,tag,Manufacturing,8,0.0201
 Winter 2022,2022-01-01,398,tag,Education,8,0.0201
 Winter 2022,2022-01-01,398,tag,Insurance,8,0.0201
 Winter 2022,2022-01-01,398,tag,Medical Devices,7,0.0176
 Winter 2022,2022-01-01,398,tag,Compliance,7,0.0176
 Winter 2022,2022-01-01,398,tag,Enterprise Software,7,0.0176
-Winter 2022,2022-01-01,398,tag,Manufacturing,7,0.0176
 Winter 2022,2022-01-01,398,tag,Banking as a Service,7,0.0176
 Winter 2022,2022-01-01,398,tag,Entertainment,7,0.0176
 Winter 2022,2022-01-01,398,tag,Food Tech,7,0.0176
@@ -4607,6 +4613,7 @@ Winter 2022,2022-01-01,398,tag,Collaboration,4,0.0101
 Winter 2022,2022-01-01,398,tag,Travel,4,0.0101
 Winter 2022,2022-01-01,398,tag,Neurotechnology,3,0.0075
 Winter 2022,2022-01-01,398,tag,Lending,3,0.0075
+Winter 2022,2022-01-01,398,tag,Search,3,0.0075
 Winter 2022,2022-01-01,398,tag,Telehealth,3,0.0075
 Winter 2022,2022-01-01,398,tag,Satellites,3,0.0075
 Winter 2022,2022-01-01,398,tag,Customer Success,3,0.0075
@@ -4629,7 +4636,6 @@ Winter 2022,2022-01-01,398,tag,Carbon Capture and Removal,2,0.005
 Winter 2022,2022-01-01,398,tag,Recruiting,2,0.005
 Winter 2022,2022-01-01,398,tag,Agriculture,2,0.005
 Winter 2022,2022-01-01,398,tag,Consumer Finance,2,0.005
-Winter 2022,2022-01-01,398,tag,Search,2,0.005
 Winter 2022,2022-01-01,398,tag,Gene Therapy,2,0.005
 Winter 2022,2022-01-01,398,tag,Cryptography,2,0.005
 Winter 2022,2022-01-01,398,tag,Customer Service,2,0.005
@@ -4652,6 +4658,7 @@ Winter 2022,2022-01-01,398,tag,Warehouse Management Tech,2,0.005
 Winter 2022,2022-01-01,398,tag,NLP,2,0.005
 Winter 2022,2022-01-01,398,tag,IoT,2,0.005
 Winter 2022,2022-01-01,398,tag,Mining,2,0.005
+Winter 2022,2022-01-01,398,tag,Investments,2,0.005
 Winter 2022,2022-01-01,398,tag,Health & Wellness,2,0.005
 Winter 2022,2022-01-01,398,tag,Email,2,0.005
 Winter 2022,2022-01-01,398,tag,Kubernetes,2,0.005
@@ -4675,6 +4682,7 @@ Winter 2022,2022-01-01,398,tag,Aerospace,1,0.0025
 Winter 2022,2022-01-01,398,tag,Chatbot,1,0.0025
 Winter 2022,2022-01-01,398,tag,Media,1,0.0025
 Winter 2022,2022-01-01,398,tag,Home Services,1,0.0025
+Winter 2022,2022-01-01,398,tag,Defense,1,0.0025
 Winter 2022,2022-01-01,398,tag,Data Science,1,0.0025
 Winter 2022,2022-01-01,398,tag,Trust & Safety,1,0.0025
 Winter 2022,2022-01-01,398,tag,Nonprofit,1,0.0025
@@ -4702,7 +4710,6 @@ Winter 2022,2022-01-01,398,tag,Biometrics,1,0.0025
 Winter 2022,2022-01-01,398,tag,Documents,1,0.0025
 Winter 2022,2022-01-01,398,tag,Market Research,1,0.0025
 Winter 2022,2022-01-01,398,tag,Sustainable Tourism,1,0.0025
-Winter 2022,2022-01-01,398,tag,Investments,1,0.0025
 Winter 2022,2022-01-01,398,tag,Architecture,1,0.0025
 Winter 2022,2022-01-01,398,tag,Deepfake Detection,1,0.0025
 Winter 2022,2022-01-01,398,tag,AI-powered Drug Discovery,1,0.0025
@@ -4723,7 +4730,6 @@ Winter 2022,2022-01-01,398,tag,Automotive,1,0.0025
 Winter 2022,2022-01-01,398,tag,CRM,1,0.0025
 Winter 2022,2022-01-01,398,tag,Cell Therapy,1,0.0025
 Winter 2022,2022-01-01,398,tag,Cashierless Checkout,1,0.0025
-Winter 2022,2022-01-01,398,tag,Reinforcement Learning,1,0.0025
 Summer 2022,2022-07-01,234,industry,B2B,121,0.5171
 Summer 2022,2022-07-01,234,industry,Fintech,43,0.1838
 Summer 2022,2022-07-01,234,industry,Healthcare,25,0.1068
@@ -4770,49 +4776,50 @@ Summer 2022,2022-07-01,234,industry,Credit and Lending,1,0.0043
 Summer 2022,2022-07-01,234,industry,Drug Discovery and Delivery,1,0.0043
 Summer 2022,2022-07-01,234,industry,Diagnostics,1,0.0043
 Summer 2022,2022-07-01,234,region,Remote,163,0.6966
-Summer 2022,2022-07-01,234,region,America / Canada,155,0.6624
-Summer 2022,2022-07-01,234,region,United States of America,150,0.641
+Summer 2022,2022-07-01,234,region,America / Canada,151,0.6453
+Summer 2022,2022-07-01,234,region,United States of America,146,0.6239
 Summer 2022,2022-07-01,234,region,Partly Remote,98,0.4188
 Summer 2022,2022-07-01,234,region,Fully Remote,65,0.2778
-Summer 2022,2022-07-01,234,region,Europe,30,0.1282
+Summer 2022,2022-07-01,234,region,Europe,31,0.1325
 Summer 2022,2022-07-01,234,region,South Asia,19,0.0812
 Summer 2022,2022-07-01,234,region,India,18,0.0769
 Summer 2022,2022-07-01,234,region,Latin America,12,0.0513
 Summer 2022,2022-07-01,234,region,United Kingdom,11,0.047
-Summer 2022,2022-07-01,234,region,Middle East and North Africa,8,0.0342
+Summer 2022,2022-07-01,234,region,Middle East and North Africa,10,0.0427
+Summer 2022,2022-07-01,234,region,Southeast Asia,8,0.0342
+Summer 2022,2022-07-01,234,region,Israel,6,0.0256
 Summer 2022,2022-07-01,234,region,Africa,6,0.0256
-Summer 2022,2022-07-01,234,region,Southeast Asia,6,0.0256
 Summer 2022,2022-07-01,234,region,Canada,5,0.0214
 Summer 2022,2022-07-01,234,region,Nigeria,5,0.0214
 Summer 2022,2022-07-01,234,region,Germany,4,0.0171
-Summer 2022,2022-07-01,234,region,Israel,4,0.0171
+Summer 2022,2022-07-01,234,region,Singapore,4,0.0171
 Summer 2022,2022-07-01,234,region,France,4,0.0171
 Summer 2022,2022-07-01,234,region,Mexico,4,0.0171
 Summer 2022,2022-07-01,234,region,Spain,3,0.0128
 Summer 2022,2022-07-01,234,region,Switzerland,3,0.0128
 Summer 2022,2022-07-01,234,region,Indonesia,3,0.0128
 Summer 2022,2022-07-01,234,region,Saudi Arabia,3,0.0128
+Summer 2022,2022-07-01,234,region,East Asia,3,0.0128
 Summer 2022,2022-07-01,234,region,Brazil,2,0.0085
-Summer 2022,2022-07-01,234,region,Singapore,2,0.0085
+Summer 2022,2022-07-01,234,region,Netherlands,2,0.0085
 Summer 2022,2022-07-01,234,region,Argentina,2,0.0085
-Summer 2022,2022-07-01,234,region,Unspecified,1,0.0043
 Summer 2022,2022-07-01,234,region,Panama,1,0.0043
-Summer 2022,2022-07-01,234,region,Netherlands,1,0.0043
 Summer 2022,2022-07-01,234,region,Australia,1,0.0043
 Summer 2022,2022-07-01,234,region,Oceania,1,0.0043
 Summer 2022,2022-07-01,234,region,Turkey,1,0.0043
 Summer 2022,2022-07-01,234,region,Peru,1,0.0043
 Summer 2022,2022-07-01,234,region,Pakistan,1,0.0043
+Summer 2022,2022-07-01,234,region,Taiwan,1,0.0043
 Summer 2022,2022-07-01,234,region,Ukraine,1,0.0043
 Summer 2022,2022-07-01,234,region,Puerto Rico,1,0.0043
 Summer 2022,2022-07-01,234,region,Austria,1,0.0043
 Summer 2022,2022-07-01,234,region,Chile,1,0.0043
 Summer 2022,2022-07-01,234,region,Slovenia,1,0.0043
+Summer 2022,2022-07-01,234,region,South Korea,1,0.0043
 Summer 2022,2022-07-01,234,region,Ireland,1,0.0043
 Summer 2022,2022-07-01,234,region,Kenya,1,0.0043
 Summer 2022,2022-07-01,234,region,Philippines,1,0.0043
 Summer 2022,2022-07-01,234,region,Japan,1,0.0043
-Summer 2022,2022-07-01,234,region,East Asia,1,0.0043
 Summer 2022,2022-07-01,234,status,Active,187,0.7991
 Summer 2022,2022-07-01,234,status,Inactive,34,0.1453
 Summer 2022,2022-07-01,234,status,Acquired,13,0.0556
@@ -5013,46 +5020,48 @@ Winter 2023,2023-01-01,274,industry,Gaming,1,0.0036
 Winter 2023,2023-01-01,274,industry,Industrial Bio,1,0.0036
 Winter 2023,2023-01-01,274,industry,Diagnostics,1,0.0036
 Winter 2023,2023-01-01,274,industry,Banking and Exchange,1,0.0036
-Winter 2023,2023-01-01,274,region,America / Canada,205,0.7482
-Winter 2023,2023-01-01,274,region,United States of America,202,0.7372
+Winter 2023,2023-01-01,274,region,America / Canada,204,0.7445
+Winter 2023,2023-01-01,274,region,United States of America,201,0.7336
 Winter 2023,2023-01-01,274,region,Remote,152,0.5547
 Winter 2023,2023-01-01,274,region,Partly Remote,97,0.354
 Winter 2023,2023-01-01,274,region,Fully Remote,55,0.2007
-Winter 2023,2023-01-01,274,region,Europe,16,0.0584
-Winter 2023,2023-01-01,274,region,Middle East and North Africa,9,0.0328
-Winter 2023,2023-01-01,274,region,Unspecified,9,0.0328
-Winter 2023,2023-01-01,274,region,Latin America,9,0.0328
-Winter 2023,2023-01-01,274,region,India,8,0.0292
+Winter 2023,2023-01-01,274,region,Europe,18,0.0657
+Winter 2023,2023-01-01,274,region,Middle East and North Africa,10,0.0365
+Winter 2023,2023-01-01,274,region,Latin America,10,0.0365
 Winter 2023,2023-01-01,274,region,South Asia,8,0.0292
+Winter 2023,2023-01-01,274,region,India,7,0.0255
+Winter 2023,2023-01-01,274,region,Unspecified,7,0.0255
 Winter 2023,2023-01-01,274,region,Israel,7,0.0255
 Winter 2023,2023-01-01,274,region,Germany,6,0.0219
 Winter 2023,2023-01-01,274,region,United Kingdom,5,0.0182
 Winter 2023,2023-01-01,274,region,Canada,4,0.0146
-Winter 2023,2023-01-01,274,region,Nigeria,3,0.0109
-Winter 2023,2023-01-01,274,region,Africa,3,0.0109
+Winter 2023,2023-01-01,274,region,France,3,0.0109
 Winter 2023,2023-01-01,274,region,Southeast Asia,3,0.0109
 Winter 2023,2023-01-01,274,region,Mexico,3,0.0109
 Winter 2023,2023-01-01,274,region,Colombia,3,0.0109
-Winter 2023,2023-01-01,274,region,France,2,0.0073
+Winter 2023,2023-01-01,274,region,United Arab Emirates,2,0.0073
+Winter 2023,2023-01-01,274,region,Australia,2,0.0073
+Winter 2023,2023-01-01,274,region,Oceania,2,0.0073
 Winter 2023,2023-01-01,274,region,Chile,2,0.0073
+Winter 2023,2023-01-01,274,region,Switzerland,2,0.0073
 Winter 2023,2023-01-01,274,region,Indonesia,2,0.0073
-Winter 2023,2023-01-01,274,region,United Arab Emirates,1,0.0036
+Winter 2023,2023-01-01,274,region,Nigeria,2,0.0073
+Winter 2023,2023-01-01,274,region,Africa,2,0.0073
 Winter 2023,2023-01-01,274,region,Singapore,1,0.0036
+Winter 2023,2023-01-01,274,region,Uruguay,1,0.0036
 Winter 2023,2023-01-01,274,region,Spain,1,0.0036
+Winter 2023,2023-01-01,274,region,Pakistan,1,0.0036
 Winter 2023,2023-01-01,274,region,Saudi Arabia,1,0.0036
 Winter 2023,2023-01-01,274,region,Denmark,1,0.0036
-Winter 2023,2023-01-01,274,region,Australia,1,0.0036
-Winter 2023,2023-01-01,274,region,Oceania,1,0.0036
-Winter 2023,2023-01-01,274,region,Switzerland,1,0.0036
 Winter 2023,2023-01-01,274,region,Brazil,1,0.0036
 Winter 2023,2023-01-01,274,region,Argentina,1,0.0036
-Winter 2023,2023-01-01,274,status,Active,210,0.7664
-Winter 2023,2023-01-01,274,status,Inactive,34,0.1241
-Winter 2023,2023-01-01,274,status,Acquired,30,0.1095
+Winter 2023,2023-01-01,274,status,Active,208,0.7591
+Winter 2023,2023-01-01,274,status,Inactive,35,0.1277
+Winter 2023,2023-01-01,274,status,Acquired,31,0.1131
 Winter 2023,2023-01-01,274,tag,B2B,98,0.3577
 Winter 2023,2023-01-01,274,tag,SaaS,86,0.3139
-Winter 2023,2023-01-01,274,tag,AI,67,0.2445
-Winter 2023,2023-01-01,274,tag,Artificial Intelligence,58,0.2117
+Winter 2023,2023-01-01,274,tag,AI,65,0.2372
+Winter 2023,2023-01-01,274,tag,Artificial Intelligence,59,0.2153
 Winter 2023,2023-01-01,274,tag,Generative AI,49,0.1788
 Winter 2023,2023-01-01,274,tag,Developer Tools,49,0.1788
 Winter 2023,2023-01-01,274,tag,Fintech,35,0.1277
@@ -5149,7 +5158,6 @@ Winter 2023,2023-01-01,274,tag,Operations,2,0.0073
 Winter 2023,2023-01-01,274,tag,Entertainment,2,0.0073
 Winter 2023,2023-01-01,274,tag,Supply Chain,2,0.0073
 Winter 2023,2023-01-01,274,tag,Social,1,0.0036
-Winter 2023,2023-01-01,274,tag,Design,1,0.0036
 Winter 2023,2023-01-01,274,tag,Energy Storage,1,0.0036
 Winter 2023,2023-01-01,274,tag,Energy,1,0.0036
 Winter 2023,2023-01-01,274,tag,Privacy,1,0.0036
@@ -5174,6 +5182,7 @@ Winter 2023,2023-01-01,274,tag,Gene Therapy,1,0.0036
 Winter 2023,2023-01-01,274,tag,Cell Therapy,1,0.0036
 Winter 2023,2023-01-01,274,tag,Data Science,1,0.0036
 Winter 2023,2023-01-01,274,tag,Restaurant Tech,1,0.0036
+Winter 2023,2023-01-01,274,tag,Hardware,1,0.0036
 Winter 2023,2023-01-01,274,tag,Diagnostics,1,0.0036
 Winter 2023,2023-01-01,274,tag,Robotics,1,0.0036
 Winter 2023,2023-01-01,274,tag,Microfluidics,1,0.0036
@@ -5196,225 +5205,228 @@ Winter 2023,2023-01-01,274,tag,Home Services,1,0.0036
 Winter 2023,2023-01-01,274,tag,Grocery,1,0.0036
 Winter 2023,2023-01-01,274,tag,Market Research,1,0.0036
 Winter 2023,2023-01-01,274,tag,Emerging Markets,1,0.0036
-Summer 2023,2023-07-01,219,industry,B2B,152,0.6941
-Summer 2023,2023-07-01,219,industry,"Engineering, Product and Design",32,0.1461
-Summer 2023,2023-07-01,219,industry,Healthcare,28,0.1279
-Summer 2023,2023-07-01,219,industry,Fintech,16,0.0731
-Summer 2023,2023-07-01,219,industry,Sales,11,0.0502
-Summer 2023,2023-07-01,219,industry,Infrastructure,11,0.0502
-Summer 2023,2023-07-01,219,industry,Productivity,10,0.0457
-Summer 2023,2023-07-01,219,industry,Healthcare IT,9,0.0411
-Summer 2023,2023-07-01,219,industry,Consumer,9,0.0411
-Summer 2023,2023-07-01,219,industry,Supply Chain and Logistics,7,0.032
-Summer 2023,2023-07-01,219,industry,Finance and Accounting,6,0.0274
-Summer 2023,2023-07-01,219,industry,Real Estate and Construction,6,0.0274
-Summer 2023,2023-07-01,219,industry,Security,6,0.0274
-Summer 2023,2023-07-01,219,industry,Analytics,6,0.0274
-Summer 2023,2023-07-01,219,industry,Operations,6,0.0274
-Summer 2023,2023-07-01,219,industry,Retail,5,0.0228
-Summer 2023,2023-07-01,219,industry,Consumer Health and Wellness,5,0.0228
-Summer 2023,2023-07-01,219,industry,Legal,5,0.0228
-Summer 2023,2023-07-01,219,industry,Industrials,5,0.0228
-Summer 2023,2023-07-01,219,industry,Marketing,4,0.0183
-Summer 2023,2023-07-01,219,industry,Payments,3,0.0137
-Summer 2023,2023-07-01,219,industry,Construction,3,0.0137
-Summer 2023,2023-07-01,219,industry,Education,3,0.0137
-Summer 2023,2023-07-01,219,industry,Healthcare Services,3,0.0137
-Summer 2023,2023-07-01,219,industry,Medical Devices,2,0.0091
-Summer 2023,2023-07-01,219,industry,Recruiting and Talent,2,0.0091
-Summer 2023,2023-07-01,219,industry,Insurance,2,0.0091
-Summer 2023,2023-07-01,219,industry,Agriculture,2,0.0091
-Summer 2023,2023-07-01,219,industry,Diagnostics,2,0.0091
-Summer 2023,2023-07-01,219,industry,Drug Discovery and Delivery,2,0.0091
-Summer 2023,2023-07-01,219,industry,"Travel, Leisure and Tourism",2,0.0091
-Summer 2023,2023-07-01,219,industry,Human Resources,1,0.0046
-Summer 2023,2023-07-01,219,industry,Credit and Lending,1,0.0046
-Summer 2023,2023-07-01,219,industry,Food and Beverage,1,0.0046
-Summer 2023,2023-07-01,219,industry,Consumer Finance,1,0.0046
-Summer 2023,2023-07-01,219,industry,Housing and Real Estate,1,0.0046
-Summer 2023,2023-07-01,219,industry,Climate,1,0.0046
-Summer 2023,2023-07-01,219,industry,Energy,1,0.0046
-Summer 2023,2023-07-01,219,industry,Asset Management,1,0.0046
-Summer 2023,2023-07-01,219,industry,Content,1,0.0046
-Summer 2023,2023-07-01,219,region,America / Canada,168,0.7671
-Summer 2023,2023-07-01,219,region,United States of America,165,0.7534
-Summer 2023,2023-07-01,219,region,Remote,84,0.3836
-Summer 2023,2023-07-01,219,region,Partly Remote,56,0.2557
-Summer 2023,2023-07-01,219,region,Fully Remote,28,0.1279
-Summer 2023,2023-07-01,219,region,Europe,23,0.105
-Summer 2023,2023-07-01,219,region,United Kingdom,13,0.0594
-Summer 2023,2023-07-01,219,region,Unspecified,9,0.0411
-Summer 2023,2023-07-01,219,region,Africa,3,0.0137
-Summer 2023,2023-07-01,219,region,France,3,0.0137
-Summer 2023,2023-07-01,219,region,Germany,3,0.0137
-Summer 2023,2023-07-01,219,region,Canada,3,0.0137
-Summer 2023,2023-07-01,219,region,Latin America,2,0.0091
-Summer 2023,2023-07-01,219,region,India,2,0.0091
-Summer 2023,2023-07-01,219,region,South Asia,2,0.0091
-Summer 2023,2023-07-01,219,region,Denmark,2,0.0091
-Summer 2023,2023-07-01,219,region,Singapore,1,0.0046
-Summer 2023,2023-07-01,219,region,Southeast Asia,1,0.0046
-Summer 2023,2023-07-01,219,region,Brazil,1,0.0046
-Summer 2023,2023-07-01,219,region,Nigeria,1,0.0046
-Summer 2023,2023-07-01,219,region,Mexico,1,0.0046
-Summer 2023,2023-07-01,219,region,Kenya,1,0.0046
-Summer 2023,2023-07-01,219,region,Ireland,1,0.0046
-Summer 2023,2023-07-01,219,region,Israel,1,0.0046
-Summer 2023,2023-07-01,219,region,Middle East and North Africa,1,0.0046
-Summer 2023,2023-07-01,219,region,Switzerland,1,0.0046
-Summer 2023,2023-07-01,219,region,Democratic Republic of the Congo,1,0.0046
-Summer 2023,2023-07-01,219,status,Active,181,0.8265
-Summer 2023,2023-07-01,219,status,Inactive,21,0.0959
-Summer 2023,2023-07-01,219,status,Acquired,17,0.0776
-Summer 2023,2023-07-01,219,tag,Artificial Intelligence,77,0.3516
-Summer 2023,2023-07-01,219,tag,AI,59,0.2694
-Summer 2023,2023-07-01,219,tag,B2B,52,0.2374
-Summer 2023,2023-07-01,219,tag,SaaS,43,0.1963
-Summer 2023,2023-07-01,219,tag,Developer Tools,32,0.1461
-Summer 2023,2023-07-01,219,tag,Generative AI,29,0.1324
-Summer 2023,2023-07-01,219,tag,Fintech,22,0.1005
-Summer 2023,2023-07-01,219,tag,Healthcare,20,0.0913
-Summer 2023,2023-07-01,219,tag,AI Assistant,13,0.0594
-Summer 2023,2023-07-01,219,tag,Infrastructure,12,0.0548
-Summer 2023,2023-07-01,219,tag,Health Tech,12,0.0548
-Summer 2023,2023-07-01,219,tag,Enterprise Software,11,0.0502
-Summer 2023,2023-07-01,219,tag,Machine Learning,11,0.0502
-Summer 2023,2023-07-01,219,tag,Open Source,11,0.0502
-Summer 2023,2023-07-01,219,tag,Sales,10,0.0457
-Summer 2023,2023-07-01,219,tag,Analytics,10,0.0457
-Summer 2023,2023-07-01,219,tag,Marketing,10,0.0457
-Summer 2023,2023-07-01,219,tag,API,10,0.0457
-Summer 2023,2023-07-01,219,tag,Healthcare IT,9,0.0411
-Summer 2023,2023-07-01,219,tag,Consumer,8,0.0365
-Summer 2023,2023-07-01,219,tag,Enterprise,7,0.032
-Summer 2023,2023-07-01,219,tag,Automation,7,0.032
-Summer 2023,2023-07-01,219,tag,Payments,7,0.032
-Summer 2023,2023-07-01,219,tag,Logistics,7,0.032
-Summer 2023,2023-07-01,219,tag,Compliance,6,0.0274
-Summer 2023,2023-07-01,219,tag,AIOps,6,0.0274
-Summer 2023,2023-07-01,219,tag,Productivity,6,0.0274
-Summer 2023,2023-07-01,219,tag,Digital Health,6,0.0274
-Summer 2023,2023-07-01,219,tag,Biotech,6,0.0274
-Summer 2023,2023-07-01,219,tag,Finance,5,0.0228
-Summer 2023,2023-07-01,219,tag,Workflow Automation,5,0.0228
-Summer 2023,2023-07-01,219,tag,Data Engineering,5,0.0228
-Summer 2023,2023-07-01,219,tag,Data Science,5,0.0228
-Summer 2023,2023-07-01,219,tag,Health Insurance,5,0.0228
-Summer 2023,2023-07-01,219,tag,Consumer Health Services,5,0.0228
-Summer 2023,2023-07-01,219,tag,Databases,5,0.0228
-Summer 2023,2023-07-01,219,tag,Climate,5,0.0228
-Summer 2023,2023-07-01,219,tag,HR Tech,4,0.0183
-Summer 2023,2023-07-01,219,tag,Data Visualization,4,0.0183
-Summer 2023,2023-07-01,219,tag,Construction,4,0.0183
-Summer 2023,2023-07-01,219,tag,Energy,4,0.0183
-Summer 2023,2023-07-01,219,tag,Education,4,0.0183
-Summer 2023,2023-07-01,219,tag,Supply Chain,4,0.0183
-Summer 2023,2023-07-01,219,tag,Web Development,4,0.0183
-Summer 2023,2023-07-01,219,tag,Medical Devices,3,0.0137
-Summer 2023,2023-07-01,219,tag,Recruiting,3,0.0137
-Summer 2023,2023-07-01,219,tag,Retail,3,0.0137
-Summer 2023,2023-07-01,219,tag,Search,3,0.0137
-Summer 2023,2023-07-01,219,tag,ML,3,0.0137
-Summer 2023,2023-07-01,219,tag,Consumer Finance,3,0.0137
-Summer 2023,2023-07-01,219,tag,Legal,3,0.0137
-Summer 2023,2023-07-01,219,tag,Neobank,3,0.0137
-Summer 2023,2023-07-01,219,tag,Security,3,0.0137
-Summer 2023,2023-07-01,219,tag,Cybersecurity,3,0.0137
-Summer 2023,2023-07-01,219,tag,Proptech,3,0.0137
-Summer 2023,2023-07-01,219,tag,Marketplace,3,0.0137
-Summer 2023,2023-07-01,219,tag,Health & Wellness,3,0.0137
-Summer 2023,2023-07-01,219,tag,Real Estate,3,0.0137
-Summer 2023,2023-07-01,219,tag,AI-Enhanced Learning,3,0.0137
-Summer 2023,2023-07-01,219,tag,Conversational AI,3,0.0137
-Summer 2023,2023-07-01,219,tag,Video,3,0.0137
-Summer 2023,2023-07-01,219,tag,Manufacturing,3,0.0137
-Summer 2023,2023-07-01,219,tag,DevOps,3,0.0137
-Summer 2023,2023-07-01,219,tag,Computer Vision,3,0.0137
-Summer 2023,2023-07-01,219,tag,Design,3,0.0137
-Summer 2023,2023-07-01,219,tag,Robotic Process Automation,3,0.0137
-Summer 2023,2023-07-01,219,tag,Hard Tech,2,0.0091
-Summer 2023,2023-07-01,219,tag,Deep Learning,2,0.0091
-Summer 2023,2023-07-01,219,tag,Semiconductors,2,0.0091
-Summer 2023,2023-07-01,219,tag,Big Data,2,0.0091
-Summer 2023,2023-07-01,219,tag,Insurance,2,0.0091
-Summer 2023,2023-07-01,219,tag,GovTech,2,0.0091
-Summer 2023,2023-07-01,219,tag,Payroll,2,0.0091
-Summer 2023,2023-07-01,219,tag,E-commerce,2,0.0091
-Summer 2023,2023-07-01,219,tag,Regtech,2,0.0091
-Summer 2023,2023-07-01,219,tag,LegalTech,2,0.0091
-Summer 2023,2023-07-01,219,tag,Edtech,2,0.0091
-Summer 2023,2023-07-01,219,tag,Entertainment,2,0.0091
-Summer 2023,2023-07-01,219,tag,Gaming,2,0.0091
-Summer 2023,2023-07-01,219,tag,Billing,2,0.0091
-Summer 2023,2023-07-01,219,tag,Sales Enablement,2,0.0091
-Summer 2023,2023-07-01,219,tag,Advertising,2,0.0091
-Summer 2023,2023-07-01,219,tag,Customer Support,2,0.0091
-Summer 2023,2023-07-01,219,tag,Design Tools,2,0.0091
-Summer 2023,2023-07-01,219,tag,CRM,2,0.0091
-Summer 2023,2023-07-01,219,tag,Travel,2,0.0091
-Summer 2023,2023-07-01,219,tag,Team Collaboration,1,0.0046
-Summer 2023,2023-07-01,219,tag,Medical Robotics,1,0.0046
-Summer 2023,2023-07-01,219,tag,Automotive,1,0.0046
-Summer 2023,2023-07-01,219,tag,Conversational Banking,1,0.0046
-Summer 2023,2023-07-01,219,tag,Investing,1,0.0046
-Summer 2023,2023-07-01,219,tag,Cloud Computing,1,0.0046
-Summer 2023,2023-07-01,219,tag,India,1,0.0046
-Summer 2023,2023-07-01,219,tag,Restaurant Tech,1,0.0046
-Summer 2023,2023-07-01,219,tag,Food,1,0.0046
-Summer 2023,2023-07-01,219,tag,Food & Beverage,1,0.0046
-Summer 2023,2023-07-01,219,tag,Latin America,1,0.0046
-Summer 2023,2023-07-01,219,tag,Remittances,1,0.0046
-Summer 2023,2023-07-01,219,tag,Home Services,1,0.0046
-Summer 2023,2023-07-01,219,tag,Home Automation,1,0.0046
-Summer 2023,2023-07-01,219,tag,Data Labeling,1,0.0046
-Summer 2023,2023-07-01,219,tag,Fraud Prevention,1,0.0046
-Summer 2023,2023-07-01,219,tag,Documents,1,0.0046
-Summer 2023,2023-07-01,219,tag,Women's Health,1,0.0046
-Summer 2023,2023-07-01,219,tag,Crypto / Web3,1,0.0046
-Summer 2023,2023-07-01,219,tag,Grocery,1,0.0046
-Summer 2023,2023-07-01,219,tag,Hydrogen Energy,1,0.0046
-Summer 2023,2023-07-01,219,tag,Aerospace,1,0.0046
-Summer 2023,2023-07-01,219,tag,Media,1,0.0046
-Summer 2023,2023-07-01,219,tag,Banking as a Service,1,0.0046
-Summer 2023,2023-07-01,219,tag,Customer Service,1,0.0046
-Summer 2023,2023-07-01,219,tag,Telehealth,1,0.0046
-Summer 2023,2023-07-01,219,tag,Renewable Energy,1,0.0046
-Summer 2023,2023-07-01,219,tag,ClimateTech,1,0.0046
-Summer 2023,2023-07-01,219,tag,Procurement,1,0.0046
-Summer 2023,2023-07-01,219,tag,DevSecOps,1,0.0046
-Summer 2023,2023-07-01,219,tag,Hardware,1,0.0046
-Summer 2023,2023-07-01,219,tag,Kubernetes,1,0.0046
-Summer 2023,2023-07-01,219,tag,No-code,1,0.0046
-Summer 2023,2023-07-01,219,tag,AI-powered Drug Discovery,1,0.0046
-Summer 2023,2023-07-01,219,tag,Nanomedicine,1,0.0046
-Summer 2023,2023-07-01,219,tag,Drug Delivery,1,0.0046
-Summer 2023,2023-07-01,219,tag,Therapeutics,1,0.0046
-Summer 2023,2023-07-01,219,tag,Diagnostics,1,0.0046
-Summer 2023,2023-07-01,219,tag,Synthetic Biology,1,0.0046
-Summer 2023,2023-07-01,219,tag,Agriculture,1,0.0046
-Summer 2023,2023-07-01,219,tag,Genetic Engineering,1,0.0046
-Summer 2023,2023-07-01,219,tag,Satellites,1,0.0046
-Summer 2023,2023-07-01,219,tag,Market Research,1,0.0046
-Summer 2023,2023-07-01,219,tag,Monitoring,1,0.0046
-Summer 2023,2023-07-01,219,tag,eLearning,1,0.0046
-Summer 2023,2023-07-01,219,tag,Operations,1,0.0046
-Summer 2023,2023-07-01,219,tag,Chatbot,1,0.0046
-Summer 2023,2023-07-01,219,tag,Airlines,1,0.0046
-Summer 2023,2023-07-01,219,tag,Trust & Safety,1,0.0046
-Summer 2023,2023-07-01,219,tag,FinOps,1,0.0046
-Summer 2023,2023-07-01,219,tag,Subscriptions,1,0.0046
-Summer 2023,2023-07-01,219,tag,SMS,1,0.0046
-Summer 2023,2023-07-01,219,tag,Telecommunications,1,0.0046
-Summer 2023,2023-07-01,219,tag,Transportation,1,0.0046
-Summer 2023,2023-07-01,219,tag,Delivery,1,0.0046
-Summer 2023,2023-07-01,219,tag,SMB,1,0.0046
-Summer 2023,2023-07-01,219,tag,Privacy,1,0.0046
-Winter 2024,2024-01-01,249,industry,B2B,156,0.6265
+Summer 2023,2023-07-01,220,industry,B2B,152,0.6909
+Summer 2023,2023-07-01,220,industry,"Engineering, Product and Design",32,0.1455
+Summer 2023,2023-07-01,220,industry,Healthcare,28,0.1273
+Summer 2023,2023-07-01,220,industry,Fintech,16,0.0727
+Summer 2023,2023-07-01,220,industry,Sales,11,0.05
+Summer 2023,2023-07-01,220,industry,Infrastructure,11,0.05
+Summer 2023,2023-07-01,220,industry,Productivity,10,0.0455
+Summer 2023,2023-07-01,220,industry,Healthcare IT,9,0.0409
+Summer 2023,2023-07-01,220,industry,Consumer,9,0.0409
+Summer 2023,2023-07-01,220,industry,Supply Chain and Logistics,7,0.0318
+Summer 2023,2023-07-01,220,industry,Finance and Accounting,6,0.0273
+Summer 2023,2023-07-01,220,industry,Industrials,6,0.0273
+Summer 2023,2023-07-01,220,industry,Real Estate and Construction,6,0.0273
+Summer 2023,2023-07-01,220,industry,Security,6,0.0273
+Summer 2023,2023-07-01,220,industry,Analytics,6,0.0273
+Summer 2023,2023-07-01,220,industry,Operations,6,0.0273
+Summer 2023,2023-07-01,220,industry,Retail,5,0.0227
+Summer 2023,2023-07-01,220,industry,Consumer Health and Wellness,5,0.0227
+Summer 2023,2023-07-01,220,industry,Legal,5,0.0227
+Summer 2023,2023-07-01,220,industry,Marketing,4,0.0182
+Summer 2023,2023-07-01,220,industry,Payments,3,0.0136
+Summer 2023,2023-07-01,220,industry,Construction,3,0.0136
+Summer 2023,2023-07-01,220,industry,Education,3,0.0136
+Summer 2023,2023-07-01,220,industry,Healthcare Services,3,0.0136
+Summer 2023,2023-07-01,220,industry,Medical Devices,2,0.0091
+Summer 2023,2023-07-01,220,industry,Recruiting and Talent,2,0.0091
+Summer 2023,2023-07-01,220,industry,Insurance,2,0.0091
+Summer 2023,2023-07-01,220,industry,Agriculture,2,0.0091
+Summer 2023,2023-07-01,220,industry,Diagnostics,2,0.0091
+Summer 2023,2023-07-01,220,industry,Drug Discovery and Delivery,2,0.0091
+Summer 2023,2023-07-01,220,industry,"Travel, Leisure and Tourism",2,0.0091
+Summer 2023,2023-07-01,220,industry,Human Resources,1,0.0045
+Summer 2023,2023-07-01,220,industry,Credit and Lending,1,0.0045
+Summer 2023,2023-07-01,220,industry,Food and Beverage,1,0.0045
+Summer 2023,2023-07-01,220,industry,Consumer Finance,1,0.0045
+Summer 2023,2023-07-01,220,industry,Housing and Real Estate,1,0.0045
+Summer 2023,2023-07-01,220,industry,Climate,1,0.0045
+Summer 2023,2023-07-01,220,industry,Energy,1,0.0045
+Summer 2023,2023-07-01,220,industry,Aviation and Space,1,0.0045
+Summer 2023,2023-07-01,220,industry,Asset Management,1,0.0045
+Summer 2023,2023-07-01,220,industry,Content,1,0.0045
+Summer 2023,2023-07-01,220,region,America / Canada,167,0.7591
+Summer 2023,2023-07-01,220,region,United States of America,163,0.7409
+Summer 2023,2023-07-01,220,region,Remote,86,0.3909
+Summer 2023,2023-07-01,220,region,Partly Remote,58,0.2636
+Summer 2023,2023-07-01,220,region,Fully Remote,28,0.1273
+Summer 2023,2023-07-01,220,region,Europe,27,0.1227
+Summer 2023,2023-07-01,220,region,United Kingdom,13,0.0591
+Summer 2023,2023-07-01,220,region,Unspecified,7,0.0318
+Summer 2023,2023-07-01,220,region,France,5,0.0227
+Summer 2023,2023-07-01,220,region,Canada,4,0.0182
+Summer 2023,2023-07-01,220,region,Germany,4,0.0182
+Summer 2023,2023-07-01,220,region,Africa,3,0.0136
+Summer 2023,2023-07-01,220,region,Latin America,2,0.0091
+Summer 2023,2023-07-01,220,region,Middle East and North Africa,2,0.0091
+Summer 2023,2023-07-01,220,region,India,2,0.0091
+Summer 2023,2023-07-01,220,region,South Asia,2,0.0091
+Summer 2023,2023-07-01,220,region,Denmark,2,0.0091
+Summer 2023,2023-07-01,220,region,Singapore,1,0.0045
+Summer 2023,2023-07-01,220,region,Southeast Asia,1,0.0045
+Summer 2023,2023-07-01,220,region,Brazil,1,0.0045
+Summer 2023,2023-07-01,220,region,United Arab Emirates,1,0.0045
+Summer 2023,2023-07-01,220,region,Nigeria,1,0.0045
+Summer 2023,2023-07-01,220,region,Mexico,1,0.0045
+Summer 2023,2023-07-01,220,region,Kenya,1,0.0045
+Summer 2023,2023-07-01,220,region,Ireland,1,0.0045
+Summer 2023,2023-07-01,220,region,Bulgaria,1,0.0045
+Summer 2023,2023-07-01,220,region,Israel,1,0.0045
+Summer 2023,2023-07-01,220,region,Switzerland,1,0.0045
+Summer 2023,2023-07-01,220,region,Democratic Republic of the Congo,1,0.0045
+Summer 2023,2023-07-01,220,status,Active,182,0.8273
+Summer 2023,2023-07-01,220,status,Inactive,21,0.0955
+Summer 2023,2023-07-01,220,status,Acquired,17,0.0773
+Summer 2023,2023-07-01,220,tag,Artificial Intelligence,76,0.3455
+Summer 2023,2023-07-01,220,tag,AI,60,0.2727
+Summer 2023,2023-07-01,220,tag,B2B,52,0.2364
+Summer 2023,2023-07-01,220,tag,SaaS,43,0.1955
+Summer 2023,2023-07-01,220,tag,Developer Tools,32,0.1455
+Summer 2023,2023-07-01,220,tag,Generative AI,29,0.1318
+Summer 2023,2023-07-01,220,tag,Fintech,22,0.1
+Summer 2023,2023-07-01,220,tag,Healthcare,20,0.0909
+Summer 2023,2023-07-01,220,tag,AI Assistant,13,0.0591
+Summer 2023,2023-07-01,220,tag,Infrastructure,12,0.0545
+Summer 2023,2023-07-01,220,tag,Health Tech,12,0.0545
+Summer 2023,2023-07-01,220,tag,Enterprise Software,11,0.05
+Summer 2023,2023-07-01,220,tag,Machine Learning,11,0.05
+Summer 2023,2023-07-01,220,tag,Open Source,11,0.05
+Summer 2023,2023-07-01,220,tag,Sales,10,0.0455
+Summer 2023,2023-07-01,220,tag,Analytics,10,0.0455
+Summer 2023,2023-07-01,220,tag,Marketing,10,0.0455
+Summer 2023,2023-07-01,220,tag,API,10,0.0455
+Summer 2023,2023-07-01,220,tag,Healthcare IT,9,0.0409
+Summer 2023,2023-07-01,220,tag,Consumer,8,0.0364
+Summer 2023,2023-07-01,220,tag,Enterprise,7,0.0318
+Summer 2023,2023-07-01,220,tag,Automation,7,0.0318
+Summer 2023,2023-07-01,220,tag,Payments,7,0.0318
+Summer 2023,2023-07-01,220,tag,Logistics,7,0.0318
+Summer 2023,2023-07-01,220,tag,Compliance,6,0.0273
+Summer 2023,2023-07-01,220,tag,AIOps,6,0.0273
+Summer 2023,2023-07-01,220,tag,Productivity,6,0.0273
+Summer 2023,2023-07-01,220,tag,Digital Health,6,0.0273
+Summer 2023,2023-07-01,220,tag,Biotech,6,0.0273
+Summer 2023,2023-07-01,220,tag,Finance,5,0.0227
+Summer 2023,2023-07-01,220,tag,Workflow Automation,5,0.0227
+Summer 2023,2023-07-01,220,tag,Data Engineering,5,0.0227
+Summer 2023,2023-07-01,220,tag,Data Science,5,0.0227
+Summer 2023,2023-07-01,220,tag,Health Insurance,5,0.0227
+Summer 2023,2023-07-01,220,tag,Consumer Health Services,5,0.0227
+Summer 2023,2023-07-01,220,tag,Databases,5,0.0227
+Summer 2023,2023-07-01,220,tag,Climate,5,0.0227
+Summer 2023,2023-07-01,220,tag,HR Tech,4,0.0182
+Summer 2023,2023-07-01,220,tag,Data Visualization,4,0.0182
+Summer 2023,2023-07-01,220,tag,Construction,4,0.0182
+Summer 2023,2023-07-01,220,tag,Energy,4,0.0182
+Summer 2023,2023-07-01,220,tag,Education,4,0.0182
+Summer 2023,2023-07-01,220,tag,Supply Chain,4,0.0182
+Summer 2023,2023-07-01,220,tag,Manufacturing,4,0.0182
+Summer 2023,2023-07-01,220,tag,Web Development,4,0.0182
+Summer 2023,2023-07-01,220,tag,Medical Devices,3,0.0136
+Summer 2023,2023-07-01,220,tag,Recruiting,3,0.0136
+Summer 2023,2023-07-01,220,tag,Retail,3,0.0136
+Summer 2023,2023-07-01,220,tag,Search,3,0.0136
+Summer 2023,2023-07-01,220,tag,ML,3,0.0136
+Summer 2023,2023-07-01,220,tag,Consumer Finance,3,0.0136
+Summer 2023,2023-07-01,220,tag,Legal,3,0.0136
+Summer 2023,2023-07-01,220,tag,Neobank,3,0.0136
+Summer 2023,2023-07-01,220,tag,Security,3,0.0136
+Summer 2023,2023-07-01,220,tag,Cybersecurity,3,0.0136
+Summer 2023,2023-07-01,220,tag,Proptech,3,0.0136
+Summer 2023,2023-07-01,220,tag,Marketplace,3,0.0136
+Summer 2023,2023-07-01,220,tag,Health & Wellness,3,0.0136
+Summer 2023,2023-07-01,220,tag,Real Estate,3,0.0136
+Summer 2023,2023-07-01,220,tag,AI-Enhanced Learning,3,0.0136
+Summer 2023,2023-07-01,220,tag,Conversational AI,3,0.0136
+Summer 2023,2023-07-01,220,tag,Video,3,0.0136
+Summer 2023,2023-07-01,220,tag,DevOps,3,0.0136
+Summer 2023,2023-07-01,220,tag,Computer Vision,3,0.0136
+Summer 2023,2023-07-01,220,tag,Design,3,0.0136
+Summer 2023,2023-07-01,220,tag,Robotic Process Automation,3,0.0136
+Summer 2023,2023-07-01,220,tag,Hard Tech,2,0.0091
+Summer 2023,2023-07-01,220,tag,Deep Learning,2,0.0091
+Summer 2023,2023-07-01,220,tag,Semiconductors,2,0.0091
+Summer 2023,2023-07-01,220,tag,Big Data,2,0.0091
+Summer 2023,2023-07-01,220,tag,Insurance,2,0.0091
+Summer 2023,2023-07-01,220,tag,GovTech,2,0.0091
+Summer 2023,2023-07-01,220,tag,Payroll,2,0.0091
+Summer 2023,2023-07-01,220,tag,E-commerce,2,0.0091
+Summer 2023,2023-07-01,220,tag,Regtech,2,0.0091
+Summer 2023,2023-07-01,220,tag,LegalTech,2,0.0091
+Summer 2023,2023-07-01,220,tag,Edtech,2,0.0091
+Summer 2023,2023-07-01,220,tag,Entertainment,2,0.0091
+Summer 2023,2023-07-01,220,tag,Gaming,2,0.0091
+Summer 2023,2023-07-01,220,tag,Billing,2,0.0091
+Summer 2023,2023-07-01,220,tag,Aerospace,2,0.0091
+Summer 2023,2023-07-01,220,tag,Sales Enablement,2,0.0091
+Summer 2023,2023-07-01,220,tag,Advertising,2,0.0091
+Summer 2023,2023-07-01,220,tag,Customer Support,2,0.0091
+Summer 2023,2023-07-01,220,tag,Hardware,2,0.0091
+Summer 2023,2023-07-01,220,tag,Design Tools,2,0.0091
+Summer 2023,2023-07-01,220,tag,CRM,2,0.0091
+Summer 2023,2023-07-01,220,tag,Travel,2,0.0091
+Summer 2023,2023-07-01,220,tag,Team Collaboration,1,0.0045
+Summer 2023,2023-07-01,220,tag,Medical Robotics,1,0.0045
+Summer 2023,2023-07-01,220,tag,Automotive,1,0.0045
+Summer 2023,2023-07-01,220,tag,Conversational Banking,1,0.0045
+Summer 2023,2023-07-01,220,tag,Investing,1,0.0045
+Summer 2023,2023-07-01,220,tag,Cloud Computing,1,0.0045
+Summer 2023,2023-07-01,220,tag,India,1,0.0045
+Summer 2023,2023-07-01,220,tag,Restaurant Tech,1,0.0045
+Summer 2023,2023-07-01,220,tag,Food,1,0.0045
+Summer 2023,2023-07-01,220,tag,Food & Beverage,1,0.0045
+Summer 2023,2023-07-01,220,tag,Latin America,1,0.0045
+Summer 2023,2023-07-01,220,tag,Remittances,1,0.0045
+Summer 2023,2023-07-01,220,tag,Home Services,1,0.0045
+Summer 2023,2023-07-01,220,tag,Home Automation,1,0.0045
+Summer 2023,2023-07-01,220,tag,Data Labeling,1,0.0045
+Summer 2023,2023-07-01,220,tag,Fraud Prevention,1,0.0045
+Summer 2023,2023-07-01,220,tag,Documents,1,0.0045
+Summer 2023,2023-07-01,220,tag,Women's Health,1,0.0045
+Summer 2023,2023-07-01,220,tag,Crypto / Web3,1,0.0045
+Summer 2023,2023-07-01,220,tag,Grocery,1,0.0045
+Summer 2023,2023-07-01,220,tag,Hydrogen Energy,1,0.0045
+Summer 2023,2023-07-01,220,tag,Media,1,0.0045
+Summer 2023,2023-07-01,220,tag,Banking as a Service,1,0.0045
+Summer 2023,2023-07-01,220,tag,Customer Service,1,0.0045
+Summer 2023,2023-07-01,220,tag,Telehealth,1,0.0045
+Summer 2023,2023-07-01,220,tag,Renewable Energy,1,0.0045
+Summer 2023,2023-07-01,220,tag,ClimateTech,1,0.0045
+Summer 2023,2023-07-01,220,tag,Procurement,1,0.0045
+Summer 2023,2023-07-01,220,tag,DevSecOps,1,0.0045
+Summer 2023,2023-07-01,220,tag,Kubernetes,1,0.0045
+Summer 2023,2023-07-01,220,tag,No-code,1,0.0045
+Summer 2023,2023-07-01,220,tag,AI-powered Drug Discovery,1,0.0045
+Summer 2023,2023-07-01,220,tag,Nanomedicine,1,0.0045
+Summer 2023,2023-07-01,220,tag,Drug Delivery,1,0.0045
+Summer 2023,2023-07-01,220,tag,Therapeutics,1,0.0045
+Summer 2023,2023-07-01,220,tag,Diagnostics,1,0.0045
+Summer 2023,2023-07-01,220,tag,Synthetic Biology,1,0.0045
+Summer 2023,2023-07-01,220,tag,Agriculture,1,0.0045
+Summer 2023,2023-07-01,220,tag,Genetic Engineering,1,0.0045
+Summer 2023,2023-07-01,220,tag,Satellites,1,0.0045
+Summer 2023,2023-07-01,220,tag,Market Research,1,0.0045
+Summer 2023,2023-07-01,220,tag,Monitoring,1,0.0045
+Summer 2023,2023-07-01,220,tag,eLearning,1,0.0045
+Summer 2023,2023-07-01,220,tag,Operations,1,0.0045
+Summer 2023,2023-07-01,220,tag,Chatbot,1,0.0045
+Summer 2023,2023-07-01,220,tag,Airlines,1,0.0045
+Summer 2023,2023-07-01,220,tag,Trust & Safety,1,0.0045
+Summer 2023,2023-07-01,220,tag,FinOps,1,0.0045
+Summer 2023,2023-07-01,220,tag,Subscriptions,1,0.0045
+Summer 2023,2023-07-01,220,tag,SMS,1,0.0045
+Summer 2023,2023-07-01,220,tag,Telecommunications,1,0.0045
+Summer 2023,2023-07-01,220,tag,Transportation,1,0.0045
+Summer 2023,2023-07-01,220,tag,Delivery,1,0.0045
+Summer 2023,2023-07-01,220,tag,SMB,1,0.0045
+Summer 2023,2023-07-01,220,tag,Privacy,1,0.0045
+Winter 2024,2024-01-01,249,industry,B2B,157,0.6305
 Winter 2024,2024-01-01,249,industry,"Engineering, Product and Design",41,0.1647
 Winter 2024,2024-01-01,249,industry,Healthcare,29,0.1165
 Winter 2024,2024-01-01,249,industry,Consumer,27,0.1084
 Winter 2024,2024-01-01,249,industry,Fintech,20,0.0803
-Winter 2024,2024-01-01,249,industry,Infrastructure,12,0.0482
+Winter 2024,2024-01-01,249,industry,Infrastructure,14,0.0562
 Winter 2024,2024-01-01,249,industry,Healthcare IT,9,0.0361
 Winter 2024,2024-01-01,249,industry,Industrials,9,0.0361
 Winter 2024,2024-01-01,249,industry,Operations,9,0.0361
@@ -5427,12 +5439,12 @@ Winter 2024,2024-01-01,249,industry,Therapeutics,6,0.0241
 Winter 2024,2024-01-01,249,industry,Security,5,0.0201
 Winter 2024,2024-01-01,249,industry,Aviation and Space,4,0.0161
 Winter 2024,2024-01-01,249,industry,Payments,4,0.0161
-Winter 2024,2024-01-01,249,industry,Education,4,0.0161
 Winter 2024,2024-01-01,249,industry,Legal,3,0.012
 Winter 2024,2024-01-01,249,industry,Consumer Health and Wellness,3,0.012
 Winter 2024,2024-01-01,249,industry,Real Estate and Construction,3,0.012
 Winter 2024,2024-01-01,249,industry,Insurance,3,0.012
 Winter 2024,2024-01-01,249,industry,Asset Management,3,0.012
+Winter 2024,2024-01-01,249,industry,Education,3,0.012
 Winter 2024,2024-01-01,249,industry,Marketing,3,0.012
 Winter 2024,2024-01-01,249,industry,Manufacturing and Robotics,3,0.012
 Winter 2024,2024-01-01,249,industry,Social,2,0.008
@@ -5440,7 +5452,6 @@ Winter 2024,2024-01-01,249,industry,Finance and Accounting,2,0.008
 Winter 2024,2024-01-01,249,industry,Construction,2,0.008
 Winter 2024,2024-01-01,249,industry,Consumer Electronics,2,0.008
 Winter 2024,2024-01-01,249,industry,Recruiting and Talent,1,0.004
-Winter 2024,2024-01-01,249,industry,Gaming,1,0.004
 Winter 2024,2024-01-01,249,industry,Housing and Real Estate,1,0.004
 Winter 2024,2024-01-01,249,industry,Defense,1,0.004
 Winter 2024,2024-01-01,249,industry,Banking and Exchange,1,0.004
@@ -5454,20 +5465,20 @@ Winter 2024,2024-01-01,249,industry,Retail,1,0.004
 Winter 2024,2024-01-01,249,industry,Medical Devices,1,0.004
 Winter 2024,2024-01-01,249,industry,Energy,1,0.004
 Winter 2024,2024-01-01,249,industry,Credit and Lending,1,0.004
-Winter 2024,2024-01-01,249,region,America / Canada,212,0.8514
+Winter 2024,2024-01-01,249,region,America / Canada,213,0.8554
 Winter 2024,2024-01-01,249,region,United States of America,209,0.8394
-Winter 2024,2024-01-01,249,region,Remote,82,0.3293
-Winter 2024,2024-01-01,249,region,Partly Remote,63,0.253
+Winter 2024,2024-01-01,249,region,Remote,83,0.3333
+Winter 2024,2024-01-01,249,region,Partly Remote,64,0.257
 Winter 2024,2024-01-01,249,region,Fully Remote,19,0.0763
 Winter 2024,2024-01-01,249,region,Europe,15,0.0602
 Winter 2024,2024-01-01,249,region,Unspecified,8,0.0321
 Winter 2024,2024-01-01,249,region,United Kingdom,7,0.0281
+Winter 2024,2024-01-01,249,region,Canada,4,0.0161
 Winter 2024,2024-01-01,249,region,India,4,0.0161
 Winter 2024,2024-01-01,249,region,South Asia,4,0.0161
 Winter 2024,2024-01-01,249,region,France,4,0.0161
 Winter 2024,2024-01-01,249,region,Africa,3,0.012
 Winter 2024,2024-01-01,249,region,Germany,3,0.012
-Winter 2024,2024-01-01,249,region,Canada,3,0.012
 Winter 2024,2024-01-01,249,region,Nigeria,2,0.008
 Winter 2024,2024-01-01,249,region,Sweden,1,0.004
 Winter 2024,2024-01-01,249,region,Brazil,1,0.004
@@ -5476,25 +5487,25 @@ Winter 2024,2024-01-01,249,region,Kenya,1,0.004
 Winter 2024,2024-01-01,249,status,Active,219,0.8795
 Winter 2024,2024-01-01,249,status,Inactive,22,0.0884
 Winter 2024,2024-01-01,249,status,Acquired,8,0.0321
-Winter 2024,2024-01-01,249,tag,AI,83,0.3333
-Winter 2024,2024-01-01,249,tag,Artificial Intelligence,83,0.3333
+Winter 2024,2024-01-01,249,tag,Artificial Intelligence,88,0.3534
+Winter 2024,2024-01-01,249,tag,AI,81,0.3253
 Winter 2024,2024-01-01,249,tag,B2B,58,0.2329
 Winter 2024,2024-01-01,249,tag,SaaS,32,0.1285
 Winter 2024,2024-01-01,249,tag,Developer Tools,30,0.1205
 Winter 2024,2024-01-01,249,tag,AI Assistant,20,0.0803
 Winter 2024,2024-01-01,249,tag,Generative AI,19,0.0763
 Winter 2024,2024-01-01,249,tag,Fintech,18,0.0723
-Winter 2024,2024-01-01,249,tag,Consumer,17,0.0683
+Winter 2024,2024-01-01,249,tag,Consumer,16,0.0643
 Winter 2024,2024-01-01,249,tag,Healthcare,13,0.0522
 Winter 2024,2024-01-01,249,tag,Sales,12,0.0482
 Winter 2024,2024-01-01,249,tag,Open Source,12,0.0482
 Winter 2024,2024-01-01,249,tag,Automation,11,0.0442
 Winter 2024,2024-01-01,249,tag,Productivity,10,0.0402
-Winter 2024,2024-01-01,249,tag,Infrastructure,9,0.0361
 Winter 2024,2024-01-01,249,tag,Workflow Automation,9,0.0361
-Winter 2024,2024-01-01,249,tag,Enterprise Software,9,0.0361
 Winter 2024,2024-01-01,249,tag,Digital Health,8,0.0321
 Winter 2024,2024-01-01,249,tag,Analytics,8,0.0321
+Winter 2024,2024-01-01,249,tag,Enterprise Software,8,0.0321
+Winter 2024,2024-01-01,249,tag,Infrastructure,8,0.0321
 Winter 2024,2024-01-01,249,tag,Marketing,8,0.0321
 Winter 2024,2024-01-01,249,tag,Enterprise,8,0.0321
 Winter 2024,2024-01-01,249,tag,Video,7,0.0281
@@ -5506,6 +5517,7 @@ Winter 2024,2024-01-01,249,tag,API,6,0.0241
 Winter 2024,2024-01-01,249,tag,Biotech,6,0.0241
 Winter 2024,2024-01-01,249,tag,Logistics,6,0.0241
 Winter 2024,2024-01-01,249,tag,Security,6,0.0241
+Winter 2024,2024-01-01,249,tag,Consumer Health Services,5,0.0201
 Winter 2024,2024-01-01,249,tag,Data Visualization,5,0.0201
 Winter 2024,2024-01-01,249,tag,Insurance,5,0.0201
 Winter 2024,2024-01-01,249,tag,Compliance,5,0.0201
@@ -5515,15 +5527,12 @@ Winter 2024,2024-01-01,249,tag,Search,5,0.0201
 Winter 2024,2024-01-01,249,tag,Robotics,5,0.0201
 Winter 2024,2024-01-01,249,tag,Data Engineering,5,0.0201
 Winter 2024,2024-01-01,249,tag,Computer Vision,4,0.0161
-Winter 2024,2024-01-01,249,tag,Consumer Health Services,4,0.0161
 Winter 2024,2024-01-01,249,tag,Data Science,4,0.0161
 Winter 2024,2024-01-01,249,tag,Automotive,4,0.0161
 Winter 2024,2024-01-01,249,tag,Payments,4,0.0161
 Winter 2024,2024-01-01,249,tag,Operations,4,0.0161
 Winter 2024,2024-01-01,249,tag,Customer Support,4,0.0161
 Winter 2024,2024-01-01,249,tag,Oncology,4,0.0161
-Winter 2024,2024-01-01,249,tag,Education,4,0.0161
-Winter 2024,2024-01-01,249,tag,Customer Service,3,0.012
 Winter 2024,2024-01-01,249,tag,Legal,3,0.012
 Winter 2024,2024-01-01,249,tag,LegalTech,3,0.012
 Winter 2024,2024-01-01,249,tag,Proptech,3,0.012
@@ -5541,6 +5550,7 @@ Winter 2024,2024-01-01,249,tag,Social Media,3,0.012
 Winter 2024,2024-01-01,249,tag,Drug discovery,3,0.012
 Winter 2024,2024-01-01,249,tag,Investing,3,0.012
 Winter 2024,2024-01-01,249,tag,Documents,3,0.012
+Winter 2024,2024-01-01,249,tag,Education,3,0.012
 Winter 2024,2024-01-01,249,tag,Supply Chain,3,0.012
 Winter 2024,2024-01-01,249,tag,Synthetic Biology,3,0.012
 Winter 2024,2024-01-01,249,tag,Reinforcement Learning,3,0.012
@@ -5551,12 +5561,13 @@ Winter 2024,2024-01-01,249,tag,Health & Wellness,2,0.008
 Winter 2024,2024-01-01,249,tag,CRM,2,0.008
 Winter 2024,2024-01-01,249,tag,Recruiting,2,0.008
 Winter 2024,2024-01-01,249,tag,HR Tech,2,0.008
-Winter 2024,2024-01-01,249,tag,Gaming,2,0.008
 Winter 2024,2024-01-01,249,tag,Real Estate,2,0.008
+Winter 2024,2024-01-01,249,tag,Satellites,2,0.008
 Winter 2024,2024-01-01,249,tag,Food & Beverage,2,0.008
 Winter 2024,2024-01-01,249,tag,Cloud Computing,2,0.008
 Winter 2024,2024-01-01,249,tag,Neobank,2,0.008
 Winter 2024,2024-01-01,249,tag,Cybersecurity,2,0.008
+Winter 2024,2024-01-01,249,tag,Customer Service,2,0.008
 Winter 2024,2024-01-01,249,tag,Music,2,0.008
 Winter 2024,2024-01-01,249,tag,GovTech,2,0.008
 Winter 2024,2024-01-01,249,tag,Hard Tech,2,0.008
@@ -5569,6 +5580,7 @@ Winter 2024,2024-01-01,249,tag,Energy Storage,2,0.008
 Winter 2024,2024-01-01,249,tag,Feedback,1,0.004
 Winter 2024,2024-01-01,249,tag,Dental,1,0.004
 Winter 2024,2024-01-01,249,tag,Call Center,1,0.004
+Winter 2024,2024-01-01,249,tag,Defense,1,0.004
 Winter 2024,2024-01-01,249,tag,Retail,1,0.004
 Winter 2024,2024-01-01,249,tag,Health Insurance,1,0.004
 Winter 2024,2024-01-01,249,tag,Remote Work,1,0.004
@@ -5578,7 +5590,6 @@ Winter 2024,2024-01-01,249,tag,Design,1,0.004
 Winter 2024,2024-01-01,249,tag,Architecture,1,0.004
 Winter 2024,2024-01-01,249,tag,ML,1,0.004
 Winter 2024,2024-01-01,249,tag,Drones,1,0.004
-Winter 2024,2024-01-01,249,tag,Satellites,1,0.004
 Winter 2024,2024-01-01,249,tag,Rocketry,1,0.004
 Winter 2024,2024-01-01,249,tag,Restaurant Tech,1,0.004
 Winter 2024,2024-01-01,249,tag,Food Tech,1,0.004
@@ -5620,6 +5631,7 @@ Winter 2024,2024-01-01,249,tag,Solar Power,1,0.004
 Winter 2024,2024-01-01,249,tag,Energy,1,0.004
 Winter 2024,2024-01-01,249,tag,AI-powered Drug Discovery,1,0.004
 Winter 2024,2024-01-01,249,tag,Home Services,1,0.004
+Winter 2024,2024-01-01,249,tag,Gaming,1,0.004
 Winter 2024,2024-01-01,249,tag,Electronics,1,0.004
 Winter 2024,2024-01-01,249,tag,Big Data,1,0.004
 Winter 2024,2024-01-01,249,tag,Sustainability,1,0.004
@@ -5674,27 +5686,31 @@ Summer 2024,2024-07-01,248,industry,"Travel, Leisure and Tourism",1,0.004
 Summer 2024,2024-07-01,248,industry,Office Management,1,0.004
 Summer 2024,2024-07-01,248,industry,Healthcare Services,1,0.004
 Summer 2024,2024-07-01,248,industry,Transportation Services,1,0.004
-Summer 2024,2024-07-01,248,region,America / Canada,205,0.8266
-Summer 2024,2024-07-01,248,region,United States of America,204,0.8226
+Summer 2024,2024-07-01,248,region,America / Canada,207,0.8347
+Summer 2024,2024-07-01,248,region,United States of America,205,0.8266
 Summer 2024,2024-07-01,248,region,Remote,79,0.3185
 Summer 2024,2024-07-01,248,region,Partly Remote,63,0.254
-Summer 2024,2024-07-01,248,region,Europe,20,0.0806
+Summer 2024,2024-07-01,248,region,Europe,23,0.0927
 Summer 2024,2024-07-01,248,region,Fully Remote,16,0.0645
 Summer 2024,2024-07-01,248,region,United Kingdom,14,0.0565
-Summer 2024,2024-07-01,248,region,Unspecified,9,0.0363
-Summer 2024,2024-07-01,248,region,France,3,0.0121
-Summer 2024,2024-07-01,248,region,Germany,2,0.0081
-Summer 2024,2024-07-01,248,region,India,2,0.0081
-Summer 2024,2024-07-01,248,region,South Asia,2,0.0081
+Summer 2024,2024-07-01,248,region,France,4,0.0161
+Summer 2024,2024-07-01,248,region,Unspecified,4,0.0161
+Summer 2024,2024-07-01,248,region,Germany,3,0.0121
+Summer 2024,2024-07-01,248,region,India,3,0.0121
+Summer 2024,2024-07-01,248,region,South Asia,3,0.0121
+Summer 2024,2024-07-01,248,region,Latin America,2,0.0081
+Summer 2024,2024-07-01,248,region,Canada,2,0.0081
 Summer 2024,2024-07-01,248,region,Mexico,1,0.004
-Summer 2024,2024-07-01,248,region,Latin America,1,0.004
 Summer 2024,2024-07-01,248,region,Belgium,1,0.004
-Summer 2024,2024-07-01,248,region,Canada,1,0.004
-Summer 2024,2024-07-01,248,status,Active,237,0.9556
+Summer 2024,2024-07-01,248,region,Argentina,1,0.004
+Summer 2024,2024-07-01,248,region,Turkey,1,0.004
+Summer 2024,2024-07-01,248,region,Middle East and North Africa,1,0.004
+Summer 2024,2024-07-01,248,region,Sweden,1,0.004
+Summer 2024,2024-07-01,248,status,Active,236,0.9516
 Summer 2024,2024-07-01,248,status,Acquired,6,0.0242
-Summer 2024,2024-07-01,248,status,Inactive,5,0.0202
-Summer 2024,2024-07-01,248,tag,AI,82,0.3306
-Summer 2024,2024-07-01,248,tag,Artificial Intelligence,81,0.3266
+Summer 2024,2024-07-01,248,status,Inactive,6,0.0242
+Summer 2024,2024-07-01,248,tag,AI,83,0.3347
+Summer 2024,2024-07-01,248,tag,Artificial Intelligence,80,0.3226
 Summer 2024,2024-07-01,248,tag,B2B,64,0.2581
 Summer 2024,2024-07-01,248,tag,SaaS,39,0.1573
 Summer 2024,2024-07-01,248,tag,Developer Tools,33,0.1331
@@ -5708,24 +5724,25 @@ Summer 2024,2024-07-01,248,tag,Biotech,11,0.0444
 Summer 2024,2024-07-01,248,tag,Finance,11,0.0444
 Summer 2024,2024-07-01,248,tag,Infrastructure,11,0.0444
 Summer 2024,2024-07-01,248,tag,Machine Learning,10,0.0403
+Summer 2024,2024-07-01,248,tag,Manufacturing,10,0.0403
 Summer 2024,2024-07-01,248,tag,AIOps,10,0.0403
 Summer 2024,2024-07-01,248,tag,Workflow Automation,10,0.0403
 Summer 2024,2024-07-01,248,tag,Enterprise Software,10,0.0403
 Summer 2024,2024-07-01,248,tag,Healthcare,9,0.0363
 Summer 2024,2024-07-01,248,tag,Robotics,9,0.0363
-Summer 2024,2024-07-01,248,tag,Manufacturing,9,0.0363
 Summer 2024,2024-07-01,248,tag,Analytics,9,0.0363
 Summer 2024,2024-07-01,248,tag,Supply Chain,9,0.0363
+Summer 2024,2024-07-01,248,tag,Hardware,8,0.0323
 Summer 2024,2024-07-01,248,tag,Open Source,8,0.0323
 Summer 2024,2024-07-01,248,tag,LegalTech,7,0.0282
 Summer 2024,2024-07-01,248,tag,Automation,7,0.0282
-Summer 2024,2024-07-01,248,tag,Hardware,7,0.0282
 Summer 2024,2024-07-01,248,tag,Operations,7,0.0282
 Summer 2024,2024-07-01,248,tag,Climate,6,0.0242
 Summer 2024,2024-07-01,248,tag,E-commerce,6,0.0242
 Summer 2024,2024-07-01,248,tag,Health Tech,6,0.0242
 Summer 2024,2024-07-01,248,tag,Synthetic Biology,5,0.0202
 Summer 2024,2024-07-01,248,tag,Aerospace,5,0.0202
+Summer 2024,2024-07-01,248,tag,Industrial,5,0.0202
 Summer 2024,2024-07-01,248,tag,Real Estate,5,0.0202
 Summer 2024,2024-07-01,248,tag,Computer Vision,5,0.0202
 Summer 2024,2024-07-01,248,tag,Logistics,5,0.0202
@@ -5734,12 +5751,12 @@ Summer 2024,2024-07-01,248,tag,Cloud Computing,5,0.0202
 Summer 2024,2024-07-01,248,tag,Compliance,4,0.0161
 Summer 2024,2024-07-01,248,tag,Marketing,4,0.0161
 Summer 2024,2024-07-01,248,tag,Sales,4,0.0161
-Summer 2024,2024-07-01,248,tag,Industrial,4,0.0161
 Summer 2024,2024-07-01,248,tag,Proptech,4,0.0161
 Summer 2024,2024-07-01,248,tag,Insurance,4,0.0161
 Summer 2024,2024-07-01,248,tag,Payments,4,0.0161
 Summer 2024,2024-07-01,248,tag,Travel,4,0.0161
 Summer 2024,2024-07-01,248,tag,Big Data,4,0.0161
+Summer 2024,2024-07-01,248,tag,Semiconductors,4,0.0161
 Summer 2024,2024-07-01,248,tag,Consumer Finance,4,0.0161
 Summer 2024,2024-07-01,248,tag,Enterprise,4,0.0161
 Summer 2024,2024-07-01,248,tag,Data Science,4,0.0161
@@ -5753,7 +5770,6 @@ Summer 2024,2024-07-01,248,tag,Media,3,0.0121
 Summer 2024,2024-07-01,248,tag,HR Tech,3,0.0121
 Summer 2024,2024-07-01,248,tag,Feedback,3,0.0121
 Summer 2024,2024-07-01,248,tag,Security,3,0.0121
-Summer 2024,2024-07-01,248,tag,Semiconductors,3,0.0121
 Summer 2024,2024-07-01,248,tag,Conversational AI,3,0.0121
 Summer 2024,2024-07-01,248,tag,Gaming,3,0.0121
 Summer 2024,2024-07-01,248,tag,Call Center,3,0.0121
@@ -5848,40 +5864,45 @@ Fall 2024,2024-10-01,94,industry,Fintech,6,0.0638
 Fall 2024,2024-10-01,94,industry,Industrials,5,0.0532
 Fall 2024,2024-10-01,94,industry,Sales,5,0.0532
 Fall 2024,2024-10-01,94,industry,Real Estate and Construction,4,0.0426
+Fall 2024,2024-10-01,94,industry,Operations,4,0.0426
 Fall 2024,2024-10-01,94,industry,Aviation and Space,3,0.0319
 Fall 2024,2024-10-01,94,industry,Construction,3,0.0319
-Fall 2024,2024-10-01,94,industry,Operations,3,0.0319
 Fall 2024,2024-10-01,94,industry,Productivity,3,0.0319
 Fall 2024,2024-10-01,94,industry,Finance and Accounting,2,0.0213
 Fall 2024,2024-10-01,94,industry,Legal,2,0.0213
 Fall 2024,2024-10-01,94,industry,Healthcare IT,2,0.0213
-Fall 2024,2024-10-01,94,industry,Supply Chain and Logistics,2,0.0213
 Fall 2024,2024-10-01,94,industry,Social,1,0.0106
 Fall 2024,2024-10-01,94,industry,Automotive,1,0.0106
 Fall 2024,2024-10-01,94,industry,Content,1,0.0106
 Fall 2024,2024-10-01,94,industry,Security,1,0.0106
+Fall 2024,2024-10-01,94,industry,Education,1,0.0106
+Fall 2024,2024-10-01,94,industry,Supply Chain and Logistics,1,0.0106
 Fall 2024,2024-10-01,94,industry,Consumer Electronics,1,0.0106
 Fall 2024,2024-10-01,94,industry,Recruiting and Talent,1,0.0106
 Fall 2024,2024-10-01,94,industry,Manufacturing and Robotics,1,0.0106
 Fall 2024,2024-10-01,94,industry,Retail,1,0.0106
 Fall 2024,2024-10-01,94,industry,Consumer Health and Wellness,1,0.0106
-Fall 2024,2024-10-01,94,industry,Education,1,0.0106
 Fall 2024,2024-10-01,94,industry,Insurance,1,0.0106
 Fall 2024,2024-10-01,94,industry,Government,1,0.0106
 Fall 2024,2024-10-01,94,industry,Consumer Finance,1,0.0106
 Fall 2024,2024-10-01,94,industry,Marketing,1,0.0106
 Fall 2024,2024-10-01,94,industry,"Travel, Leisure and Tourism",1,0.0106
+Fall 2024,2024-10-01,94,region,America / Canada,84,0.8936
 Fall 2024,2024-10-01,94,region,United States of America,83,0.883
-Fall 2024,2024-10-01,94,region,America / Canada,83,0.883
-Fall 2024,2024-10-01,94,region,Remote,25,0.266
-Fall 2024,2024-10-01,94,region,Partly Remote,16,0.1702
+Fall 2024,2024-10-01,94,region,Remote,26,0.2766
+Fall 2024,2024-10-01,94,region,Partly Remote,17,0.1809
 Fall 2024,2024-10-01,94,region,Fully Remote,9,0.0957
-Fall 2024,2024-10-01,94,region,Unspecified,4,0.0426
-Fall 2024,2024-10-01,94,region,Europe,4,0.0426
-Fall 2024,2024-10-01,94,region,Germany,2,0.0213
+Fall 2024,2024-10-01,94,region,Europe,6,0.0638
+Fall 2024,2024-10-01,94,region,Germany,3,0.0319
 Fall 2024,2024-10-01,94,region,United Kingdom,2,0.0213
+Fall 2024,2024-10-01,94,region,Hong Kong,1,0.0106
+Fall 2024,2024-10-01,94,region,East Asia,1,0.0106
+Fall 2024,2024-10-01,94,region,Canada,1,0.0106
+Fall 2024,2024-10-01,94,region,France,1,0.0106
 Fall 2024,2024-10-01,94,region,Singapore,1,0.0106
 Fall 2024,2024-10-01,94,region,Southeast Asia,1,0.0106
+Fall 2024,2024-10-01,94,region,Israel,1,0.0106
+Fall 2024,2024-10-01,94,region,Middle East and North Africa,1,0.0106
 Fall 2024,2024-10-01,94,status,Active,90,0.9574
 Fall 2024,2024-10-01,94,status,Inactive,3,0.0319
 Fall 2024,2024-10-01,94,status,Acquired,1,0.0106
@@ -5908,6 +5929,7 @@ Fall 2024,2024-10-01,94,tag,Video,3,0.0319
 Fall 2024,2024-10-01,94,tag,Digital Health,3,0.0319
 Fall 2024,2024-10-01,94,tag,DevOps,3,0.0319
 Fall 2024,2024-10-01,94,tag,Design Tools,3,0.0319
+Fall 2024,2024-10-01,94,tag,Big Data,2,0.0213
 Fall 2024,2024-10-01,94,tag,Construction,2,0.0213
 Fall 2024,2024-10-01,94,tag,Healthcare IT,2,0.0213
 Fall 2024,2024-10-01,94,tag,Automotive,2,0.0213
@@ -5926,7 +5948,6 @@ Fall 2024,2024-10-01,94,tag,Fintech,2,0.0213
 Fall 2024,2024-10-01,94,tag,Design,2,0.0213
 Fall 2024,2024-10-01,94,tag,No-code,2,0.0213
 Fall 2024,2024-10-01,94,tag,AIOps,1,0.0106
-Fall 2024,2024-10-01,94,tag,Big Data,1,0.0106
 Fall 2024,2024-10-01,94,tag,Proptech,1,0.0106
 Fall 2024,2024-10-01,94,tag,Trading,1,0.0106
 Fall 2024,2024-10-01,94,tag,Deep Learning,1,0.0106
@@ -5973,28 +5994,27 @@ Fall 2024,2024-10-01,94,tag,HR Tech,1,0.0106
 Fall 2024,2024-10-01,94,tag,Reinforcement Learning,1,0.0106
 Fall 2024,2024-10-01,94,tag,Travel,1,0.0106
 Fall 2024,2024-10-01,94,tag,Documents,1,0.0106
-Fall 2024,2024-10-01,94,tag,IoT,1,0.0106
 Fall 2024,2024-10-01,94,tag,Supply Chain,1,0.0106
-Fall 2024,2024-10-01,94,tag,Data Science,1,0.0106
+Fall 2024,2024-10-01,94,tag,Operations,1,0.0106
 Fall 2024,2024-10-01,94,tag,AI-Enhanced Learning,1,0.0106
-Winter 2025,2025-01-01,167,industry,B2B,104,0.6228
-Winter 2025,2025-01-01,167,industry,"Engineering, Product and Design",25,0.1497
+Winter 2025,2025-01-01,167,industry,B2B,105,0.6287
+Winter 2025,2025-01-01,167,industry,"Engineering, Product and Design",24,0.1437
 Winter 2025,2025-01-01,167,industry,Industrials,18,0.1078
 Winter 2025,2025-01-01,167,industry,Fintech,13,0.0778
-Winter 2025,2025-01-01,167,industry,Healthcare,12,0.0719
+Winter 2025,2025-01-01,167,industry,Healthcare,11,0.0659
+Winter 2025,2025-01-01,167,industry,Infrastructure,9,0.0539
 Winter 2025,2025-01-01,167,industry,Consumer,9,0.0539
-Winter 2025,2025-01-01,167,industry,Infrastructure,8,0.0479
 Winter 2025,2025-01-01,167,industry,Productivity,7,0.0419
 Winter 2025,2025-01-01,167,industry,Recruiting and Talent,6,0.0359
 Winter 2025,2025-01-01,167,industry,Manufacturing and Robotics,6,0.0359
 Winter 2025,2025-01-01,167,industry,Education,5,0.0299
 Winter 2025,2025-01-01,167,industry,Healthcare IT,5,0.0299
 Winter 2025,2025-01-01,167,industry,Finance and Accounting,5,0.0299
+Winter 2025,2025-01-01,167,industry,Sales,5,0.0299
 Winter 2025,2025-01-01,167,industry,Government,4,0.024
 Winter 2025,2025-01-01,167,industry,Analytics,4,0.024
 Winter 2025,2025-01-01,167,industry,Legal,4,0.024
 Winter 2025,2025-01-01,167,industry,Aviation and Space,4,0.024
-Winter 2025,2025-01-01,167,industry,Sales,4,0.024
 Winter 2025,2025-01-01,167,industry,Energy,3,0.018
 Winter 2025,2025-01-01,167,industry,Operations,3,0.018
 Winter 2025,2025-01-01,167,industry,Insurance,3,0.018
@@ -6016,81 +6036,94 @@ Winter 2025,2025-01-01,167,industry,Drones,1,0.006
 Winter 2025,2025-01-01,167,industry,Supply Chain and Logistics,1,0.006
 Winter 2025,2025-01-01,167,industry,Healthcare Services,1,0.006
 Winter 2025,2025-01-01,167,industry,Human Resources,1,0.006
-Winter 2025,2025-01-01,167,region,America / Canada,142,0.8503
-Winter 2025,2025-01-01,167,region,United States of America,140,0.8383
+Winter 2025,2025-01-01,167,region,America / Canada,137,0.8204
+Winter 2025,2025-01-01,167,region,United States of America,133,0.7964
 Winter 2025,2025-01-01,167,region,Remote,21,0.1257
+Winter 2025,2025-01-01,167,region,Europe,20,0.1198
 Winter 2025,2025-01-01,167,region,Partly Remote,14,0.0838
-Winter 2025,2025-01-01,167,region,Unspecified,12,0.0719
-Winter 2025,2025-01-01,167,region,Europe,9,0.0539
 Winter 2025,2025-01-01,167,region,Fully Remote,7,0.0419
 Winter 2025,2025-01-01,167,region,United Kingdom,5,0.0299
-Winter 2025,2025-01-01,167,region,Canada,2,0.012
+Winter 2025,2025-01-01,167,region,Unspecified,4,0.024
+Winter 2025,2025-01-01,167,region,Canada,4,0.024
+Winter 2025,2025-01-01,167,region,Germany,4,0.024
+Winter 2025,2025-01-01,167,region,Sweden,3,0.018
+Winter 2025,2025-01-01,167,region,France,2,0.012
+Winter 2025,2025-01-01,167,region,Middle East and North Africa,2,0.012
 Winter 2025,2025-01-01,167,region,Denmark,1,0.006
 Winter 2025,2025-01-01,167,region,Colombia,1,0.006
 Winter 2025,2025-01-01,167,region,Latin America,1,0.006
-Winter 2025,2025-01-01,167,region,Germany,1,0.006
+Winter 2025,2025-01-01,167,region,Israel,1,0.006
+Winter 2025,2025-01-01,167,region,South Korea,1,0.006
+Winter 2025,2025-01-01,167,region,East Asia,1,0.006
+Winter 2025,2025-01-01,167,region,Australia,1,0.006
+Winter 2025,2025-01-01,167,region,Oceania,1,0.006
+Winter 2025,2025-01-01,167,region,United Arab Emirates,1,0.006
+Winter 2025,2025-01-01,167,region,Spain,1,0.006
 Winter 2025,2025-01-01,167,region,Netherlands,1,0.006
+Winter 2025,2025-01-01,167,region,Malta,1,0.006
+Winter 2025,2025-01-01,167,region,Belgium,1,0.006
 Winter 2025,2025-01-01,167,region,Switzerland,1,0.006
 Winter 2025,2025-01-01,167,region,India,1,0.006
 Winter 2025,2025-01-01,167,region,South Asia,1,0.006
-Winter 2025,2025-01-01,167,status,Active,165,0.988
+Winter 2025,2025-01-01,167,status,Active,164,0.982
+Winter 2025,2025-01-01,167,status,Inactive,2,0.012
 Winter 2025,2025-01-01,167,status,Acquired,1,0.006
-Winter 2025,2025-01-01,167,status,Inactive,1,0.006
 Winter 2025,2025-01-01,167,tag,Artificial Intelligence,51,0.3054
 Winter 2025,2025-01-01,167,tag,AI,42,0.2515
 Winter 2025,2025-01-01,167,tag,B2B,35,0.2096
 Winter 2025,2025-01-01,167,tag,SaaS,27,0.1617
 Winter 2025,2025-01-01,167,tag,Developer Tools,16,0.0958
 Winter 2025,2025-01-01,167,tag,Generative AI,16,0.0958
-Winter 2025,2025-01-01,167,tag,Fintech,12,0.0719
+Winter 2025,2025-01-01,167,tag,Fintech,11,0.0659
 Winter 2025,2025-01-01,167,tag,Sales,9,0.0539
 Winter 2025,2025-01-01,167,tag,Consumer,9,0.0539
-Winter 2025,2025-01-01,167,tag,Health Tech,8,0.0479
-Winter 2025,2025-01-01,167,tag,Healthcare,8,0.0479
+Winter 2025,2025-01-01,167,tag,Health Tech,7,0.0419
+Winter 2025,2025-01-01,167,tag,Healthcare,7,0.0419
 Winter 2025,2025-01-01,167,tag,Open Source,7,0.0419
+Winter 2025,2025-01-01,167,tag,Infrastructure,7,0.0419
 Winter 2025,2025-01-01,167,tag,Hardware,6,0.0359
 Winter 2025,2025-01-01,167,tag,Machine Learning,6,0.0359
 Winter 2025,2025-01-01,167,tag,AI Assistant,6,0.0359
 Winter 2025,2025-01-01,167,tag,API,6,0.0359
 Winter 2025,2025-01-01,167,tag,Conversational AI,6,0.0359
 Winter 2025,2025-01-01,167,tag,Analytics,6,0.0359
-Winter 2025,2025-01-01,167,tag,Infrastructure,6,0.0359
 Winter 2025,2025-01-01,167,tag,Education,5,0.0299
 Winter 2025,2025-01-01,167,tag,GovTech,5,0.0299
 Winter 2025,2025-01-01,167,tag,Compliance,5,0.0299
 Winter 2025,2025-01-01,167,tag,Automation,5,0.0299
 Winter 2025,2025-01-01,167,tag,Manufacturing,5,0.0299
 Winter 2025,2025-01-01,167,tag,Legal,5,0.0299
-Winter 2025,2025-01-01,167,tag,Finance,5,0.0299
 Winter 2025,2025-01-01,167,tag,Hard Tech,5,0.0299
 Winter 2025,2025-01-01,167,tag,Reinforcement Learning,4,0.024
 Winter 2025,2025-01-01,167,tag,Enterprise,4,0.024
 Winter 2025,2025-01-01,167,tag,AI-Enhanced Learning,4,0.024
+Winter 2025,2025-01-01,167,tag,Digital Health,4,0.024
 Winter 2025,2025-01-01,167,tag,Enterprise Software,4,0.024
 Winter 2025,2025-01-01,167,tag,Sales Enablement,4,0.024
 Winter 2025,2025-01-01,167,tag,Workflow Automation,4,0.024
-Winter 2025,2025-01-01,167,tag,Computer Vision,4,0.024
+Winter 2025,2025-01-01,167,tag,Finance,4,0.024
 Winter 2025,2025-01-01,167,tag,Design,3,0.018
-Winter 2025,2025-01-01,167,tag,Digital Health,3,0.018
 Winter 2025,2025-01-01,167,tag,Healthcare IT,3,0.018
-Winter 2025,2025-01-01,167,tag,Robotic Process Automation,3,0.018
 Winter 2025,2025-01-01,167,tag,Marketing,3,0.018
 Winter 2025,2025-01-01,167,tag,FinOps,3,0.018
+Winter 2025,2025-01-01,167,tag,Recruiting,3,0.018
 Winter 2025,2025-01-01,167,tag,Logistics,3,0.018
 Winter 2025,2025-01-01,167,tag,Robotics,3,0.018
 Winter 2025,2025-01-01,167,tag,HR Tech,3,0.018
 Winter 2025,2025-01-01,167,tag,AIOps,3,0.018
+Winter 2025,2025-01-01,167,tag,Computer Vision,3,0.018
 Winter 2025,2025-01-01,167,tag,Electronics,3,0.018
 Winter 2025,2025-01-01,167,tag,Social,2,0.012
 Winter 2025,2025-01-01,167,tag,Cybersecurity,2,0.012
 Winter 2025,2025-01-01,167,tag,Cloud Computing,2,0.012
+Winter 2025,2025-01-01,167,tag,Robotic Process Automation,2,0.012
 Winter 2025,2025-01-01,167,tag,Energy,2,0.012
 Winter 2025,2025-01-01,167,tag,ClimateTech,2,0.012
 Winter 2025,2025-01-01,167,tag,Crypto / Web3,2,0.012
 Winter 2025,2025-01-01,167,tag,Payments,2,0.012
 Winter 2025,2025-01-01,167,tag,Telecommunications,2,0.012
 Winter 2025,2025-01-01,167,tag,CRM,2,0.012
-Winter 2025,2025-01-01,167,tag,Recruiting,2,0.012
+Winter 2025,2025-01-01,167,tag,E-commerce,2,0.012
 Winter 2025,2025-01-01,167,tag,Operations,2,0.012
 Winter 2025,2025-01-01,167,tag,Biotech,2,0.012
 Winter 2025,2025-01-01,167,tag,Productivity,2,0.012
@@ -6122,7 +6155,6 @@ Winter 2025,2025-01-01,167,tag,Energy Storage,1,0.006
 Winter 2025,2025-01-01,167,tag,Consumer Products,1,0.006
 Winter 2025,2025-01-01,167,tag,Neurotechnology,1,0.006
 Winter 2025,2025-01-01,167,tag,Therapeutics,1,0.006
-Winter 2025,2025-01-01,167,tag,Edge Computing Semiconductors,1,0.006
 Winter 2025,2025-01-01,167,tag,Immigration,1,0.006
 Winter 2025,2025-01-01,167,tag,Space Exploration,1,0.006
 Winter 2025,2025-01-01,167,tag,Semiconductors,1,0.006
@@ -6157,17 +6189,16 @@ Winter 2025,2025-01-01,167,tag,Gene Therapy,1,0.006
 Winter 2025,2025-01-01,167,tag,CRISPR,1,0.006
 Winter 2025,2025-01-01,167,tag,Biotechnology,1,0.006
 Winter 2025,2025-01-01,167,tag,Health & Wellness,1,0.006
-Winter 2025,2025-01-01,167,tag,E-commerce,1,0.006
 Winter 2025,2025-01-01,167,tag,Retail Tech,1,0.006
-Spring 2025,2025-04-01,143,industry,B2B,98,0.6853
+Spring 2025,2025-04-01,143,industry,B2B,97,0.6783
 Spring 2025,2025-04-01,143,industry,"Engineering, Product and Design",24,0.1678
 Spring 2025,2025-04-01,143,industry,Industrials,15,0.1049
 Spring 2025,2025-04-01,143,industry,Healthcare,11,0.0769
 Spring 2025,2025-04-01,143,industry,Infrastructure,9,0.0629
 Spring 2025,2025-04-01,143,industry,Manufacturing and Robotics,9,0.0629
 Spring 2025,2025-04-01,143,industry,Security,8,0.0559
+Spring 2025,2025-04-01,143,industry,Fintech,7,0.049
 Spring 2025,2025-04-01,143,industry,Consumer,7,0.049
-Spring 2025,2025-04-01,143,industry,Fintech,6,0.042
 Spring 2025,2025-04-01,143,industry,Healthcare IT,4,0.028
 Spring 2025,2025-04-01,143,industry,Legal,4,0.028
 Spring 2025,2025-04-01,143,industry,Productivity,4,0.028
@@ -6175,63 +6206,68 @@ Spring 2025,2025-04-01,143,industry,Supply Chain and Logistics,4,0.028
 Spring 2025,2025-04-01,143,industry,Finance and Accounting,4,0.028
 Spring 2025,2025-04-01,143,industry,Analytics,3,0.021
 Spring 2025,2025-04-01,143,industry,Education,3,0.021
-Spring 2025,2025-04-01,143,industry,Sales,3,0.021
 Spring 2025,2025-04-01,143,industry,Insurance,2,0.014
 Spring 2025,2025-04-01,143,industry,Operations,2,0.014
 Spring 2025,2025-04-01,143,industry,Aviation and Space,2,0.014
 Spring 2025,2025-04-01,143,industry,Government,2,0.014
 Spring 2025,2025-04-01,143,industry,Consumer Health and Wellness,2,0.014
 Spring 2025,2025-04-01,143,industry,Retail,2,0.014
+Spring 2025,2025-04-01,143,industry,Banking and Exchange,2,0.014
 Spring 2025,2025-04-01,143,industry,Healthcare Services,2,0.014
+Spring 2025,2025-04-01,143,industry,Sales,2,0.014
 Spring 2025,2025-04-01,143,industry,Marketing,1,0.007
 Spring 2025,2025-04-01,143,industry,Credit and Lending,1,0.007
 Spring 2025,2025-04-01,143,industry,Real Estate and Construction,1,0.007
 Spring 2025,2025-04-01,143,industry,Construction,1,0.007
 Spring 2025,2025-04-01,143,industry,Energy,1,0.007
-Spring 2025,2025-04-01,143,industry,Banking and Exchange,1,0.007
 Spring 2025,2025-04-01,143,industry,Consumer Finance,1,0.007
 Spring 2025,2025-04-01,143,industry,Climate,1,0.007
 Spring 2025,2025-04-01,143,industry,Consumer Electronics,1,0.007
 Spring 2025,2025-04-01,143,industry,Gaming,1,0.007
-Spring 2025,2025-04-01,143,region,United States of America,116,0.8112
-Spring 2025,2025-04-01,143,region,America / Canada,116,0.8112
+Spring 2025,2025-04-01,143,region,America / Canada,113,0.7902
+Spring 2025,2025-04-01,143,region,United States of America,112,0.7832
+Spring 2025,2025-04-01,143,region,Europe,23,0.1608
 Spring 2025,2025-04-01,143,region,Remote,21,0.1469
 Spring 2025,2025-04-01,143,region,Partly Remote,15,0.1049
-Spring 2025,2025-04-01,143,region,Europe,15,0.1049
 Spring 2025,2025-04-01,143,region,United Kingdom,13,0.0909
-Spring 2025,2025-04-01,143,region,Unspecified,9,0.0629
 Spring 2025,2025-04-01,143,region,Fully Remote,6,0.042
-Spring 2025,2025-04-01,143,region,France,2,0.014
+Spring 2025,2025-04-01,143,region,France,6,0.042
+Spring 2025,2025-04-01,143,region,Unspecified,4,0.028
+Spring 2025,2025-04-01,143,region,Germany,2,0.014
+Spring 2025,2025-04-01,143,region,Switzerland,1,0.007
 Spring 2025,2025-04-01,143,region,India,1,0.007
 Spring 2025,2025-04-01,143,region,South Asia,1,0.007
-Spring 2025,2025-04-01,143,status,Active,138,0.965
+Spring 2025,2025-04-01,143,region,Canada,1,0.007
+Spring 2025,2025-04-01,143,region,Sweden,1,0.007
+Spring 2025,2025-04-01,143,status,Active,137,0.958
 Spring 2025,2025-04-01,143,status,Acquired,3,0.021
-Spring 2025,2025-04-01,143,status,Inactive,2,0.014
-Spring 2025,2025-04-01,143,tag,AI,43,0.3007
-Spring 2025,2025-04-01,143,tag,Artificial Intelligence,41,0.2867
+Spring 2025,2025-04-01,143,status,Inactive,3,0.021
+Spring 2025,2025-04-01,143,tag,AI,45,0.3147
+Spring 2025,2025-04-01,143,tag,Artificial Intelligence,39,0.2727
 Spring 2025,2025-04-01,143,tag,B2B,26,0.1818
 Spring 2025,2025-04-01,143,tag,Developer Tools,20,0.1399
 Spring 2025,2025-04-01,143,tag,SaaS,14,0.0979
 Spring 2025,2025-04-01,143,tag,Consumer,10,0.0699
 Spring 2025,2025-04-01,143,tag,Robotics,9,0.0629
+Spring 2025,2025-04-01,143,tag,Manufacturing,9,0.0629
 Spring 2025,2025-04-01,143,tag,Infrastructure,9,0.0629
-Spring 2025,2025-04-01,143,tag,Manufacturing,8,0.0559
 Spring 2025,2025-04-01,143,tag,Machine Learning,8,0.0559
 Spring 2025,2025-04-01,143,tag,Enterprise Software,7,0.049
 Spring 2025,2025-04-01,143,tag,Hardware,6,0.042
 Spring 2025,2025-04-01,143,tag,Hard Tech,6,0.042
-Spring 2025,2025-04-01,143,tag,Sales,6,0.042
+Spring 2025,2025-04-01,143,tag,Healthcare,6,0.042
 Spring 2025,2025-04-01,143,tag,AI Assistant,5,0.035
 Spring 2025,2025-04-01,143,tag,Automation,5,0.035
 Spring 2025,2025-04-01,143,tag,Productivity,5,0.035
 Spring 2025,2025-04-01,143,tag,Reinforcement Learning,5,0.035
 Spring 2025,2025-04-01,143,tag,Open Source,5,0.035
-Spring 2025,2025-04-01,143,tag,Healthcare,5,0.035
+Spring 2025,2025-04-01,143,tag,Fintech,5,0.035
+Spring 2025,2025-04-01,143,tag,Sales,5,0.035
 Spring 2025,2025-04-01,143,tag,Generative AI,4,0.028
 Spring 2025,2025-04-01,143,tag,AIOps,4,0.028
 Spring 2025,2025-04-01,143,tag,Security,4,0.028
 Spring 2025,2025-04-01,143,tag,Analytics,4,0.028
-Spring 2025,2025-04-01,143,tag,Fintech,4,0.028
+Spring 2025,2025-04-01,143,tag,Industrial,4,0.028
 Spring 2025,2025-04-01,143,tag,Operations,3,0.021
 Spring 2025,2025-04-01,143,tag,Compliance,3,0.021
 Spring 2025,2025-04-01,143,tag,Cloud Computing,3,0.021
@@ -6240,8 +6276,8 @@ Spring 2025,2025-04-01,143,tag,Cybersecurity,3,0.021
 Spring 2025,2025-04-01,143,tag,Biotech,3,0.021
 Spring 2025,2025-04-01,143,tag,ML,3,0.021
 Spring 2025,2025-04-01,143,tag,Aerospace,3,0.021
-Spring 2025,2025-04-01,143,tag,Industrial,3,0.021
 Spring 2025,2025-04-01,143,tag,Education,3,0.021
+Spring 2025,2025-04-01,143,tag,Logistics,3,0.021
 Spring 2025,2025-04-01,143,tag,Insurance,2,0.014
 Spring 2025,2025-04-01,143,tag,Health Tech,2,0.014
 Spring 2025,2025-04-01,143,tag,Semiconductors,2,0.014
@@ -6249,7 +6285,6 @@ Spring 2025,2025-04-01,143,tag,Marketing,2,0.014
 Spring 2025,2025-04-01,143,tag,Legal,2,0.014
 Spring 2025,2025-04-01,143,tag,Computer Vision,2,0.014
 Spring 2025,2025-04-01,143,tag,Enterprise,2,0.014
-Spring 2025,2025-04-01,143,tag,Logistics,2,0.014
 Spring 2025,2025-04-01,143,tag,Retail,2,0.014
 Spring 2025,2025-04-01,143,tag,Documents,2,0.014
 Spring 2025,2025-04-01,143,tag,Databases,2,0.014
@@ -6273,11 +6308,11 @@ Spring 2025,2025-04-01,143,tag,Home Services,1,0.007
 Spring 2025,2025-04-01,143,tag,Real Estate,1,0.007
 Spring 2025,2025-04-01,143,tag,AI-Enhanced Learning,1,0.007
 Spring 2025,2025-04-01,143,tag,Edtech,1,0.007
+Spring 2025,2025-04-01,143,tag,Autonomous Shipping,1,0.007
 Spring 2025,2025-04-01,143,tag,Customer Support,1,0.007
 Spring 2025,2025-04-01,143,tag,GovTech,1,0.007
 Spring 2025,2025-04-01,143,tag,Transportation,1,0.007
-Spring 2025,2025-04-01,143,tag,Customer Success,1,0.007
-Spring 2025,2025-04-01,143,tag,Telecommunications,1,0.007
+Spring 2025,2025-04-01,143,tag,Neobank,1,0.007
 Spring 2025,2025-04-01,143,tag,Grocery,1,0.007
 Spring 2025,2025-04-01,143,tag,Telehealth,1,0.007
 Spring 2025,2025-04-01,143,tag,Digital Health,1,0.007
@@ -6341,25 +6376,29 @@ Summer 2025,2025-07-01,166,industry,Industrial Bio,1,0.006
 Summer 2025,2025-07-01,166,industry,Credit and Lending,1,0.006
 Summer 2025,2025-07-01,166,region,America / Canada,152,0.9157
 Summer 2025,2025-07-01,166,region,United States of America,151,0.9096
-Summer 2025,2025-07-01,166,region,Remote,24,0.1446
-Summer 2025,2025-07-01,166,region,Partly Remote,19,0.1145
-Summer 2025,2025-07-01,166,region,Unspecified,7,0.0422
+Summer 2025,2025-07-01,166,region,Remote,23,0.1386
+Summer 2025,2025-07-01,166,region,Partly Remote,18,0.1084
+Summer 2025,2025-07-01,166,region,Europe,8,0.0482
 Summer 2025,2025-07-01,166,region,Fully Remote,5,0.0301
-Summer 2025,2025-07-01,166,region,Europe,4,0.0241
+Summer 2025,2025-07-01,166,region,Unspecified,3,0.0181
 Summer 2025,2025-07-01,166,region,United Kingdom,3,0.0181
+Summer 2025,2025-07-01,166,region,Germany,3,0.0181
 Summer 2025,2025-07-01,166,region,Latin America,2,0.012
 Summer 2025,2025-07-01,166,region,Mexico,1,0.006
-Summer 2025,2025-07-01,166,region,Germany,1,0.006
+Summer 2025,2025-07-01,166,region,South Korea,1,0.006
+Summer 2025,2025-07-01,166,region,East Asia,1,0.006
+Summer 2025,2025-07-01,166,region,Netherlands,1,0.006
 Summer 2025,2025-07-01,166,region,Canada,1,0.006
 Summer 2025,2025-07-01,166,region,Brazil,1,0.006
+Summer 2025,2025-07-01,166,region,France,1,0.006
 Summer 2025,2025-07-01,166,status,Active,163,0.9819
 Summer 2025,2025-07-01,166,status,Acquired,2,0.012
 Summer 2025,2025-07-01,166,status,Inactive,1,0.006
-Summer 2025,2025-07-01,166,tag,Artificial Intelligence,53,0.3193
+Summer 2025,2025-07-01,166,tag,Artificial Intelligence,52,0.3133
 Summer 2025,2025-07-01,166,tag,AI,46,0.2771
-Summer 2025,2025-07-01,166,tag,B2B,35,0.2108
+Summer 2025,2025-07-01,166,tag,B2B,34,0.2048
 Summer 2025,2025-07-01,166,tag,Developer Tools,21,0.1265
-Summer 2025,2025-07-01,166,tag,SaaS,17,0.1024
+Summer 2025,2025-07-01,166,tag,SaaS,16,0.0964
 Summer 2025,2025-07-01,166,tag,Enterprise Software,9,0.0542
 Summer 2025,2025-07-01,166,tag,Infrastructure,9,0.0542
 Summer 2025,2025-07-01,166,tag,Productivity,8,0.0482
@@ -6387,7 +6426,6 @@ Summer 2025,2025-07-01,166,tag,Biotech,3,0.0181
 Summer 2025,2025-07-01,166,tag,Industrial,3,0.0181
 Summer 2025,2025-07-01,166,tag,Cloud Computing,3,0.0181
 Summer 2025,2025-07-01,166,tag,Automation,3,0.0181
-Summer 2025,2025-07-01,166,tag,Healthcare IT,3,0.0181
 Summer 2025,2025-07-01,166,tag,Insurance,2,0.012
 Summer 2025,2025-07-01,166,tag,Enterprise,2,0.012
 Summer 2025,2025-07-01,166,tag,API,2,0.012
@@ -6409,6 +6447,7 @@ Summer 2025,2025-07-01,166,tag,Computer Vision,2,0.012
 Summer 2025,2025-07-01,166,tag,Search,2,0.012
 Summer 2025,2025-07-01,166,tag,Analytics,2,0.012
 Summer 2025,2025-07-01,166,tag,Real Estate,2,0.012
+Summer 2025,2025-07-01,166,tag,Healthcare IT,2,0.012
 Summer 2025,2025-07-01,166,tag,Finance,2,0.012
 Summer 2025,2025-07-01,166,tag,Email,1,0.006
 Summer 2025,2025-07-01,166,tag,Dental,1,0.006
@@ -6445,11 +6484,9 @@ Summer 2025,2025-07-01,166,tag,Biotechnology,1,0.006
 Summer 2025,2025-07-01,166,tag,AI-Enhanced Learning,1,0.006
 Summer 2025,2025-07-01,166,tag,Operations,1,0.006
 Summer 2025,2025-07-01,166,tag,Networks,1,0.006
-Summer 2025,2025-07-01,166,tag,Health Tech,1,0.006
 Summer 2025,2025-07-01,166,tag,Proptech,1,0.006
 Summer 2025,2025-07-01,166,tag,Healthcare,1,0.006
 Summer 2025,2025-07-01,166,tag,Mental Health,1,0.006
-Summer 2025,2025-07-01,166,tag,Retail,1,0.006
 Summer 2025,2025-07-01,166,tag,Creator Economy,1,0.006
 Summer 2025,2025-07-01,166,tag,IoT Security,1,0.006
 Summer 2025,2025-07-01,166,tag,Chat,1,0.006
@@ -6463,178 +6500,181 @@ Summer 2025,2025-07-01,166,tag,Synthetic Biology,1,0.006
 Summer 2025,2025-07-01,166,tag,Compliance,1,0.006
 Summer 2025,2025-07-01,166,tag,Speech Recognition,1,0.006
 Summer 2025,2025-07-01,166,tag,Lending,1,0.006
-Fall 2025,2025-10-01,149,industry,B2B,93,0.6242
-Fall 2025,2025-10-01,149,industry,"Engineering, Product and Design",23,0.1544
-Fall 2025,2025-10-01,149,industry,Consumer,18,0.1208
-Fall 2025,2025-10-01,149,industry,Industrials,12,0.0805
-Fall 2025,2025-10-01,149,industry,Healthcare,10,0.0671
-Fall 2025,2025-10-01,149,industry,Manufacturing and Robotics,8,0.0537
-Fall 2025,2025-10-01,149,industry,Fintech,8,0.0537
-Fall 2025,2025-10-01,149,industry,Marketing,7,0.047
-Fall 2025,2025-10-01,149,industry,Infrastructure,7,0.047
-Fall 2025,2025-10-01,149,industry,Real Estate and Construction,6,0.0403
-Fall 2025,2025-10-01,149,industry,Sales,5,0.0336
-Fall 2025,2025-10-01,149,industry,Finance and Accounting,4,0.0268
-Fall 2025,2025-10-01,149,industry,Insurance,3,0.0201
-Fall 2025,2025-10-01,149,industry,Housing and Real Estate,3,0.0201
-Fall 2025,2025-10-01,149,industry,Content,3,0.0201
-Fall 2025,2025-10-01,149,industry,Security,3,0.0201
-Fall 2025,2025-10-01,149,industry,Analytics,2,0.0134
-Fall 2025,2025-10-01,149,industry,Productivity,2,0.0134
-Fall 2025,2025-10-01,149,industry,Legal,2,0.0134
-Fall 2025,2025-10-01,149,industry,Gaming,2,0.0134
-Fall 2025,2025-10-01,149,industry,Consumer Finance,2,0.0134
-Fall 2025,2025-10-01,149,industry,Construction,2,0.0134
-Fall 2025,2025-10-01,149,industry,Defense,2,0.0134
-Fall 2025,2025-10-01,149,industry,Healthcare IT,2,0.0134
-Fall 2025,2025-10-01,149,industry,Government,2,0.0134
-Fall 2025,2025-10-01,149,industry,Supply Chain and Logistics,2,0.0134
-Fall 2025,2025-10-01,149,industry,Operations,2,0.0134
-Fall 2025,2025-10-01,149,industry,Social,1,0.0067
-Fall 2025,2025-10-01,149,industry,Drug Discovery and Delivery,1,0.0067
-Fall 2025,2025-10-01,149,industry,Consumer Health and Wellness,1,0.0067
-Fall 2025,2025-10-01,149,industry,Retail,1,0.0067
-Fall 2025,2025-10-01,149,industry,Human Resources,1,0.0067
-Fall 2025,2025-10-01,149,industry,Consumer Electronics,1,0.0067
-Fall 2025,2025-10-01,149,industry,Aviation and Space,1,0.0067
-Fall 2025,2025-10-01,149,industry,Payments,1,0.0067
-Fall 2025,2025-10-01,149,industry,Energy,1,0.0067
-Fall 2025,2025-10-01,149,region,America / Canada,122,0.8188
-Fall 2025,2025-10-01,149,region,United States of America,121,0.8121
-Fall 2025,2025-10-01,149,region,Remote,31,0.2081
-Fall 2025,2025-10-01,149,region,Partly Remote,27,0.1812
-Fall 2025,2025-10-01,149,region,Europe,11,0.0738
-Fall 2025,2025-10-01,149,region,Unspecified,10,0.0671
-Fall 2025,2025-10-01,149,region,United Kingdom,5,0.0336
-Fall 2025,2025-10-01,149,region,Fully Remote,4,0.0268
-Fall 2025,2025-10-01,149,region,Sweden,3,0.0201
-Fall 2025,2025-10-01,149,region,India,2,0.0134
-Fall 2025,2025-10-01,149,region,South Asia,2,0.0134
-Fall 2025,2025-10-01,149,region,Germany,1,0.0067
-Fall 2025,2025-10-01,149,region,Belgium,1,0.0067
-Fall 2025,2025-10-01,149,region,Canada,1,0.0067
-Fall 2025,2025-10-01,149,region,France,1,0.0067
-Fall 2025,2025-10-01,149,status,Active,145,0.9732
-Fall 2025,2025-10-01,149,status,Inactive,3,0.0201
-Fall 2025,2025-10-01,149,status,Acquired,1,0.0067
-Fall 2025,2025-10-01,149,tag,Artificial Intelligence,46,0.3087
-Fall 2025,2025-10-01,149,tag,AI,41,0.2752
-Fall 2025,2025-10-01,149,tag,B2B,36,0.2416
-Fall 2025,2025-10-01,149,tag,Developer Tools,15,0.1007
-Fall 2025,2025-10-01,149,tag,SaaS,11,0.0738
-Fall 2025,2025-10-01,149,tag,Generative AI,10,0.0671
-Fall 2025,2025-10-01,149,tag,AI Assistant,9,0.0604
-Fall 2025,2025-10-01,149,tag,Robotics,9,0.0604
-Fall 2025,2025-10-01,149,tag,Consumer,8,0.0537
-Fall 2025,2025-10-01,149,tag,Infrastructure,7,0.047
-Fall 2025,2025-10-01,149,tag,Machine Learning,6,0.0403
-Fall 2025,2025-10-01,149,tag,Automation,6,0.0403
-Fall 2025,2025-10-01,149,tag,Hardware,6,0.0403
-Fall 2025,2025-10-01,149,tag,Marketing,5,0.0336
-Fall 2025,2025-10-01,149,tag,Advertising,5,0.0336
-Fall 2025,2025-10-01,149,tag,Analytics,5,0.0336
-Fall 2025,2025-10-01,149,tag,Finance,5,0.0336
-Fall 2025,2025-10-01,149,tag,Health Tech,5,0.0336
-Fall 2025,2025-10-01,149,tag,Video,4,0.0268
-Fall 2025,2025-10-01,149,tag,Cybersecurity,4,0.0268
-Fall 2025,2025-10-01,149,tag,Conversational AI,4,0.0268
-Fall 2025,2025-10-01,149,tag,Productivity,4,0.0268
-Fall 2025,2025-10-01,149,tag,Design,4,0.0268
-Fall 2025,2025-10-01,149,tag,Compliance,4,0.0268
-Fall 2025,2025-10-01,149,tag,LegalTech,4,0.0268
-Fall 2025,2025-10-01,149,tag,No-code,4,0.0268
-Fall 2025,2025-10-01,149,tag,Industrial,4,0.0268
-Fall 2025,2025-10-01,149,tag,Fintech,4,0.0268
-Fall 2025,2025-10-01,149,tag,Aerospace,4,0.0268
-Fall 2025,2025-10-01,149,tag,Digital Health,4,0.0268
-Fall 2025,2025-10-01,149,tag,Hard Tech,4,0.0268
-Fall 2025,2025-10-01,149,tag,Healthcare,4,0.0268
-Fall 2025,2025-10-01,149,tag,Marketplace,4,0.0268
-Fall 2025,2025-10-01,149,tag,Computer Vision,3,0.0201
-Fall 2025,2025-10-01,149,tag,Manufacturing,3,0.0201
-Fall 2025,2025-10-01,149,tag,Biotech,3,0.0201
-Fall 2025,2025-10-01,149,tag,Consumer Finance,3,0.0201
-Fall 2025,2025-10-01,149,tag,Social Media,3,0.0201
-Fall 2025,2025-10-01,149,tag,E-commerce,3,0.0201
-Fall 2025,2025-10-01,149,tag,Construction,3,0.0201
-Fall 2025,2025-10-01,149,tag,Reinforcement Learning,3,0.0201
-Fall 2025,2025-10-01,149,tag,Workflow Automation,3,0.0201
-Fall 2025,2025-10-01,149,tag,Sales,3,0.0201
-Fall 2025,2025-10-01,149,tag,Legal,3,0.0201
-Fall 2025,2025-10-01,149,tag,Logistics,3,0.0201
-Fall 2025,2025-10-01,149,tag,Enterprise Software,3,0.0201
-Fall 2025,2025-10-01,149,tag,Media,2,0.0134
-Fall 2025,2025-10-01,149,tag,Deep Learning,2,0.0134
-Fall 2025,2025-10-01,149,tag,Proptech,2,0.0134
-Fall 2025,2025-10-01,149,tag,Sports Tech,2,0.0134
-Fall 2025,2025-10-01,149,tag,Social,2,0.0134
-Fall 2025,2025-10-01,149,tag,Open Source,2,0.0134
-Fall 2025,2025-10-01,149,tag,Gaming,2,0.0134
-Fall 2025,2025-10-01,149,tag,Creator Economy,2,0.0134
-Fall 2025,2025-10-01,149,tag,Real Estate,2,0.0134
-Fall 2025,2025-10-01,149,tag,Neobank,2,0.0134
-Fall 2025,2025-10-01,149,tag,Architecture,2,0.0134
-Fall 2025,2025-10-01,149,tag,Data Engineering,2,0.0134
-Fall 2025,2025-10-01,149,tag,Healthcare IT,2,0.0134
-Fall 2025,2025-10-01,149,tag,DevOps,2,0.0134
-Fall 2025,2025-10-01,149,tag,Entertainment,2,0.0134
-Fall 2025,2025-10-01,149,tag,GovTech,2,0.0134
-Fall 2025,2025-10-01,149,tag,Defense,2,0.0134
-Fall 2025,2025-10-01,149,tag,Security,2,0.0134
-Fall 2025,2025-10-01,149,tag,Operations,2,0.0134
-Fall 2025,2025-10-01,149,tag,Customer Success,2,0.0134
-Fall 2025,2025-10-01,149,tag,Enterprise,2,0.0134
-Fall 2025,2025-10-01,149,tag,Consumer Health Services,2,0.0134
-Fall 2025,2025-10-01,149,tag,Health & Wellness,2,0.0134
-Fall 2025,2025-10-01,149,tag,AI-Enhanced Learning,2,0.0134
-Fall 2025,2025-10-01,149,tag,API,2,0.0134
-Fall 2025,2025-10-01,149,tag,Big Data,2,0.0134
-Fall 2025,2025-10-01,149,tag,Customer Support,2,0.0134
-Fall 2025,2025-10-01,149,tag,Design Tools,2,0.0134
-Fall 2025,2025-10-01,149,tag,Satellites,2,0.0134
-Fall 2025,2025-10-01,149,tag,Genomics,1,0.0067
-Fall 2025,2025-10-01,149,tag,Drug discovery,1,0.0067
-Fall 2025,2025-10-01,149,tag,SMB,1,0.0067
-Fall 2025,2025-10-01,149,tag,Home Services,1,0.0067
-Fall 2025,2025-10-01,149,tag,Web Development,1,0.0067
-Fall 2025,2025-10-01,149,tag,FinOps,1,0.0067
-Fall 2025,2025-10-01,149,tag,Social Network,1,0.0067
-Fall 2025,2025-10-01,149,tag,Market Research,1,0.0067
-Fall 2025,2025-10-01,149,tag,Robotic Process Automation,1,0.0067
-Fall 2025,2025-10-01,149,tag,Crypto / Web3,1,0.0067
-Fall 2025,2025-10-01,149,tag,Investing,1,0.0067
-Fall 2025,2025-10-01,149,tag,AIOps,1,0.0067
-Fall 2025,2025-10-01,149,tag,NLP,1,0.0067
-Fall 2025,2025-10-01,149,tag,Transportation,1,0.0067
-Fall 2025,2025-10-01,149,tag,Supply Chain,1,0.0067
-Fall 2025,2025-10-01,149,tag,Immigration,1,0.0067
-Fall 2025,2025-10-01,149,tag,Music,1,0.0067
-Fall 2025,2025-10-01,149,tag,Automotive,1,0.0067
-Fall 2025,2025-10-01,149,tag,HR Tech,1,0.0067
-Fall 2025,2025-10-01,149,tag,Education,1,0.0067
-Fall 2025,2025-10-01,149,tag,Genetic Engineering,1,0.0067
-Fall 2025,2025-10-01,149,tag,Smart Home Assistants,1,0.0067
-Fall 2025,2025-10-01,149,tag,Home Automation,1,0.0067
-Fall 2025,2025-10-01,149,tag,Biometrics,1,0.0067
-Fall 2025,2025-10-01,149,tag,Women's Health,1,0.0067
-Fall 2025,2025-10-01,149,tag,Health Insurance,1,0.0067
-Fall 2025,2025-10-01,149,tag,Databases,1,0.0067
-Fall 2025,2025-10-01,149,tag,Data Labeling,1,0.0067
-Fall 2025,2025-10-01,149,tag,Biotechnology,1,0.0067
-Fall 2025,2025-10-01,149,tag,Recruiting,1,0.0067
-Fall 2025,2025-10-01,149,tag,Telehealth,1,0.0067
-Fall 2025,2025-10-01,149,tag,Monitoring,1,0.0067
-Fall 2025,2025-10-01,149,tag,Drones,1,0.0067
-Fall 2025,2025-10-01,149,tag,APIs,1,0.0067
-Fall 2025,2025-10-01,149,tag,Rocketry,1,0.0067
-Fall 2025,2025-10-01,149,tag,Investments,1,0.0067
-Fall 2025,2025-10-01,149,tag,Payments,1,0.0067
-Fall 2025,2025-10-01,149,tag,Restaurant Tech,1,0.0067
-Fall 2025,2025-10-01,149,tag,Fusion Energy,1,0.0067
+Fall 2025,2025-10-01,148,industry,B2B,92,0.6216
+Fall 2025,2025-10-01,148,industry,"Engineering, Product and Design",22,0.1486
+Fall 2025,2025-10-01,148,industry,Consumer,18,0.1216
+Fall 2025,2025-10-01,148,industry,Industrials,12,0.0811
+Fall 2025,2025-10-01,148,industry,Healthcare,10,0.0676
+Fall 2025,2025-10-01,148,industry,Manufacturing and Robotics,8,0.0541
+Fall 2025,2025-10-01,148,industry,Fintech,8,0.0541
+Fall 2025,2025-10-01,148,industry,Marketing,7,0.0473
+Fall 2025,2025-10-01,148,industry,Infrastructure,7,0.0473
+Fall 2025,2025-10-01,148,industry,Real Estate and Construction,6,0.0405
+Fall 2025,2025-10-01,148,industry,Sales,5,0.0338
+Fall 2025,2025-10-01,148,industry,Finance and Accounting,4,0.027
+Fall 2025,2025-10-01,148,industry,Insurance,3,0.0203
+Fall 2025,2025-10-01,148,industry,Housing and Real Estate,3,0.0203
+Fall 2025,2025-10-01,148,industry,Content,3,0.0203
+Fall 2025,2025-10-01,148,industry,Security,3,0.0203
+Fall 2025,2025-10-01,148,industry,Analytics,2,0.0135
+Fall 2025,2025-10-01,148,industry,Productivity,2,0.0135
+Fall 2025,2025-10-01,148,industry,Legal,2,0.0135
+Fall 2025,2025-10-01,148,industry,Gaming,2,0.0135
+Fall 2025,2025-10-01,148,industry,Consumer Finance,2,0.0135
+Fall 2025,2025-10-01,148,industry,Construction,2,0.0135
+Fall 2025,2025-10-01,148,industry,Defense,2,0.0135
+Fall 2025,2025-10-01,148,industry,Healthcare IT,2,0.0135
+Fall 2025,2025-10-01,148,industry,Government,2,0.0135
+Fall 2025,2025-10-01,148,industry,Supply Chain and Logistics,2,0.0135
+Fall 2025,2025-10-01,148,industry,Operations,2,0.0135
+Fall 2025,2025-10-01,148,industry,Social,1,0.0068
+Fall 2025,2025-10-01,148,industry,Drug Discovery and Delivery,1,0.0068
+Fall 2025,2025-10-01,148,industry,Consumer Health and Wellness,1,0.0068
+Fall 2025,2025-10-01,148,industry,Retail,1,0.0068
+Fall 2025,2025-10-01,148,industry,Human Resources,1,0.0068
+Fall 2025,2025-10-01,148,industry,Consumer Electronics,1,0.0068
+Fall 2025,2025-10-01,148,industry,Aviation and Space,1,0.0068
+Fall 2025,2025-10-01,148,industry,Payments,1,0.0068
+Fall 2025,2025-10-01,148,industry,Energy,1,0.0068
+Fall 2025,2025-10-01,148,region,United States of America,117,0.7905
+Fall 2025,2025-10-01,148,region,America / Canada,117,0.7905
+Fall 2025,2025-10-01,148,region,Remote,31,0.2095
+Fall 2025,2025-10-01,148,region,Partly Remote,27,0.1824
+Fall 2025,2025-10-01,148,region,Europe,20,0.1351
+Fall 2025,2025-10-01,148,region,United Kingdom,6,0.0405
+Fall 2025,2025-10-01,148,region,Unspecified,6,0.0405
+Fall 2025,2025-10-01,148,region,Fully Remote,4,0.027
+Fall 2025,2025-10-01,148,region,Sweden,3,0.0203
+Fall 2025,2025-10-01,148,region,Germany,3,0.0203
+Fall 2025,2025-10-01,148,region,India,2,0.0135
+Fall 2025,2025-10-01,148,region,South Asia,2,0.0135
+Fall 2025,2025-10-01,148,region,France,2,0.0135
+Fall 2025,2025-10-01,148,region,Switzerland,2,0.0135
+Fall 2025,2025-10-01,148,region,Norway,1,0.0068
+Fall 2025,2025-10-01,148,region,Austria,1,0.0068
+Fall 2025,2025-10-01,148,region,Belgium,1,0.0068
+Fall 2025,2025-10-01,148,region,Romania,1,0.0068
+Fall 2025,2025-10-01,148,status,Active,144,0.973
+Fall 2025,2025-10-01,148,status,Inactive,3,0.0203
+Fall 2025,2025-10-01,148,status,Acquired,1,0.0068
+Fall 2025,2025-10-01,148,tag,Artificial Intelligence,47,0.3176
+Fall 2025,2025-10-01,148,tag,AI,39,0.2635
+Fall 2025,2025-10-01,148,tag,B2B,36,0.2432
+Fall 2025,2025-10-01,148,tag,Developer Tools,15,0.1014
+Fall 2025,2025-10-01,148,tag,SaaS,11,0.0743
+Fall 2025,2025-10-01,148,tag,Generative AI,9,0.0608
+Fall 2025,2025-10-01,148,tag,AI Assistant,9,0.0608
+Fall 2025,2025-10-01,148,tag,Robotics,9,0.0608
+Fall 2025,2025-10-01,148,tag,Consumer,8,0.0541
+Fall 2025,2025-10-01,148,tag,Infrastructure,7,0.0473
+Fall 2025,2025-10-01,148,tag,Automation,6,0.0405
+Fall 2025,2025-10-01,148,tag,Hardware,6,0.0405
+Fall 2025,2025-10-01,148,tag,Marketing,5,0.0338
+Fall 2025,2025-10-01,148,tag,Advertising,5,0.0338
+Fall 2025,2025-10-01,148,tag,Machine Learning,5,0.0338
+Fall 2025,2025-10-01,148,tag,Analytics,5,0.0338
+Fall 2025,2025-10-01,148,tag,Finance,5,0.0338
+Fall 2025,2025-10-01,148,tag,Health Tech,5,0.0338
+Fall 2025,2025-10-01,148,tag,Video,4,0.027
+Fall 2025,2025-10-01,148,tag,Cybersecurity,4,0.027
+Fall 2025,2025-10-01,148,tag,Conversational AI,4,0.027
+Fall 2025,2025-10-01,148,tag,Productivity,4,0.027
+Fall 2025,2025-10-01,148,tag,Design,4,0.027
+Fall 2025,2025-10-01,148,tag,Compliance,4,0.027
+Fall 2025,2025-10-01,148,tag,LegalTech,4,0.027
+Fall 2025,2025-10-01,148,tag,No-code,4,0.027
+Fall 2025,2025-10-01,148,tag,Industrial,4,0.027
+Fall 2025,2025-10-01,148,tag,Fintech,4,0.027
+Fall 2025,2025-10-01,148,tag,Aerospace,4,0.027
+Fall 2025,2025-10-01,148,tag,Digital Health,4,0.027
+Fall 2025,2025-10-01,148,tag,Hard Tech,4,0.027
+Fall 2025,2025-10-01,148,tag,Healthcare,4,0.027
+Fall 2025,2025-10-01,148,tag,Marketplace,4,0.027
+Fall 2025,2025-10-01,148,tag,Computer Vision,3,0.0203
+Fall 2025,2025-10-01,148,tag,Manufacturing,3,0.0203
+Fall 2025,2025-10-01,148,tag,Biotech,3,0.0203
+Fall 2025,2025-10-01,148,tag,Consumer Finance,3,0.0203
+Fall 2025,2025-10-01,148,tag,Social Media,3,0.0203
+Fall 2025,2025-10-01,148,tag,E-commerce,3,0.0203
+Fall 2025,2025-10-01,148,tag,Construction,3,0.0203
+Fall 2025,2025-10-01,148,tag,Reinforcement Learning,3,0.0203
+Fall 2025,2025-10-01,148,tag,Workflow Automation,3,0.0203
+Fall 2025,2025-10-01,148,tag,Sales,3,0.0203
+Fall 2025,2025-10-01,148,tag,Legal,3,0.0203
+Fall 2025,2025-10-01,148,tag,Logistics,3,0.0203
+Fall 2025,2025-10-01,148,tag,Enterprise Software,3,0.0203
+Fall 2025,2025-10-01,148,tag,Media,2,0.0135
+Fall 2025,2025-10-01,148,tag,Proptech,2,0.0135
+Fall 2025,2025-10-01,148,tag,Sports Tech,2,0.0135
+Fall 2025,2025-10-01,148,tag,Social,2,0.0135
+Fall 2025,2025-10-01,148,tag,Open Source,2,0.0135
+Fall 2025,2025-10-01,148,tag,Gaming,2,0.0135
+Fall 2025,2025-10-01,148,tag,Creator Economy,2,0.0135
+Fall 2025,2025-10-01,148,tag,Real Estate,2,0.0135
+Fall 2025,2025-10-01,148,tag,Neobank,2,0.0135
+Fall 2025,2025-10-01,148,tag,Architecture,2,0.0135
+Fall 2025,2025-10-01,148,tag,Data Engineering,2,0.0135
+Fall 2025,2025-10-01,148,tag,Healthcare IT,2,0.0135
+Fall 2025,2025-10-01,148,tag,DevOps,2,0.0135
+Fall 2025,2025-10-01,148,tag,Entertainment,2,0.0135
+Fall 2025,2025-10-01,148,tag,GovTech,2,0.0135
+Fall 2025,2025-10-01,148,tag,Defense,2,0.0135
+Fall 2025,2025-10-01,148,tag,Security,2,0.0135
+Fall 2025,2025-10-01,148,tag,Operations,2,0.0135
+Fall 2025,2025-10-01,148,tag,Customer Success,2,0.0135
+Fall 2025,2025-10-01,148,tag,Enterprise,2,0.0135
+Fall 2025,2025-10-01,148,tag,Consumer Health Services,2,0.0135
+Fall 2025,2025-10-01,148,tag,Health & Wellness,2,0.0135
+Fall 2025,2025-10-01,148,tag,AI-Enhanced Learning,2,0.0135
+Fall 2025,2025-10-01,148,tag,API,2,0.0135
+Fall 2025,2025-10-01,148,tag,Big Data,2,0.0135
+Fall 2025,2025-10-01,148,tag,Customer Support,2,0.0135
+Fall 2025,2025-10-01,148,tag,Design Tools,2,0.0135
+Fall 2025,2025-10-01,148,tag,Satellites,2,0.0135
+Fall 2025,2025-10-01,148,tag,Genomics,1,0.0068
+Fall 2025,2025-10-01,148,tag,Drug discovery,1,0.0068
+Fall 2025,2025-10-01,148,tag,SMB,1,0.0068
+Fall 2025,2025-10-01,148,tag,Home Services,1,0.0068
+Fall 2025,2025-10-01,148,tag,Web Development,1,0.0068
+Fall 2025,2025-10-01,148,tag,FinOps,1,0.0068
+Fall 2025,2025-10-01,148,tag,Social Network,1,0.0068
+Fall 2025,2025-10-01,148,tag,Market Research,1,0.0068
+Fall 2025,2025-10-01,148,tag,Robotic Process Automation,1,0.0068
+Fall 2025,2025-10-01,148,tag,Crypto / Web3,1,0.0068
+Fall 2025,2025-10-01,148,tag,Investing,1,0.0068
+Fall 2025,2025-10-01,148,tag,AIOps,1,0.0068
+Fall 2025,2025-10-01,148,tag,NLP,1,0.0068
+Fall 2025,2025-10-01,148,tag,Transportation,1,0.0068
+Fall 2025,2025-10-01,148,tag,Supply Chain,1,0.0068
+Fall 2025,2025-10-01,148,tag,Immigration,1,0.0068
+Fall 2025,2025-10-01,148,tag,Music,1,0.0068
+Fall 2025,2025-10-01,148,tag,Automotive,1,0.0068
+Fall 2025,2025-10-01,148,tag,HR Tech,1,0.0068
+Fall 2025,2025-10-01,148,tag,Education,1,0.0068
+Fall 2025,2025-10-01,148,tag,Genetic Engineering,1,0.0068
+Fall 2025,2025-10-01,148,tag,Smart Home Assistants,1,0.0068
+Fall 2025,2025-10-01,148,tag,Home Automation,1,0.0068
+Fall 2025,2025-10-01,148,tag,Biometrics,1,0.0068
+Fall 2025,2025-10-01,148,tag,Women's Health,1,0.0068
+Fall 2025,2025-10-01,148,tag,Health Insurance,1,0.0068
+Fall 2025,2025-10-01,148,tag,Databases,1,0.0068
+Fall 2025,2025-10-01,148,tag,Data Labeling,1,0.0068
+Fall 2025,2025-10-01,148,tag,Biotechnology,1,0.0068
+Fall 2025,2025-10-01,148,tag,Recruiting,1,0.0068
+Fall 2025,2025-10-01,148,tag,Telehealth,1,0.0068
+Fall 2025,2025-10-01,148,tag,Deep Learning,1,0.0068
+Fall 2025,2025-10-01,148,tag,Monitoring,1,0.0068
+Fall 2025,2025-10-01,148,tag,Drones,1,0.0068
+Fall 2025,2025-10-01,148,tag,APIs,1,0.0068
+Fall 2025,2025-10-01,148,tag,Rocketry,1,0.0068
+Fall 2025,2025-10-01,148,tag,Investments,1,0.0068
+Fall 2025,2025-10-01,148,tag,Payments,1,0.0068
+Fall 2025,2025-10-01,148,tag,Restaurant Tech,1,0.0068
+Fall 2025,2025-10-01,148,tag,Fusion Energy,1,0.0068
 Winter 2026,2026-01-01,198,industry,B2B,127,0.6414
 Winter 2026,2026-01-01,198,industry,Industrials,27,0.1364
 Winter 2026,2026-01-01,198,industry,Infrastructure,24,0.1212
-Winter 2026,2026-01-01,198,industry,"Engineering, Product and Design",19,0.096
+Winter 2026,2026-01-01,198,industry,"Engineering, Product and Design",20,0.101
 Winter 2026,2026-01-01,198,industry,Fintech,18,0.0909
 Winter 2026,2026-01-01,198,industry,Healthcare,16,0.0808
 Winter 2026,2026-01-01,198,industry,Consumer,7,0.0354
@@ -6662,34 +6702,39 @@ Winter 2026,2026-01-01,198,industry,Insurance,2,0.0101
 Winter 2026,2026-01-01,198,industry,Consumer Finance,2,0.0101
 Winter 2026,2026-01-01,198,industry,Payments,2,0.0101
 Winter 2026,2026-01-01,198,industry,Construction,1,0.0051
-Winter 2026,2026-01-01,198,industry,Consumer Electronics,1,0.0051
 Winter 2026,2026-01-01,198,industry,Agriculture,1,0.0051
+Winter 2026,2026-01-01,198,industry,Consumer Electronics,1,0.0051
 Winter 2026,2026-01-01,198,industry,Climate,1,0.0051
 Winter 2026,2026-01-01,198,industry,Recruiting and Talent,1,0.0051
 Winter 2026,2026-01-01,198,industry,Consumer Health and Wellness,1,0.0051
 Winter 2026,2026-01-01,198,industry,Marketing,1,0.0051
-Winter 2026,2026-01-01,198,industry,Human Resources,1,0.0051
-Winter 2026,2026-01-01,198,region,United States of America,165,0.8333
 Winter 2026,2026-01-01,198,region,America / Canada,165,0.8333
+Winter 2026,2026-01-01,198,region,United States of America,164,0.8283
 Winter 2026,2026-01-01,198,region,Remote,34,0.1717
 Winter 2026,2026-01-01,198,region,Partly Remote,27,0.1364
-Winter 2026,2026-01-01,198,region,Unspecified,17,0.0859
+Winter 2026,2026-01-01,198,region,Unspecified,11,0.0556
+Winter 2026,2026-01-01,198,region,Europe,11,0.0556
 Winter 2026,2026-01-01,198,region,Fully Remote,7,0.0354
-Winter 2026,2026-01-01,198,region,Europe,7,0.0354
 Winter 2026,2026-01-01,198,region,United Kingdom,6,0.0303
-Winter 2026,2026-01-01,198,region,Australia,1,0.0051
-Winter 2026,2026-01-01,198,region,Oceania,1,0.0051
+Winter 2026,2026-01-01,198,region,Australia,3,0.0152
+Winter 2026,2026-01-01,198,region,Oceania,3,0.0152
+Winter 2026,2026-01-01,198,region,France,2,0.0101
+Winter 2026,2026-01-01,198,region,Singapore,1,0.0051
+Winter 2026,2026-01-01,198,region,Southeast Asia,1,0.0051
+Winter 2026,2026-01-01,198,region,Canada,1,0.0051
 Winter 2026,2026-01-01,198,region,Netherlands,1,0.0051
+Winter 2026,2026-01-01,198,region,Germany,1,0.0051
+Winter 2026,2026-01-01,198,region,Sweden,1,0.0051
 Winter 2026,2026-01-01,198,status,Active,197,0.9949
 Winter 2026,2026-01-01,198,status,Inactive,1,0.0051
 Winter 2026,2026-01-01,198,tag,Artificial Intelligence,18,0.0909
-Winter 2026,2026-01-01,198,tag,AI,13,0.0657
+Winter 2026,2026-01-01,198,tag,AI,14,0.0707
 Winter 2026,2026-01-01,198,tag,B2B,10,0.0505
 Winter 2026,2026-01-01,198,tag,Infrastructure,7,0.0354
 Winter 2026,2026-01-01,198,tag,Enterprise Software,5,0.0253
+Winter 2026,2026-01-01,198,tag,Developer Tools,5,0.0253
 Winter 2026,2026-01-01,198,tag,SaaS,4,0.0202
 Winter 2026,2026-01-01,198,tag,Data Engineering,4,0.0202
-Winter 2026,2026-01-01,198,tag,Developer Tools,4,0.0202
 Winter 2026,2026-01-01,198,tag,Fintech,4,0.0202
 Winter 2026,2026-01-01,198,tag,Computer Vision,3,0.0152
 Winter 2026,2026-01-01,198,tag,Automation,3,0.0152
@@ -6698,16 +6743,17 @@ Winter 2026,2026-01-01,198,tag,Machine Learning,3,0.0152
 Winter 2026,2026-01-01,198,tag,Hard Tech,3,0.0152
 Winter 2026,2026-01-01,198,tag,Hardware,3,0.0152
 Winter 2026,2026-01-01,198,tag,Construction,2,0.0101
+Winter 2026,2026-01-01,198,tag,Reinforcement Learning,2,0.0101
+Winter 2026,2026-01-01,198,tag,Drones,2,0.0101
 Winter 2026,2026-01-01,198,tag,API,2,0.0101
 Winter 2026,2026-01-01,198,tag,AIOps,2,0.0101
 Winter 2026,2026-01-01,198,tag,AI Assistant,2,0.0101
 Winter 2026,2026-01-01,198,tag,Robotics,2,0.0101
-Winter 2026,2026-01-01,198,tag,Reinforcement Learning,2,0.0101
-Winter 2026,2026-01-01,198,tag,Drones,2,0.0101
 Winter 2026,2026-01-01,198,tag,Logistics,2,0.0101
 Winter 2026,2026-01-01,198,tag,Biotech,1,0.0051
 Winter 2026,2026-01-01,198,tag,Identity,1,0.0051
 Winter 2026,2026-01-01,198,tag,Cybersecurity,1,0.0051
+Winter 2026,2026-01-01,198,tag,Agriculture,1,0.0051
 Winter 2026,2026-01-01,198,tag,FinOps,1,0.0051
 Winter 2026,2026-01-01,198,tag,Digital Health,1,0.0051
 Winter 2026,2026-01-01,198,tag,Healthcare,1,0.0051
@@ -6717,7 +6763,6 @@ Winter 2026,2026-01-01,198,tag,Scheduling,1,0.0051
 Winter 2026,2026-01-01,198,tag,Design Tools,1,0.0051
 Winter 2026,2026-01-01,198,tag,Payments,1,0.0051
 Winter 2026,2026-01-01,198,tag,Payroll,1,0.0051
-Winter 2026,2026-01-01,198,tag,Agriculture,1,0.0051
 Winter 2026,2026-01-01,198,tag,Supply Chain,1,0.0051
 Winter 2026,2026-01-01,198,tag,Trading,1,0.0051
 Winter 2026,2026-01-01,198,tag,Cryptocurrency,1,0.0051
@@ -6736,6 +6781,8 @@ Winter 2026,2026-01-01,198,tag,Regtech,1,0.0051
 Winter 2026,2026-01-01,198,tag,Biotechnology,1,0.0051
 Winter 2026,2026-01-01,198,tag,Aerospace,1,0.0051
 Winter 2026,2026-01-01,198,tag,Data Labeling,1,0.0051
+Winter 2026,2026-01-01,198,tag,Analytics,1,0.0051
+Winter 2026,2026-01-01,198,tag,Marketing,1,0.0051
 Winter 2026,2026-01-01,198,tag,Productivity,1,0.0051
 Winter 2026,2026-01-01,198,tag,Calendar,1,0.0051
 Winter 2026,2026-01-01,198,tag,Email,1,0.0051
@@ -6744,256 +6791,281 @@ Winter 2026,2026-01-01,198,tag,Semiconductors,1,0.0051
 Winter 2026,2026-01-01,198,tag,Solar Power,1,0.0051
 Winter 2026,2026-01-01,198,tag,Energy,1,0.0051
 Winter 2026,2026-01-01,198,tag,Renewable Energy,1,0.0051
-Spring 2026,2026-04-01,197,industry,B2B,120,0.6091
-Spring 2026,2026-04-01,197,industry,Industrials,23,0.1168
-Spring 2026,2026-04-01,197,industry,Infrastructure,20,0.1015
-Spring 2026,2026-04-01,197,industry,Fintech,20,0.1015
-Spring 2026,2026-04-01,197,industry,Healthcare,17,0.0863
-Spring 2026,2026-04-01,197,industry,"Engineering, Product and Design",16,0.0812
-Spring 2026,2026-04-01,197,industry,Consumer,12,0.0609
-Spring 2026,2026-04-01,197,industry,Manufacturing and Robotics,11,0.0558
-Spring 2026,2026-04-01,197,industry,Operations,9,0.0457
-Spring 2026,2026-04-01,197,industry,Productivity,8,0.0406
-Spring 2026,2026-04-01,197,industry,Marketing,8,0.0406
-Spring 2026,2026-04-01,197,industry,Defense,6,0.0305
-Spring 2026,2026-04-01,197,industry,Supply Chain and Logistics,5,0.0254
-Spring 2026,2026-04-01,197,industry,Insurance,5,0.0254
-Spring 2026,2026-04-01,197,industry,Asset Management,5,0.0254
-Spring 2026,2026-04-01,197,industry,Real Estate and Construction,4,0.0203
-Spring 2026,2026-04-01,197,industry,Healthcare Services,4,0.0203
-Spring 2026,2026-04-01,197,industry,Payments,3,0.0152
-Spring 2026,2026-04-01,197,industry,Security,3,0.0152
-Spring 2026,2026-04-01,197,industry,Analytics,3,0.0152
-Spring 2026,2026-04-01,197,industry,Consumer Finance,3,0.0152
-Spring 2026,2026-04-01,197,industry,Recruiting and Talent,3,0.0152
-Spring 2026,2026-04-01,197,industry,Legal,2,0.0102
-Spring 2026,2026-04-01,197,industry,Energy,2,0.0102
-Spring 2026,2026-04-01,197,industry,Finance and Accounting,2,0.0102
-Spring 2026,2026-04-01,197,industry,Consumer Health and Wellness,2,0.0102
-Spring 2026,2026-04-01,197,industry,Aviation and Space,2,0.0102
-Spring 2026,2026-04-01,197,industry,Sales,2,0.0102
-Spring 2026,2026-04-01,197,industry,Gaming,2,0.0102
-Spring 2026,2026-04-01,197,industry,Drug Discovery and Delivery,1,0.0051
-Spring 2026,2026-04-01,197,industry,Diagnostics,1,0.0051
-Spring 2026,2026-04-01,197,industry,Consumer Electronics,1,0.0051
-Spring 2026,2026-04-01,197,industry,Housing and Real Estate,1,0.0051
-Spring 2026,2026-04-01,197,industry,Retail,1,0.0051
-Spring 2026,2026-04-01,197,industry,Therapeutics,1,0.0051
-Spring 2026,2026-04-01,197,industry,Government,1,0.0051
-Spring 2026,2026-04-01,197,industry,Industrial Bio,1,0.0051
-Spring 2026,2026-04-01,197,industry,Healthcare IT,1,0.0051
-Spring 2026,2026-04-01,197,industry,Medical Devices,1,0.0051
-Spring 2026,2026-04-01,197,industry,Drones,1,0.0051
-Spring 2026,2026-04-01,197,industry,Job and Career Services,1,0.0051
-Spring 2026,2026-04-01,197,industry,Construction,1,0.0051
-Spring 2026,2026-04-01,197,industry,Banking and Exchange,1,0.0051
-Spring 2026,2026-04-01,197,industry,Content,1,0.0051
-Spring 2026,2026-04-01,197,industry,Credit and Lending,1,0.0051
-Spring 2026,2026-04-01,197,region,United States of America,188,0.9543
-Spring 2026,2026-04-01,197,region,America / Canada,188,0.9543
-Spring 2026,2026-04-01,197,region,Remote,40,0.203
-Spring 2026,2026-04-01,197,region,Partly Remote,33,0.1675
-Spring 2026,2026-04-01,197,region,Fully Remote,7,0.0355
-Spring 2026,2026-04-01,197,region,Unspecified,4,0.0203
-Spring 2026,2026-04-01,197,region,United Kingdom,3,0.0152
-Spring 2026,2026-04-01,197,region,Europe,3,0.0152
-Spring 2026,2026-04-01,197,status,Active,197,1.0
-Spring 2026,2026-04-01,197,tag,Artificial Intelligence,10,0.0508
-Spring 2026,2026-04-01,197,tag,AI,9,0.0457
-Spring 2026,2026-04-01,197,tag,B2B,6,0.0305
-Spring 2026,2026-04-01,197,tag,Robotics,4,0.0203
-Spring 2026,2026-04-01,197,tag,SaaS,4,0.0203
-Spring 2026,2026-04-01,197,tag,Developer Tools,4,0.0203
-Spring 2026,2026-04-01,197,tag,Infrastructure,3,0.0152
-Spring 2026,2026-04-01,197,tag,Consumer,3,0.0152
-Spring 2026,2026-04-01,197,tag,Hardware,2,0.0102
-Spring 2026,2026-04-01,197,tag,Hard Tech,2,0.0102
-Spring 2026,2026-04-01,197,tag,Defense,2,0.0102
-Spring 2026,2026-04-01,197,tag,AI Assistant,2,0.0102
-Spring 2026,2026-04-01,197,tag,Automation,2,0.0102
-Spring 2026,2026-04-01,197,tag,Web Development,2,0.0102
-Spring 2026,2026-04-01,197,tag,E-commerce,2,0.0102
-Spring 2026,2026-04-01,197,tag,Manufacturing,1,0.0051
-Spring 2026,2026-04-01,197,tag,Crypto / Web3,1,0.0051
-Spring 2026,2026-04-01,197,tag,Neobank,1,0.0051
-Spring 2026,2026-04-01,197,tag,Semiconductors,1,0.0051
-Spring 2026,2026-04-01,197,tag,Recruiting,1,0.0051
-Spring 2026,2026-04-01,197,tag,Messaging,1,0.0051
-Spring 2026,2026-04-01,197,tag,Sales Enablement,1,0.0051
-Spring 2026,2026-04-01,197,tag,Deep Learning,1,0.0051
-Spring 2026,2026-04-01,197,tag,ML,1,0.0051
-Spring 2026,2026-04-01,197,tag,Gene Therapy,1,0.0051
-Spring 2026,2026-04-01,197,tag,Therapeutics,1,0.0051
-Spring 2026,2026-04-01,197,tag,Genetic Engineering,1,0.0051
-Spring 2026,2026-04-01,197,tag,GovTech,1,0.0051
-Spring 2026,2026-04-01,197,tag,Crowdsourcing,1,0.0051
-Spring 2026,2026-04-01,197,tag,Big Data,1,0.0051
-Spring 2026,2026-04-01,197,tag,Digital Health,1,0.0051
-Spring 2026,2026-04-01,197,tag,Health & Wellness,1,0.0051
-Spring 2026,2026-04-01,197,tag,Biotech,1,0.0051
-Spring 2026,2026-04-01,197,tag,Compliance,1,0.0051
-Spring 2026,2026-04-01,197,tag,Trust & Safety,1,0.0051
-Spring 2026,2026-04-01,197,tag,Market Research,1,0.0051
-Spring 2026,2026-04-01,197,tag,Healthcare,1,0.0051
-Spring 2026,2026-04-01,197,tag,Healthcare IT,1,0.0051
-Spring 2026,2026-04-01,197,tag,Chat,1,0.0051
-Spring 2026,2026-04-01,197,tag,Robotic Process Automation,1,0.0051
-Spring 2026,2026-04-01,197,tag,Enterprise,1,0.0051
-Spring 2026,2026-04-01,197,tag,Drones,1,0.0051
-Spring 2026,2026-04-01,197,tag,Aerospace,1,0.0051
-Spring 2026,2026-04-01,197,tag,Gaming,1,0.0051
-Spring 2026,2026-04-01,197,tag,Social,1,0.0051
-Spring 2026,2026-04-01,197,tag,Advertising,1,0.0051
-Spring 2026,2026-04-01,197,tag,Human Resources,1,0.0051
-Spring 2026,2026-04-01,197,tag,HR Tech,1,0.0051
-Spring 2026,2026-04-01,197,tag,API,1,0.0051
-Spring 2026,2026-04-01,197,tag,Enterprise Software,1,0.0051
-Spring 2026,2026-04-01,197,tag,DevSecOps,1,0.0051
-Spring 2026,2026-04-01,197,tag,Security,1,0.0051
-Spring 2026,2026-04-01,197,tag,Fintech,1,0.0051
-Spring 2026,2026-04-01,197,tag,Payments,1,0.0051
-Spring 2026,2026-04-01,197,tag,Open Source,1,0.0051
-Summer 2026,2026-07-01,76,industry,B2B,40,0.5263
-Summer 2026,2026-07-01,76,industry,Industrials,17,0.2237
-Summer 2026,2026-07-01,76,industry,Infrastructure,16,0.2105
-Summer 2026,2026-07-01,76,industry,Healthcare,7,0.0921
-Summer 2026,2026-07-01,76,industry,Fintech,6,0.0789
-Summer 2026,2026-07-01,76,industry,Manufacturing and Robotics,5,0.0658
-Summer 2026,2026-07-01,76,industry,Defense,4,0.0526
-Summer 2026,2026-07-01,76,industry,Real Estate and Construction,3,0.0395
-Summer 2026,2026-07-01,76,industry,Productivity,2,0.0263
-Summer 2026,2026-07-01,76,industry,"Engineering, Product and Design",2,0.0263
-Summer 2026,2026-07-01,76,industry,Housing and Real Estate,2,0.0263
-Summer 2026,2026-07-01,76,industry,Operations,1,0.0132
-Summer 2026,2026-07-01,76,industry,Drug Discovery and Delivery,1,0.0132
-Summer 2026,2026-07-01,76,industry,Education,1,0.0132
-Summer 2026,2026-07-01,76,industry,Consumer Finance,1,0.0132
-Summer 2026,2026-07-01,76,industry,Healthcare IT,1,0.0132
-Summer 2026,2026-07-01,76,industry,Asset Management,1,0.0132
-Summer 2026,2026-07-01,76,industry,Construction,1,0.0132
-Summer 2026,2026-07-01,76,industry,Agriculture,1,0.0132
-Summer 2026,2026-07-01,76,industry,Security,1,0.0132
-Summer 2026,2026-07-01,76,industry,Retail,1,0.0132
-Summer 2026,2026-07-01,76,industry,Finance and Accounting,1,0.0132
-Summer 2026,2026-07-01,76,industry,Climate,1,0.0132
-Summer 2026,2026-07-01,76,industry,Insurance,1,0.0132
-Summer 2026,2026-07-01,76,industry,Recruiting and Talent,1,0.0132
-Summer 2026,2026-07-01,76,industry,Consumer,1,0.0132
-Summer 2026,2026-07-01,76,industry,Job and Career Services,1,0.0132
-Summer 2026,2026-07-01,76,industry,Government,1,0.0132
-Summer 2026,2026-07-01,76,industry,Supply Chain and Logistics,1,0.0132
-Summer 2026,2026-07-01,76,region,America / Canada,71,0.9342
-Summer 2026,2026-07-01,76,region,United States of America,70,0.9211
-Summer 2026,2026-07-01,76,region,Remote,6,0.0789
-Summer 2026,2026-07-01,76,region,Partly Remote,5,0.0658
-Summer 2026,2026-07-01,76,region,Europe,3,0.0395
-Summer 2026,2026-07-01,76,region,United Kingdom,2,0.0263
-Summer 2026,2026-07-01,76,region,Unspecified,1,0.0132
-Summer 2026,2026-07-01,76,region,Australia,1,0.0132
-Summer 2026,2026-07-01,76,region,Oceania,1,0.0132
-Summer 2026,2026-07-01,76,region,Canada,1,0.0132
-Summer 2026,2026-07-01,76,region,Fully Remote,1,0.0132
-Summer 2026,2026-07-01,76,region,Sweden,1,0.0132
-Summer 2026,2026-07-01,76,status,Active,76,1.0
-Summer 2026,2026-07-01,76,tag,AI,23,0.3026
-Summer 2026,2026-07-01,76,tag,Artificial Intelligence,21,0.2763
-Summer 2026,2026-07-01,76,tag,B2B,18,0.2368
-Summer 2026,2026-07-01,76,tag,SaaS,12,0.1579
-Summer 2026,2026-07-01,76,tag,Robotics,8,0.1053
-Summer 2026,2026-07-01,76,tag,Hard Tech,8,0.1053
-Summer 2026,2026-07-01,76,tag,Developer Tools,8,0.1053
-Summer 2026,2026-07-01,76,tag,Workflow Automation,7,0.0921
-Summer 2026,2026-07-01,76,tag,Infrastructure,6,0.0789
-Summer 2026,2026-07-01,76,tag,Hardware,5,0.0658
-Summer 2026,2026-07-01,76,tag,Fintech,3,0.0395
-Summer 2026,2026-07-01,76,tag,Generative AI,3,0.0395
-Summer 2026,2026-07-01,76,tag,Manufacturing,3,0.0395
-Summer 2026,2026-07-01,76,tag,Enterprise Software,3,0.0395
-Summer 2026,2026-07-01,76,tag,AI Assistant,2,0.0263
-Summer 2026,2026-07-01,76,tag,Compliance,2,0.0263
-Summer 2026,2026-07-01,76,tag,Healthcare,2,0.0263
-Summer 2026,2026-07-01,76,tag,AIOps,2,0.0263
-Summer 2026,2026-07-01,76,tag,Search,2,0.0263
-Summer 2026,2026-07-01,76,tag,Industrial,2,0.0263
-Summer 2026,2026-07-01,76,tag,Construction,2,0.0263
-Summer 2026,2026-07-01,76,tag,Healthcare IT,2,0.0263
-Summer 2026,2026-07-01,76,tag,Health Tech,2,0.0263
-Summer 2026,2026-07-01,76,tag,Defense,2,0.0263
-Summer 2026,2026-07-01,76,tag,Supply Chain,2,0.0263
-Summer 2026,2026-07-01,76,tag,Data Labeling,2,0.0263
-Summer 2026,2026-07-01,76,tag,Automation,2,0.0263
-Summer 2026,2026-07-01,76,tag,GovTech,2,0.0263
-Summer 2026,2026-07-01,76,tag,Market Research,2,0.0263
-Summer 2026,2026-07-01,76,tag,Reinforcement Learning,2,0.0263
-Summer 2026,2026-07-01,76,tag,Data Engineering,2,0.0263
-Summer 2026,2026-07-01,76,tag,Climate,2,0.0263
-Summer 2026,2026-07-01,76,tag,Machine Learning,2,0.0263
-Summer 2026,2026-07-01,76,tag,Marketplace,2,0.0263
-Summer 2026,2026-07-01,76,tag,Insurance,2,0.0263
-Summer 2026,2026-07-01,76,tag,Productivity,2,0.0263
-Summer 2026,2026-07-01,76,tag,Enterprise,2,0.0263
-Summer 2026,2026-07-01,76,tag,Big Data,1,0.0132
-Summer 2026,2026-07-01,76,tag,Advanced Materials,1,0.0132
-Summer 2026,2026-07-01,76,tag,Customer Success,1,0.0132
-Summer 2026,2026-07-01,76,tag,API,1,0.0132
-Summer 2026,2026-07-01,76,tag,AI-powered Drug Discovery,1,0.0132
-Summer 2026,2026-07-01,76,tag,Drug discovery,1,0.0132
-Summer 2026,2026-07-01,76,tag,Biotechnology,1,0.0132
-Summer 2026,2026-07-01,76,tag,AI-Enhanced Learning,1,0.0132
-Summer 2026,2026-07-01,76,tag,Education,1,0.0132
-Summer 2026,2026-07-01,76,tag,eLearning,1,0.0132
-Summer 2026,2026-07-01,76,tag,Personalization,1,0.0132
-Summer 2026,2026-07-01,76,tag,Consumer,1,0.0132
-Summer 2026,2026-07-01,76,tag,Security,1,0.0132
-Summer 2026,2026-07-01,76,tag,APIs,1,0.0132
-Summer 2026,2026-07-01,76,tag,Monitoring,1,0.0132
-Summer 2026,2026-07-01,76,tag,Aerospace,1,0.0132
-Summer 2026,2026-07-01,76,tag,Consumer Health Services,1,0.0132
-Summer 2026,2026-07-01,76,tag,Dental,1,0.0132
-Summer 2026,2026-07-01,76,tag,Customer Support,1,0.0132
-Summer 2026,2026-07-01,76,tag,Deep Learning,1,0.0132
-Summer 2026,2026-07-01,76,tag,Energy,1,0.0132
-Summer 2026,2026-07-01,76,tag,Consumer Finance,1,0.0132
-Summer 2026,2026-07-01,76,tag,Medical Devices,1,0.0132
-Summer 2026,2026-07-01,76,tag,Digital Health,1,0.0132
-Summer 2026,2026-07-01,76,tag,Procurement,1,0.0132
-Summer 2026,2026-07-01,76,tag,Banking as a Service,1,0.0132
-Summer 2026,2026-07-01,76,tag,Finance,1,0.0132
-Summer 2026,2026-07-01,76,tag,Neobank,1,0.0132
-Summer 2026,2026-07-01,76,tag,Drones,1,0.0132
-Summer 2026,2026-07-01,76,tag,DevSecOps,1,0.0132
-Summer 2026,2026-07-01,76,tag,Swarm Robotics,1,0.0132
-Summer 2026,2026-07-01,76,tag,Unmanned Vehicle,1,0.0132
-Summer 2026,2026-07-01,76,tag,Investing,1,0.0132
-Summer 2026,2026-07-01,76,tag,Lending,1,0.0132
-Summer 2026,2026-07-01,76,tag,Investments,1,0.0132
-Summer 2026,2026-07-01,76,tag,Cloud Computing,1,0.0132
-Summer 2026,2026-07-01,76,tag,Geographic Information System,1,0.0132
-Summer 2026,2026-07-01,76,tag,Location-based,1,0.0132
-Summer 2026,2026-07-01,76,tag,Synthetic Biology,1,0.0132
-Summer 2026,2026-07-01,76,tag,Biotech,1,0.0132
-Summer 2026,2026-07-01,76,tag,Sustainability,1,0.0132
-Summer 2026,2026-07-01,76,tag,Agriculture,1,0.0132
-Summer 2026,2026-07-01,76,tag,Cybersecurity,1,0.0132
-Summer 2026,2026-07-01,76,tag,Computer Vision,1,0.0132
-Summer 2026,2026-07-01,76,tag,Sales Enablement,1,0.0132
-Summer 2026,2026-07-01,76,tag,LegalTech,1,0.0132
-Summer 2026,2026-07-01,76,tag,Logistics,1,0.0132
-Summer 2026,2026-07-01,76,tag,E-commerce,1,0.0132
-Summer 2026,2026-07-01,76,tag,Retail,1,0.0132
-Summer 2026,2026-07-01,76,tag,Neurotechnology,1,0.0132
-Summer 2026,2026-07-01,76,tag,Robotic Process Automation,1,0.0132
-Summer 2026,2026-07-01,76,tag,Health Insurance,1,0.0132
-Summer 2026,2026-07-01,76,tag,Real Estate,1,0.0132
-Summer 2026,2026-07-01,76,tag,Smart Waste Management,1,0.0132
-Summer 2026,2026-07-01,76,tag,Alternative Fuels,1,0.0132
-Summer 2026,2026-07-01,76,tag,Renewable Energy,1,0.0132
-Summer 2026,2026-07-01,76,tag,ClimateTech,1,0.0132
-Summer 2026,2026-07-01,76,tag,Open Source,1,0.0132
-Summer 2026,2026-07-01,76,tag,Conversational AI,1,0.0132
-Summer 2026,2026-07-01,76,tag,Careers,1,0.0132
-Summer 2026,2026-07-01,76,tag,Restaurant Tech,1,0.0132
-Summer 2026,2026-07-01,76,tag,Home Services,1,0.0132
+Spring 2026,2026-04-01,196,industry,B2B,118,0.602
+Spring 2026,2026-04-01,196,industry,Industrials,23,0.1173
+Spring 2026,2026-04-01,196,industry,Infrastructure,20,0.102
+Spring 2026,2026-04-01,196,industry,Fintech,20,0.102
+Spring 2026,2026-04-01,196,industry,Healthcare,17,0.0867
+Spring 2026,2026-04-01,196,industry,"Engineering, Product and Design",16,0.0816
+Spring 2026,2026-04-01,196,industry,Consumer,13,0.0663
+Spring 2026,2026-04-01,196,industry,Manufacturing and Robotics,11,0.0561
+Spring 2026,2026-04-01,196,industry,Productivity,8,0.0408
+Spring 2026,2026-04-01,196,industry,Operations,8,0.0408
+Spring 2026,2026-04-01,196,industry,Marketing,8,0.0408
+Spring 2026,2026-04-01,196,industry,Defense,6,0.0306
+Spring 2026,2026-04-01,196,industry,Supply Chain and Logistics,5,0.0255
+Spring 2026,2026-04-01,196,industry,Insurance,5,0.0255
+Spring 2026,2026-04-01,196,industry,Asset Management,5,0.0255
+Spring 2026,2026-04-01,196,industry,Real Estate and Construction,4,0.0204
+Spring 2026,2026-04-01,196,industry,Healthcare Services,4,0.0204
+Spring 2026,2026-04-01,196,industry,Payments,3,0.0153
+Spring 2026,2026-04-01,196,industry,Security,3,0.0153
+Spring 2026,2026-04-01,196,industry,Consumer Finance,3,0.0153
+Spring 2026,2026-04-01,196,industry,Recruiting and Talent,3,0.0153
+Spring 2026,2026-04-01,196,industry,Legal,2,0.0102
+Spring 2026,2026-04-01,196,industry,Consumer Electronics,2,0.0102
+Spring 2026,2026-04-01,196,industry,Energy,2,0.0102
+Spring 2026,2026-04-01,196,industry,Finance and Accounting,2,0.0102
+Spring 2026,2026-04-01,196,industry,Consumer Health and Wellness,2,0.0102
+Spring 2026,2026-04-01,196,industry,Aviation and Space,2,0.0102
+Spring 2026,2026-04-01,196,industry,Analytics,2,0.0102
+Spring 2026,2026-04-01,196,industry,Sales,2,0.0102
+Spring 2026,2026-04-01,196,industry,Gaming,2,0.0102
+Spring 2026,2026-04-01,196,industry,Drug Discovery and Delivery,1,0.0051
+Spring 2026,2026-04-01,196,industry,Diagnostics,1,0.0051
+Spring 2026,2026-04-01,196,industry,Housing and Real Estate,1,0.0051
+Spring 2026,2026-04-01,196,industry,Retail,1,0.0051
+Spring 2026,2026-04-01,196,industry,Therapeutics,1,0.0051
+Spring 2026,2026-04-01,196,industry,Government,1,0.0051
+Spring 2026,2026-04-01,196,industry,Industrial Bio,1,0.0051
+Spring 2026,2026-04-01,196,industry,Healthcare IT,1,0.0051
+Spring 2026,2026-04-01,196,industry,Medical Devices,1,0.0051
+Spring 2026,2026-04-01,196,industry,Drones,1,0.0051
+Spring 2026,2026-04-01,196,industry,Job and Career Services,1,0.0051
+Spring 2026,2026-04-01,196,industry,Construction,1,0.0051
+Spring 2026,2026-04-01,196,industry,Banking and Exchange,1,0.0051
+Spring 2026,2026-04-01,196,industry,Content,1,0.0051
+Spring 2026,2026-04-01,196,industry,Credit and Lending,1,0.0051
+Spring 2026,2026-04-01,196,region,United States of America,188,0.9592
+Spring 2026,2026-04-01,196,region,America / Canada,188,0.9592
+Spring 2026,2026-04-01,196,region,Remote,40,0.2041
+Spring 2026,2026-04-01,196,region,Partly Remote,33,0.1684
+Spring 2026,2026-04-01,196,region,Fully Remote,7,0.0357
+Spring 2026,2026-04-01,196,region,Europe,4,0.0204
+Spring 2026,2026-04-01,196,region,United Kingdom,3,0.0153
+Spring 2026,2026-04-01,196,region,Unspecified,2,0.0102
+Spring 2026,2026-04-01,196,region,Sweden,1,0.0051
+Spring 2026,2026-04-01,196,status,Active,196,1.0
+Spring 2026,2026-04-01,196,tag,AI,11,0.0561
+Spring 2026,2026-04-01,196,tag,Artificial Intelligence,11,0.0561
+Spring 2026,2026-04-01,196,tag,B2B,8,0.0408
+Spring 2026,2026-04-01,196,tag,Developer Tools,5,0.0255
+Spring 2026,2026-04-01,196,tag,SaaS,5,0.0255
+Spring 2026,2026-04-01,196,tag,Robotics,4,0.0204
+Spring 2026,2026-04-01,196,tag,Hard Tech,4,0.0204
+Spring 2026,2026-04-01,196,tag,Consumer,4,0.0204
+Spring 2026,2026-04-01,196,tag,Hardware,3,0.0153
+Spring 2026,2026-04-01,196,tag,Infrastructure,3,0.0153
+Spring 2026,2026-04-01,196,tag,Enterprise Software,2,0.0102
+Spring 2026,2026-04-01,196,tag,Defense,2,0.0102
+Spring 2026,2026-04-01,196,tag,AI Assistant,2,0.0102
+Spring 2026,2026-04-01,196,tag,Biotech,2,0.0102
+Spring 2026,2026-04-01,196,tag,Automation,2,0.0102
+Spring 2026,2026-04-01,196,tag,Fintech,2,0.0102
+Spring 2026,2026-04-01,196,tag,E-commerce,2,0.0102
+Spring 2026,2026-04-01,196,tag,Enterprise,2,0.0102
+Spring 2026,2026-04-01,196,tag,Aerospace,2,0.0102
+Spring 2026,2026-04-01,196,tag,Manufacturing,1,0.0051
+Spring 2026,2026-04-01,196,tag,Cloud Computing,1,0.0051
+Spring 2026,2026-04-01,196,tag,Crypto / Web3,1,0.0051
+Spring 2026,2026-04-01,196,tag,Neobank,1,0.0051
+Spring 2026,2026-04-01,196,tag,Semiconductors,1,0.0051
+Spring 2026,2026-04-01,196,tag,Recruiting,1,0.0051
+Spring 2026,2026-04-01,196,tag,Messaging,1,0.0051
+Spring 2026,2026-04-01,196,tag,Sales Enablement,1,0.0051
+Spring 2026,2026-04-01,196,tag,Deep Learning,1,0.0051
+Spring 2026,2026-04-01,196,tag,ML,1,0.0051
+Spring 2026,2026-04-01,196,tag,Gene Therapy,1,0.0051
+Spring 2026,2026-04-01,196,tag,Therapeutics,1,0.0051
+Spring 2026,2026-04-01,196,tag,Genetic Engineering,1,0.0051
+Spring 2026,2026-04-01,196,tag,GovTech,1,0.0051
+Spring 2026,2026-04-01,196,tag,Insurance,1,0.0051
+Spring 2026,2026-04-01,196,tag,Crowdsourcing,1,0.0051
+Spring 2026,2026-04-01,196,tag,Big Data,1,0.0051
+Spring 2026,2026-04-01,196,tag,Digital Health,1,0.0051
+Spring 2026,2026-04-01,196,tag,Health & Wellness,1,0.0051
+Spring 2026,2026-04-01,196,tag,Compliance,1,0.0051
+Spring 2026,2026-04-01,196,tag,Web Development,1,0.0051
+Spring 2026,2026-04-01,196,tag,Trust & Safety,1,0.0051
+Spring 2026,2026-04-01,196,tag,Market Research,1,0.0051
+Spring 2026,2026-04-01,196,tag,Healthcare,1,0.0051
+Spring 2026,2026-04-01,196,tag,Healthcare IT,1,0.0051
+Spring 2026,2026-04-01,196,tag,Chat,1,0.0051
+Spring 2026,2026-04-01,196,tag,Telecommunications,1,0.0051
+Spring 2026,2026-04-01,196,tag,Robotic Process Automation,1,0.0051
+Spring 2026,2026-04-01,196,tag,Drones,1,0.0051
+Spring 2026,2026-04-01,196,tag,Gaming,1,0.0051
+Spring 2026,2026-04-01,196,tag,Social,1,0.0051
+Spring 2026,2026-04-01,196,tag,Advertising,1,0.0051
+Spring 2026,2026-04-01,196,tag,Human Resources,1,0.0051
+Spring 2026,2026-04-01,196,tag,HR Tech,1,0.0051
+Spring 2026,2026-04-01,196,tag,API,1,0.0051
+Spring 2026,2026-04-01,196,tag,DevSecOps,1,0.0051
+Spring 2026,2026-04-01,196,tag,Security,1,0.0051
+Spring 2026,2026-04-01,196,tag,Payments,1,0.0051
+Spring 2026,2026-04-01,196,tag,Open Source,1,0.0051
+Summer 2026,2026-07-01,116,industry,B2B,68,0.5862
+Summer 2026,2026-07-01,116,industry,Industrials,24,0.2069
+Summer 2026,2026-07-01,116,industry,Infrastructure,17,0.1466
+Summer 2026,2026-07-01,116,industry,Healthcare,8,0.069
+Summer 2026,2026-07-01,116,industry,Manufacturing and Robotics,7,0.0603
+Summer 2026,2026-07-01,116,industry,"Engineering, Product and Design",7,0.0603
+Summer 2026,2026-07-01,116,industry,Fintech,5,0.0431
+Summer 2026,2026-07-01,116,industry,Real Estate and Construction,5,0.0431
+Summer 2026,2026-07-01,116,industry,Defense,5,0.0431
+Summer 2026,2026-07-01,116,industry,Productivity,5,0.0431
+Summer 2026,2026-07-01,116,industry,Operations,4,0.0345
+Summer 2026,2026-07-01,116,industry,Consumer,4,0.0345
+Summer 2026,2026-07-01,116,industry,Construction,3,0.0259
+Summer 2026,2026-07-01,116,industry,Security,3,0.0259
+Summer 2026,2026-07-01,116,industry,Finance and Accounting,2,0.0172
+Summer 2026,2026-07-01,116,industry,Supply Chain and Logistics,2,0.0172
+Summer 2026,2026-07-01,116,industry,Job and Career Services,2,0.0172
+Summer 2026,2026-07-01,116,industry,Housing and Real Estate,2,0.0172
+Summer 2026,2026-07-01,116,industry,Analytics,1,0.0086
+Summer 2026,2026-07-01,116,industry,Drug Discovery and Delivery,1,0.0086
+Summer 2026,2026-07-01,116,industry,Education,1,0.0086
+Summer 2026,2026-07-01,116,industry,Healthcare IT,1,0.0086
+Summer 2026,2026-07-01,116,industry,Asset Management,1,0.0086
+Summer 2026,2026-07-01,116,industry,Consumer Health and Wellness,1,0.0086
+Summer 2026,2026-07-01,116,industry,Gaming,1,0.0086
+Summer 2026,2026-07-01,116,industry,Energy,1,0.0086
+Summer 2026,2026-07-01,116,industry,Recruiting and Talent,1,0.0086
+Summer 2026,2026-07-01,116,industry,Agriculture,1,0.0086
+Summer 2026,2026-07-01,116,industry,Retail,1,0.0086
+Summer 2026,2026-07-01,116,industry,Climate,1,0.0086
+Summer 2026,2026-07-01,116,industry,Insurance,1,0.0086
+Summer 2026,2026-07-01,116,industry,Aviation and Space,1,0.0086
+Summer 2026,2026-07-01,116,industry,Government,1,0.0086
+Summer 2026,2026-07-01,116,region,America / Canada,110,0.9483
+Summer 2026,2026-07-01,116,region,United States of America,109,0.9397
+Summer 2026,2026-07-01,116,region,Remote,11,0.0948
+Summer 2026,2026-07-01,116,region,Partly Remote,10,0.0862
+Summer 2026,2026-07-01,116,region,Europe,3,0.0259
+Summer 2026,2026-07-01,116,region,Australia,2,0.0172
+Summer 2026,2026-07-01,116,region,Oceania,2,0.0172
+Summer 2026,2026-07-01,116,region,Canada,1,0.0086
+Summer 2026,2026-07-01,116,region,Fully Remote,1,0.0086
+Summer 2026,2026-07-01,116,region,France,1,0.0086
+Summer 2026,2026-07-01,116,region,Unspecified,1,0.0086
+Summer 2026,2026-07-01,116,region,Sweden,1,0.0086
+Summer 2026,2026-07-01,116,region,United Kingdom,1,0.0086
+Summer 2026,2026-07-01,116,status,Active,116,1.0
+Summer 2026,2026-07-01,116,tag,AI,42,0.3621
+Summer 2026,2026-07-01,116,tag,Artificial Intelligence,32,0.2759
+Summer 2026,2026-07-01,116,tag,B2B,27,0.2328
+Summer 2026,2026-07-01,116,tag,SaaS,15,0.1293
+Summer 2026,2026-07-01,116,tag,Developer Tools,12,0.1034
+Summer 2026,2026-07-01,116,tag,Workflow Automation,11,0.0948
+Summer 2026,2026-07-01,116,tag,Robotics,9,0.0776
+Summer 2026,2026-07-01,116,tag,Hard Tech,9,0.0776
+Summer 2026,2026-07-01,116,tag,Enterprise Software,9,0.0776
+Summer 2026,2026-07-01,116,tag,Infrastructure,8,0.069
+Summer 2026,2026-07-01,116,tag,Manufacturing,7,0.0603
+Summer 2026,2026-07-01,116,tag,Hardware,6,0.0517
+Summer 2026,2026-07-01,116,tag,Construction,5,0.0431
+Summer 2026,2026-07-01,116,tag,Reinforcement Learning,5,0.0431
+Summer 2026,2026-07-01,116,tag,Finance,5,0.0431
+Summer 2026,2026-07-01,116,tag,Fintech,4,0.0345
+Summer 2026,2026-07-01,116,tag,Generative AI,4,0.0345
+Summer 2026,2026-07-01,116,tag,Machine Learning,4,0.0345
+Summer 2026,2026-07-01,116,tag,Automation,4,0.0345
+Summer 2026,2026-07-01,116,tag,AIOps,4,0.0345
+Summer 2026,2026-07-01,116,tag,Enterprise,4,0.0345
+Summer 2026,2026-07-01,116,tag,Data Engineering,3,0.0259
+Summer 2026,2026-07-01,116,tag,AI Assistant,3,0.0259
+Summer 2026,2026-07-01,116,tag,Industrial,3,0.0259
+Summer 2026,2026-07-01,116,tag,Supply Chain,3,0.0259
+Summer 2026,2026-07-01,116,tag,Health Tech,3,0.0259
+Summer 2026,2026-07-01,116,tag,Robotic Process Automation,3,0.0259
+Summer 2026,2026-07-01,116,tag,Open Source,3,0.0259
+Summer 2026,2026-07-01,116,tag,Monitoring,2,0.0172
+Summer 2026,2026-07-01,116,tag,Customer Success,2,0.0172
+Summer 2026,2026-07-01,116,tag,Semiconductors,2,0.0172
+Summer 2026,2026-07-01,116,tag,Healthcare,2,0.0172
+Summer 2026,2026-07-01,116,tag,Search,2,0.0172
+Summer 2026,2026-07-01,116,tag,Security,2,0.0172
+Summer 2026,2026-07-01,116,tag,APIs,2,0.0172
+Summer 2026,2026-07-01,116,tag,Aerospace,2,0.0172
+Summer 2026,2026-07-01,116,tag,Healthcare IT,2,0.0172
+Summer 2026,2026-07-01,116,tag,Logistics,2,0.0172
+Summer 2026,2026-07-01,116,tag,Drones,2,0.0172
+Summer 2026,2026-07-01,116,tag,Swarm Robotics,2,0.0172
+Summer 2026,2026-07-01,116,tag,Deep Learning,2,0.0172
+Summer 2026,2026-07-01,116,tag,Energy,2,0.0172
+Summer 2026,2026-07-01,116,tag,Consumer Finance,2,0.0172
+Summer 2026,2026-07-01,116,tag,Cybersecurity,2,0.0172
+Summer 2026,2026-07-01,116,tag,Defense,2,0.0172
+Summer 2026,2026-07-01,116,tag,Cloud Computing,2,0.0172
+Summer 2026,2026-07-01,116,tag,Biotech,2,0.0172
+Summer 2026,2026-07-01,116,tag,Data Labeling,2,0.0172
+Summer 2026,2026-07-01,116,tag,Gaming,2,0.0172
+Summer 2026,2026-07-01,116,tag,GovTech,2,0.0172
+Summer 2026,2026-07-01,116,tag,Investing,2,0.0172
+Summer 2026,2026-07-01,116,tag,Market Research,2,0.0172
+Summer 2026,2026-07-01,116,tag,Sustainability,2,0.0172
+Summer 2026,2026-07-01,116,tag,Conversational AI,2,0.0172
+Summer 2026,2026-07-01,116,tag,Insurance,2,0.0172
+Summer 2026,2026-07-01,116,tag,Productivity,2,0.0172
+Summer 2026,2026-07-01,116,tag,Real Estate,2,0.0172
+Summer 2026,2026-07-01,116,tag,Big Data,1,0.0086
+Summer 2026,2026-07-01,116,tag,Advanced Materials,1,0.0086
+Summer 2026,2026-07-01,116,tag,Analytics,1,0.0086
+Summer 2026,2026-07-01,116,tag,Data Science,1,0.0086
+Summer 2026,2026-07-01,116,tag,API,1,0.0086
+Summer 2026,2026-07-01,116,tag,AI-powered Drug Discovery,1,0.0086
+Summer 2026,2026-07-01,116,tag,Drug discovery,1,0.0086
+Summer 2026,2026-07-01,116,tag,Biotechnology,1,0.0086
+Summer 2026,2026-07-01,116,tag,Travel,1,0.0086
+Summer 2026,2026-07-01,116,tag,AI-Enhanced Learning,1,0.0086
+Summer 2026,2026-07-01,116,tag,Education,1,0.0086
+Summer 2026,2026-07-01,116,tag,eLearning,1,0.0086
+Summer 2026,2026-07-01,116,tag,Personalization,1,0.0086
+Summer 2026,2026-07-01,116,tag,Consumer Health Services,1,0.0086
+Summer 2026,2026-07-01,116,tag,Dental,1,0.0086
+Summer 2026,2026-07-01,116,tag,Customer Support,1,0.0086
+Summer 2026,2026-07-01,116,tag,AR,1,0.0086
+Summer 2026,2026-07-01,116,tag,Medical Devices,1,0.0086
+Summer 2026,2026-07-01,116,tag,Digital Health,1,0.0086
+Summer 2026,2026-07-01,116,tag,Procurement,1,0.0086
+Summer 2026,2026-07-01,116,tag,Banking as a Service,1,0.0086
+Summer 2026,2026-07-01,116,tag,Neobank,1,0.0086
+Summer 2026,2026-07-01,116,tag,Compliance,1,0.0086
+Summer 2026,2026-07-01,116,tag,DevSecOps,1,0.0086
+Summer 2026,2026-07-01,116,tag,Health & Wellness,1,0.0086
+Summer 2026,2026-07-01,116,tag,Unmanned Vehicle,1,0.0086
+Summer 2026,2026-07-01,116,tag,Lending,1,0.0086
+Summer 2026,2026-07-01,116,tag,Investments,1,0.0086
+Summer 2026,2026-07-01,116,tag,Solar Power,1,0.0086
+Summer 2026,2026-07-01,116,tag,Recruiting,1,0.0086
+Summer 2026,2026-07-01,116,tag,Talent Acquisition,1,0.0086
+Summer 2026,2026-07-01,116,tag,Geographic Information System,1,0.0086
+Summer 2026,2026-07-01,116,tag,Location-based,1,0.0086
+Summer 2026,2026-07-01,116,tag,Synthetic Biology,1,0.0086
+Summer 2026,2026-07-01,116,tag,Climate,1,0.0086
+Summer 2026,2026-07-01,116,tag,Agriculture,1,0.0086
+Summer 2026,2026-07-01,116,tag,Stocks,1,0.0086
+Summer 2026,2026-07-01,116,tag,Computer Vision,1,0.0086
+Summer 2026,2026-07-01,116,tag,Sales Enablement,1,0.0086
+Summer 2026,2026-07-01,116,tag,LegalTech,1,0.0086
+Summer 2026,2026-07-01,116,tag,Operations,1,0.0086
+Summer 2026,2026-07-01,116,tag,Video,1,0.0086
+Summer 2026,2026-07-01,116,tag,E-commerce,1,0.0086
+Summer 2026,2026-07-01,116,tag,Retail,1,0.0086
+Summer 2026,2026-07-01,116,tag,Neurotechnology,1,0.0086
+Summer 2026,2026-07-01,116,tag,Marketplace,1,0.0086
+Summer 2026,2026-07-01,116,tag,Careers,1,0.0086
+Summer 2026,2026-07-01,116,tag,Health Insurance,1,0.0086
+Summer 2026,2026-07-01,116,tag,Electronics,1,0.0086
+Summer 2026,2026-07-01,116,tag,Smart Waste Management,1,0.0086
+Summer 2026,2026-07-01,116,tag,Alternative Fuels,1,0.0086
+Summer 2026,2026-07-01,116,tag,Renewable Energy,1,0.0086
+Summer 2026,2026-07-01,116,tag,ClimateTech,1,0.0086
+Summer 2026,2026-07-01,116,tag,Airlines,1,0.0086
+Summer 2026,2026-07-01,116,tag,Augmented Reality,1,0.0086
+Summer 2026,2026-07-01,116,tag,Restaurant Tech,1,0.0086
+Summer 2026,2026-07-01,116,tag,ML,1,0.0086
+Summer 2026,2026-07-01,116,tag,Home Services,1,0.0086
 Fall 2026,2026-10-01,4,industry,B2B,3,0.75
 Fall 2026,2026-10-01,4,industry,Industrials,1,0.25
 Fall 2026,2026-10-01,4,industry,Drones,1,0.25
@@ -7003,11 +7075,12 @@ Fall 2026,2026-10-01,4,region,America / Canada,3,0.75
 Fall 2026,2026-10-01,4,region,United States of America,2,0.5
 Fall 2026,2026-10-01,4,region,Remote,1,0.25
 Fall 2026,2026-10-01,4,region,Fully Remote,1,0.25
-Fall 2026,2026-10-01,4,region,Unspecified,1,0.25
+Fall 2026,2026-10-01,4,region,Jordan,1,0.25
+Fall 2026,2026-10-01,4,region,Middle East and North Africa,1,0.25
 Fall 2026,2026-10-01,4,region,Canada,1,0.25
 Fall 2026,2026-10-01,4,status,Active,4,1.0
-Fall 2026,2026-10-01,4,tag,Artificial Intelligence,2,0.5
-Fall 2026,2026-10-01,4,tag,AI,2,0.5
+Fall 2026,2026-10-01,4,tag,AI,3,0.75
+Fall 2026,2026-10-01,4,tag,Artificial Intelligence,1,0.25
 Fall 2026,2026-10-01,4,tag,Hard Tech,1,0.25
 Fall 2026,2026-10-01,4,tag,Drones,1,0.25
 Fall 2026,2026-10-01,4,tag,Aerospace,1,0.25
