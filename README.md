@@ -44,7 +44,7 @@ YC_Analysis/
 
 ![YC tag composition over time: fintech and crypto cycles](figures/yc-tag-comp.png)
 
-Three shifts stand out across 6,020 companies and 50 batches:
+Three shifts stand out across 6,059 companies and 50 batches:
 
 - **AI went from theme to default.** From ~20% of each batch in Winter 2021 to over 60% by Winter 2024. "AI startup" is no longer a differentiator, it is the baseline.
 - **Consumer startups nearly disappeared.** From ~33% of batches in 2012 to 4–6% in 2026. B2B broke a decade of stability at ~45% and now represents two thirds of every batch.
@@ -149,7 +149,7 @@ The base dataset comes from **[yc-oss/api](https://github.com/yc-oss/api)**, an 
 
 Founder names and job openings are scraped from individual company pages on ycombinator.com.
 
-**Retrieval date:** July 7, 2026.
+**Retrieval date:** July 20, 2026.
 **Companies covered:** publicly launched companies only. Stealth companies and very recent batches appear only once YC publishes them.
 
 **Important caveat on tags:** tag coverage is complete for older batches but only ~20% filled for Winter 2026 and Spring 2026 at retrieval time. Industry classifications have 100% coverage across all 50 batches. Use `all_industries` for longitudinal comparisons.
