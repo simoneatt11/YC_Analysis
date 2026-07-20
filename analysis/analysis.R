@@ -10,7 +10,7 @@ library(ggrepel)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
-yc_data <- read.csv("../data/yc_2027_enriched.csv")
+yc_data <- read.csv("../data/yc_2026_enriched.csv")
 trends   <- read_csv("../data/yc_batch_trends.csv")
 
 # ── Setup ──────────────────────────────────────────────────────────────────
