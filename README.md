@@ -16,7 +16,7 @@ YC_Analysis/
 ├── .gitignore
 ├── data/
 │   ├── yc_batch_trends.csv          ← per-batch aggregated trends (main analysis input)
-│   └── yc_2027_enriched.csv         ← 6,000+ companies with founders & job openings
+│   └── yc_2026_enriched.csv         ← 6,000+ companies with founders & job openings
 ├── scripts/
 │   ├── build_dataset.py             ← builds both CSVs from the yc-oss/api mirror
 │   └── enrich_yc.py                 ← adds founders & job data by scraping YC pages
